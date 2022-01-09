@@ -37,3 +37,43 @@ http://l22.aminouras.xyz:80/live/88824570016/index.m3u8
 http://l22.aminouras.xyz:80/live/794812458/index.m3u8
 #EXTINF:-1,YACIN SPORT PREMIUM 3SD
 http://l22.aminouras.xyz:80/live/179885588/index.m3u8
+
+
+######################################################
+######################################################
+#EXTINF:-1,beIN Sports 1 Premium 
+http://174.138.184.166:25461/livesport_ios/livesport_android/13
+#EXTINF:-1,beIN Sports 2 Premium 
+http://174.138.184.166:25461/livesport_ios/livesport_android/14
+#EXTINF:-1,beIN Sports 3 Premium 
+http://174.138.184.166:25461/livesport_ios/livesport_android/15
+#EXTINF:-1,beIN Sports 1 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/16
+#EXTINF:-1,beIN Sports 2 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/17
+#EXTINF:-1,beIN Sports 3 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/18
+#EXTINF:-1,beIN Sports 4 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/19
+#EXTINF:-1,beIN Sports 5 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/20
+#EXTINF:-1,beIN Sports 1 Premium
+http://174.138.184.166:25461/livesport_ios/livesport_android/26
+#EXTINF:-1,beIN Sports 2 Premium
+http://174.138.184.166:25461/livesport_ios/livesport_android/27
+#EXTINF:-1,beIN Sports 3 Premium
+http://174.138.184.166:25461/livesport_ios/livesport_android/28
+#EXTINF:-1,beIN Sports 1 SD
+http://174.138.184.166:25461/livesport_ios/livesport_android/29
+#EXTINF:-1,beIN Sports 2 SD
+http://174.138.184.166:25461/livesport_ios/livesport_android/30
+#EXTINF:-1,beIN Sports 3 SD
+http://174.138.184.166:25461/livesport_ios/livesport_android/31
+#EXTINF:-1,beIN Sports 4 SD
+http://174.138.184.166:25461/livesport_ios/livesport_android/32
+#EXTINF:-1,beIN Sports 5 SD
+http://174.138.184.166:25461/livesport_ios/livesport_android/33
+#EXTINF:-1,beIN Sport XTRA 1 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/56
+#EXTINF:-1,beIN Sport XTRA 2 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/57
