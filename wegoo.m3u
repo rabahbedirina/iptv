@@ -1,27 +1,12 @@
 #EXTM3U 
+#####################################################
+#####################################################
+###########         BEIN STABLE          ############
+#####################################################
+#####################################################
 
-###################################
-##EXTINF:-1 ,BEIN SPORTS PREMIUM 1HD
-
-##EXTINF:-1 ,BEIN SPORTS PREMIUM 2HD
-
-##EXTINF:-1 ,BEIN SPORTS PREMIUM 3HD
-
-##EXTINF:-1 ,BEIN SPORTS 1HD
-
-##EXTINF:-1 ,BEIN SPORTS 2HD
-
-##EXTINF:-1 ,BEIN SPORTS 3HD
-
-##EXTINF:-1 ,BEIN SPORTS 4HD
-
-##EXTINF:-1 ,BEIN SPORTS 5HD
-
-#################################
 #EXTINF:-1 ,BEIN SPORTS News HD
-
 #EXTINF:-1 ,bein 4K
-
 #EXTINF:-1,BEIN SPORTS 1 PREMIUM 
 http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/m3u8/hls_m3u8_Bein-Prem-1-HEVC.m3u8
 #EXTINF:-1 ,BEIN SPORTS 2 PREMIUM 
@@ -33,42 +18,8 @@ http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 ,BEIN SPORTS 3 PREMIUM 
 http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
 
-##############################
-#EXTINF:-1,YACIN SPORTS MAX HD1
-http://m21.anfalrou.xyz:80/live/996256440/index.m3u8
-#EXTINF:-1,YACIN SPORTS MAX HD2
-http://m21.anfalrou.xyz:80/live/8800255521/index.m3u8
-#EXTINF:-1,YACIN SPORTS MAX HD3
-#EXTINF:-1,YACIN SPORTS MAX HD4
-#EXTINF:-1,YACIN SPORTS MAX HD5
-#EXTINF:-1,YACIN SPORTS MAX HD6
-#EXTINF:-1,YACIN SPORT PREMIUM 1HD
-http://m21.anfalrou.xyz:80/live/61616550012/index.m3u8
-#EXTINF:-1,YACIN SPORT PREMIUM 2HD
-http://m21.anfalrou.xyz:80/live/6161949878/index.m3u8
-#EXTINF:-1,YACIN SPORT PREMIUM 3HD
-http://m21.anfalrou.xyz:80/live/61512788878/index.m3u8
-#EXTINF:-1,YACIN SPORTS 1HD
-http://m21.anfalrou.xyz:80/live/918454578001/index.m3u8
-#EXTINF:-1,YACIN SPORTS 2HD
-http://m21.anfalrou.xyz:80/live/69854211/index.m3u8
-#EXTINF:-1,YACIN SPORTS 3HD
-http://m21.anfalrou.xyz:80/live/645587700/index.m3u8
-#EXTINF:-1,YACIN SPORTS 4HD
-http://m21.anfalrou.xyz:80/live/9787488847/index.m3u8
-#EXTINF:-1,YACIN SPORTS 5HD
-http://m21.anfalrou.xyz:80/live/610303030/index.m3u8
-#EXTINF:-1,YACIN SPORTS 6HD
-http://m21.anfalrou.xyz:80/live/1515000000/index.m3u8
-#EXTINF:-1,YACIN SPORTS 7HD
-http://m21.anfalrou.xyz:80/live/971001144/index.m3u8
+#####################################################
 
-
-#########################################
-
-
-
-###################################
 #EXTINF:-1 ,BEIN SPORTS 1 PREMIUM 
 http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BEIN SPORTS 2 PREMIUM 
@@ -81,21 +32,13 @@ http://belfast.dyndns.tv:5808/BEINHD1/tracks-v1a1/mono.m3u8
 http://belfast.dyndns.tv:5808/BEINHD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BEIN SPORTS 3 FR
 http://belfast.dyndns.tv:5808/BEINHD3/tracks-v1a1/mono.m3u8
-#################################
 
+#####################################################
 
-###################################
 #EXTINF:-1 ,BEIN SPORTS PREMIUM 1HD
 http://7b30f9aa.tvclub.xyz:80/iptv/SGME6W4L2A6MNZ/6131/index.m3u8
-##EXTINF:-1 ,BEIN SPORTS PREMIUM 2HD
-##EXTINF:-1 ,BEIN SPORTS PREMIUM 3HD
-##EXTINF:-1 ,BEIN SPORTS 1HD
-##EXTINF:-1 ,BEIN SPORTS 2HD
-##EXTINF:-1 ,BEIN SPORTS 3HD
-##EXTINF:-1 ,BEIN SPORTS 4HD
-##EXTINF:-1 ,BEIN SPORTS 5HD
 
-#################################
+#####################################################
 
 #EXTINF:-1 ,BEIN SPORTS 1 
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
@@ -116,15 +59,24 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:-1 ,BEIN SPORTS 3 FR
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
-#################################
-###################################
+#####################################################
+#####################################################
+#####################################################
+#####################################################
 
 
-#EXTINF:-1,beIN Sports Premium 1 HD
+#####################################################
+#####################################################
+###########          livesport           ############
+#####################################################
+#####################################################
+
+
+#EXTINF:-1,beIN Sports 1 Premium HD
 http://174.138.184.166:25461/livesport_ios/livesport_android/13
-#EXTINF:-1,beIN Sports Premium 2 HD
+#EXTINF:-1,beIN Sports 2 Premium HD
 http://174.138.184.166:25461/livesport_ios/livesport_android/14
-#EXTINF:-1,beIN Sports Premium 3 HD
+#EXTINF:-1,beIN Sports 3 Premium HD
 http://174.138.184.166:25461/livesport_ios/livesport_android/15
 #EXTINF:-1,beIN Sports 1 HD
 http://174.138.184.166:25461/livesport_ios/livesport_android/16
@@ -136,11 +88,11 @@ http://174.138.184.166:25461/livesport_ios/livesport_android/18
 http://174.138.184.166:25461/livesport_ios/livesport_android/19
 #EXTINF:-1,beIN Sports 5 HD
 http://174.138.184.166:25461/livesport_ios/livesport_android/20
-#EXTINF:-1,beIN Sports Premium 1 SD
+#EXTINF:-1,beIN Sports 1 Premium SD
 http://174.138.184.166:25461/livesport_ios/livesport_android/26
-#EXTINF:-1,beIN Sports Premium 2 SD
+#EXTINF:-1,beIN Sports 2 Premium SD
 http://174.138.184.166:25461/livesport_ios/livesport_android/27
-#EXTINF:-1,beIN Sports Premium 3 SD
+#EXTINF:-1,beIN Sports 3 Premium SD
 http://174.138.184.166:25461/livesport_ios/livesport_android/28
 #EXTINF:-1,beIN Sports 1 SD
 http://174.138.184.166:25461/livesport_ios/livesport_android/29
@@ -156,5 +108,344 @@ http://174.138.184.166:25461/livesport_ios/livesport_android/33
 http://174.138.184.166:25461/livesport_ios/livesport_android/56
 #EXTINF:-1,beIN Sport XTRA 2 HD
 http://174.138.184.166:25461/livesport_ios/livesport_android/57
+
+
+
+#####################################################
+#####################################################
+###########        allkaicerteam         ############
+#####################################################
+#####################################################
+
+
+
+#EXTINF:-1,•●★★--- beIN MAX---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3908
+#EXTINF:-1,Bein Sport Max 1 4K
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3919
+#EXTINF:-1,Bein Sport Max 2 4K
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3920
+#EXTINF:-1,Bein Sport Max 1 FHD backup
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3921
+#EXTINF:-1,Bein Sport Max 2 FHD backup
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3922
+#EXTINF:-1,Bein Sport Max 1 HD backup
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3923
+#EXTINF:-1,Bein Sport Max 2 HD backup  
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3924
+#EXTINF:-1,Bein Sport Max 1 SD backup
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3925
+#EXTINF:-1,Bein Sport Max 2 SD backup  
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3926
+#EXTINF:-1,BeIN Sport Max1 hevc 
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3909
+#EXTINF:-1,beIN SPORTS MAX1 FullHD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3898
+#EXTINF:-1,beIN SPORTS MAX2 FullHD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3899
+#EXTINF:-1,beIN SPORTS MAX1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3916
+#EXTINF:-1,beIN SPORTS MAX1 SD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3917
+#EXTINF:-1,beIN SPORTS MAX1 LOW
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3918
+#EXTINF:-1,BeIN Sport Max FHD 1 s2
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3910
+#EXTINF:-1,BeIN Sport Max FHD 2 s2
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3911
+#EXTINF:-1,BeIN Sport Max HD 1
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3912
+#EXTINF:-1,BeIN Sport Max HD 2
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3913
+#EXTINF:-1,BeIN Sport Max SD 1
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3914
+#EXTINF:-1,BeIN Sport Max SD 2
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3915
+
+#####################################################
+#####################################################
+
+
+#EXTINF:-1,•●★★--- beIN Sport Full HD ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3220
+#EXTINF:-1,beIN SPORTS 1 PREMIUM FullHD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3221
+#EXTINF:-1,beIN SPORTS 2 PREMIUM FullHD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3222
+#EXTINF:-1,beIN SPORTS 3 PREMIUM FullHD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3223
+#EXTINF:-1,beIN SPORTS FullHD1
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3224
+#EXTINF:-1,beIN SPORTS FullHD2
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3225
+#EXTINF:-1,beIN SPORTS FullHD3
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3226
+#EXTINF:-1,beIN SPORTS FullHD4
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3227
+#EXTINF:-1,beIN SPORTS FullHD5
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3228
+#EXTINF:-1,beIN SPORTS FullHD6
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3230
+#EXTINF:-1,beIN SPORTS FullHD7
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3229
+
+#####################################################
+#####################################################
+
+
+#EXTINF:-1,•●★★--- beIN SPORTS Hevc 265H ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3703
+#EXTINF:-1,beIN SPORTS 1 PREMIUM HEVC
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/459
+#EXTINF:-1,beIN SPORTS 2 PREMIUM HEVC
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/450
+#EXTINF:-1,beIN SPORTS 3 PREMIUM HEVC
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/451
+#EXTINF:-1,beIN SPORTS1 H265
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/452
+#EXTINF:-1,beIN SPORTS2 H265
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/453
+#EXTINF:-1,beIN SPORTS3 H265
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3875
+#EXTINF:-1,beIN SPORTS4 H265
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/455
+#EXTINF:-1,beIN SPORTS5 H265
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/456
+#EXTINF:-1,beIN SPORTS6 H265
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/457
+#EXTINF:-1,beIN SPORTS7 H265
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/458
+
+#####################################################
+#####################################################
+
+
+#EXTINF:-1,•●★★--- beIN SPORTS HD ---★★●•
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/117
+#EXTINF:-1,beIN SPORTS News
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/2051
+#EXTINF:-1,beIN SPORTS HD (Global)
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/960
+#EXTINF:-1,beIN Sport XTRA 1 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3620
+#EXTINF:-1,beIN Sport XTRA 2 HD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3621
+#EXTINF:-1,beIN SPORTS 1 PREMIUM HD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/46
+#EXTINF:-1,beIN SPORTS 2 PREMIUM HD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/47
+#EXTINF:-1,beIN SPORTS 3 PREMIUM HD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/48
+#EXTINF:-1,beIN SPORTS 1HD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/49
+#EXTINF:-1,beIN SPORTS 2HD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/50
+#EXTINF:-1,beIN SPORTS 3HD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/51
+#EXTINF:-1,beIN SPORTS 4HD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/52
+#EXTINF:-1,beIN SPORTS 5HD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/53
+#EXTINF:-1,beIN SPORTS 6HD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/54
+#EXTINF:-1,beIN SPORTS 7HD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/55
+#EXTINF:-1, beIN SPORTS 1 ENGLISH HD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3001
+#EXTINF:-1, beIN SPORTS 2 ENGLISH HD
+http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3002
+
+
+
+#####################################################
+#####################################################
+###########         JournalSat           ############
+#####################################################
+#####################################################
+
+
+#EXTINF:-1,beIN Sports Premium 1 HEVC
+http://iptv.journalsat.com:25461/989970462/journalsat/5
+#EXTINF:-1,beIN Sports Premium 2 HEVC
+http://iptv.journalsat.com:25461/989970462/journalsat/6
+#EXTINF:-1,beIN Sports Premium 3 HEVC
+http://iptv.journalsat.com:25461/989970462/journalsat/7
+#EXTINF:-1,beIN Sports 1 HEVC
+http://iptv.journalsat.com:25461/989970462/journalsat/8
+#EXTINF:-1,beIN Sports 2 HEVC
+http://iptv.journalsat.com:25461/989970462/journalsat/9
+#EXTINF:-1,beIN Sports 3  HEVC
+http://iptv.journalsat.com:25461/989970462/journalsat/10
+#EXTINF:-1,beIN Sports 4 HEVC
+http://iptv.journalsat.com:25461/989970462/journalsat/11
+#EXTINF:-1,beIN Sports 5  HEVC
+http://iptv.journalsat.com:25461/989970462/journalsat/12
+#EXTINF:-1,beIN Sports 6 HEVC
+http://iptv.journalsat.com:25461/989970462/journalsat/13
+#EXTINF:-1,beIN Sports 7 HEVC
+http://iptv.journalsat.com:25461/989970462/journalsat/14
+#EXTINF:-1,Bein Sport Max 1 4K
+http://iptv.journalsat.com:25461/989970462/journalsat/773
+#EXTINF:-1,Bein Sport Max 2 4K
+http://iptv.journalsat.com:25461/989970462/journalsat/774
+#EXTINF:-1,beIN SPORTS MAX1 FullHD
+http://iptv.journalsat.com:25461/989970462/journalsat/775
+#EXTINF:-1,beIN SPORTS MAX2 FullHD
+http://iptv.journalsat.com:25461/989970462/journalsat/776
+#EXTINF:-1,beIN SPORTS MAX1 HD
+http://iptv.journalsat.com:25461/989970462/journalsat/777
+#EXTINF:-1,beIN SPORTS MAX1 LOW
+http://iptv.journalsat.com:25461/989970462/journalsat/778
+#EXTINF:-1,BeIN Sport Max HD 1
+http://iptv.journalsat.com:25461/989970462/journalsat/779
+#EXTINF:-1,BeIN Sport Max HD 2
+http://iptv.journalsat.com:25461/989970462/journalsat/780
+#EXTINF:-1,BeIN Sport Max SD 2
+http://iptv.journalsat.com:25461/989970462/journalsat/781
+#EXTINF:-1,beIN Sport HD
+http://iptv.journalsat.com:25461/989970462/journalsat/15
+#EXTINF:-1,beIN sports News
+http://iptv.journalsat.com:25461/989970462/journalsat/16
+#EXTINF:-1,beIN Sports Premium HD1
+http://iptv.journalsat.com:25461/989970462/journalsat/17
+#EXTINF:-1,beIN Sports Premium HD2
+http://iptv.journalsat.com:25461/989970462/journalsat/18
+#EXTINF:-1,beIN Sports Premium HD3
+http://iptv.journalsat.com:25461/989970462/journalsat/19
+#EXTINF:-1,beIN SPORTS HD1
+http://iptv.journalsat.com:25461/989970462/journalsat/20
+#EXTINF:-1,beIN SPORTS HD2
+http://iptv.journalsat.com:25461/989970462/journalsat/21
+#EXTINF:-1,beIN SPORTS HD3
+http://iptv.journalsat.com:25461/989970462/journalsat/22
+#EXTINF:-1,beIN SPORTS HD4
+http://iptv.journalsat.com:25461/989970462/journalsat/23
+#EXTINF:-1,beIN SPORTS HD5
+http://iptv.journalsat.com:25461/989970462/journalsat/24
+#EXTINF:-1,beIN SPORTS HD6
+http://iptv.journalsat.com:25461/989970462/journalsat/25
+#EXTINF:-1,beIN SPORTS HD7
+http://iptv.journalsat.com:25461/989970462/journalsat/26
+#EXTINF:-1,beIN SPORTS ENGLISH 1
+http://iptv.journalsat.com:25461/989970462/journalsat/27
+#EXTINF:-1,beIN SPORTS ENGLISH 2
+http://iptv.journalsat.com:25461/989970462/journalsat/28
+#EXTINF:-1,beIN Sports Premium SD1
+http://iptv.journalsat.com:25461/989970462/journalsat/29
+#EXTINF:-1,beIN Sports Premium SD2
+http://iptv.journalsat.com:25461/989970462/journalsat/30
+#EXTINF:-1,beIN Sports Premium SD3
+http://iptv.journalsat.com:25461/989970462/journalsat/31
+#EXTINF:-1,beIN SPORTS SD1
+http://iptv.journalsat.com:25461/989970462/journalsat/32
+#EXTINF:-1,beIN SPORTS SD2
+http://iptv.journalsat.com:25461/989970462/journalsat/33
+#EXTINF:-1,beIN SPORTS SD3
+http://iptv.journalsat.com:25461/989970462/journalsat/34
+#EXTINF:-1,beIN SPORTS SD4
+http://iptv.journalsat.com:25461/989970462/journalsat/35
+#EXTINF:-1,beIN SPORTS SD5
+http://iptv.journalsat.com:25461/989970462/journalsat/36
+#EXTINF:-1,beIN SPORTS SD6
+http://iptv.journalsat.com:25461/989970462/journalsat/37
+#EXTINF:-1,beIN SPORTS SD7
+http://iptv.journalsat.com:25461/989970462/journalsat/38
+#EXTINF:-1,beIN SPORTS LOW1
+http://iptv.journalsat.com:25461/989970462/journalsat/39
+#EXTINF:-1,beIN SPORTS LOW2
+http://iptv.journalsat.com:25461/989970462/journalsat/40
+#EXTINF:-1,beIN SPORTS LOW3
+http://iptv.journalsat.com:25461/989970462/journalsat/41
+#EXTINF:-1,beIN SPORTS LOW4
+http://iptv.journalsat.com:25461/989970462/journalsat/42
+#EXTINF:-1,beIN SPORTS LOW5
+http://iptv.journalsat.com:25461/989970462/journalsat/43
+#EXTINF:-1,beIN Sports Premium 1
+http://iptv.journalsat.com:25461/989970462/journalsat/44
+#EXTINF:-1,beIN Sports Premium 2
+http://iptv.journalsat.com:25461/989970462/journalsat/45
+#EXTINF:-1,beIN Sports Premium 3
+http://iptv.journalsat.com:25461/989970462/journalsat/46
+#EXTINF:-1,Bein Sport 1
+http://iptv.journalsat.com:25461/989970462/journalsat/47
+#EXTINF:-1,Bein Sport 2
+http://iptv.journalsat.com:25461/989970462/journalsat/48
+#EXTINF:-1,Bein Sport 3
+http://iptv.journalsat.com:25461/989970462/journalsat/49
+#EXTINF:-1,Bein Sport 4
+http://iptv.journalsat.com:25461/989970462/journalsat/50
+#EXTINF:-1,Bein Sport 5
+http://iptv.journalsat.com:25461/989970462/journalsat/51
+#EXTINF:-1,Bein Sport 6
+http://iptv.journalsat.com:25461/989970462/journalsat/52
+#EXTINF:-1,Bein Sport 7
+http://iptv.journalsat.com:25461/989970462/journalsat/53
+
+
+#####################################################
+#####################################################
+###########         BEIN FRANCE          ############
+#####################################################
+#####################################################
+
+#EXTINF:-1,beIN SPORT 1HD
+http://iptv.journalsat.com:25461/989970462/journalsat/730
+#EXTINF:-1,beIN SPORT 2HD
+http://iptv.journalsat.com:25461/989970462/journalsat/731
+#EXTINF:-1,beIN SPORT 3HD
+http://iptv.journalsat.com:25461/989970462/journalsat/732
+#EXTINF:-1,BeIN Sports MAX 4
+http://iptv.journalsat.com:25461/989970462/journalsat/733
+#EXTINF:-1,BeIN Sports MAX 10
+http://iptv.journalsat.com:25461/989970462/journalsat/734
+#EXTINF:-1,BeIN Sports MAX 5
+http://iptv.journalsat.com:25461/989970462/journalsat/735
+#EXTINF:-1,BeIN Sports MAX 6
+http://iptv.journalsat.com:25461/989970462/journalsat/736
+#EXTINF:-1,BeIN Sports MAX 7
+http://iptv.journalsat.com:25461/989970462/journalsat/737
+#EXTINF:-1,BeIN Sports MAX 8
+http://iptv.journalsat.com:25461/989970462/journalsat/738
+#EXTINF:-1,BeIN Sports MAX 9
+http://iptv.journalsat.com:25461/989970462/journalsat/739
+#EXTINF:-1,CANAL SPORT FIHD
+http://iptv.journalsat.com:25461/989970462/journalsat/740
+#EXTINF:-1,RMC SPORT 1 HD
+http://iptv.journalsat.com:25461/989970462/journalsat/741
+#EXTINF:-1,RMC SPORT 2 HD
+http://iptv.journalsat.com:25461/989970462/journalsat/742
+#EXTINF:-1,RMC SPORT 3 HD
+http://iptv.journalsat.com:25461/989970462/journalsat/743
+#EXTINF:-1,RMC SPORT 4 HD
+http://iptv.journalsat.com:25461/989970462/journalsat/744
+#EXTINF:-1,BEIN SPORTS 1 FHD
+http://iptv.journalsat.com:25461/989970462/journalsat/745
+#EXTINF:-1,BEIN SPORTS 2 FHD
+http://iptv.journalsat.com:25461/989970462/journalsat/746
+#EXTINF:-1,BEIN SPORTS 3 FHD
+http://iptv.journalsat.com:25461/989970462/journalsat/747
+
+
+#####################################################
+#####################################################
+###########         BEIN MOVIES          ############
+#####################################################
+#####################################################
+
+#EXTINF:-1,beIN Movies 1 HD
+http://iptv.journalsat.com:25461/989970462/journalsat/59
+#EXTINF:-1,beIN Movies 2 HD
+http://iptv.journalsat.com:25461/989970462/journalsat/60
+#EXTINF:-1,beIN Movies 3 HD
+http://iptv.journalsat.com:25461/989970462/journalsat/61
+#EXTINF:-1,beIN Movies 4 HD
+http://iptv.journalsat.com:25461/989970462/journalsat/62
+#EXTINF:-1,beIN Series 1 HD
+http://iptv.journalsat.com:25461/989970462/journalsat/63
+#EXTINF:-1,beIN Series 2 HD
+http://iptv.journalsat.com:25461/989970462/journalsat/64
+
+
+
 
 
