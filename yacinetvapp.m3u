@@ -37,7 +37,20 @@ http://l10.aminouras.xyz:80/live/88824570016/index.m3u8
 http://l10.aminouras.xyz:80/live/794812458/index.m3u8
 #EXTINF:-1,YACIN SPORT PREMIUM 3SD
 http://l10.aminouras.xyz:80/live/179885588/index.m3u8
-
+#EXTINF:-1,YACIN SPORTS 1SD
+Sttp://l10.aminouras.xyz:80/live/978488877005/index.m3u8
+#EXTINF:-1,YACIN SPORTS 2SD
+Sttp://l10.aminouras.xyz:80/live/10011244/index.m3u8
+#EXTINF:-1,YACIN SPORTS 3SD
+Sttp://l10.aminouras.xyz:80/live/161988840/index.m3u8
+#EXTINF:-1,YACIN SPORTS 4SD
+Sttp://l10.aminouras.xyz:80/live/0103088447/index.m3u8
+#EXTINF:-1,YACIN SPORTS 5SD
+Sttp://l10.aminouras.xyz:80/live/115451004/index.m3u8
+#EXTINF:-1,YACIN SPORTS 6SD
+Sttp://l10.aminouras.xyz:80/live/788550011/index.m3u8
+#EXTINF:-1,YACIN SPORTS 7SD
+Sttp://l10.aminouras.xyz:80/live/100666696/index.m3u8
 
 ######################################################
 ######################################################
