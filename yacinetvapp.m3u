@@ -1,4 +1,19 @@
 #EXTM3U 
+#EXTINF:-1,beIN SPORTS MAX 1 4K
+http://yassooo.com:8080/Manaf/Manaf123/120006
+#EXTINF:-1,beIN SPORTS MAX 2 4K
+http://yassooo.com:8080/Manaf/Manaf123/120005
+#EXTINF:-1,beIN SPORTS MAX 1 HD
+http://yassooo.com:8080/Manaf/Manaf123/120012
+#EXTINF:-1,beIN SPORTS MAX 2 HD
+http://yassooo.com:8080/Manaf/Manaf123/120011
+#EXTINF:-1,beIN SPORTS MAX 1 SD
+http://yassooo.com:8080/Manaf/Manaf123/120000
+#EXTINF:-1,beIN SPORTS MAX 2 SD
+http://yassooo.com:8080/Manaf/Manaf123/119999
+
+########################################################
+########################################################
 #EXTINF:-1,YACIN SPORTS MAX HD1
 http://k15.amaniyouhra.xyz:80/live/9962564400/index.m3u8
 #EXTINF:-1,YACIN SPORTS MAX HD2
