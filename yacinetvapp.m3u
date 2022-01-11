@@ -1,19 +1,104 @@
 #EXTM3U 
+#####################################################
+#####################################################
+###########           BEIN 4K            ############
+#####################################################
+#####################################################
 #EXTINF:-1,beIN SPORTS 4K 
+https://images.beinsports.com/YV6OpdChztvOvjZOBNdpbFwuAT4=/1300x731/smart/3498655-AFCON-2021-Logo.jpg
+
+#EXTINF:-1,beIN SPORTS MAX 1
 http://yassooo.com:8080/Manaf/Manaf123/120006
-#EXTINF:-1,beIN SPORTS 4K
+#EXTINF:-1,beIN SPORTS MAX 2 
 http://yassooo.com:8080/Manaf/Manaf123/120005
+#EXTINF:-1,BEIN SPORT MAX 1 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120006
+#EXTINF:-1,BEIN SPORT MAX 2 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120005
+#EXTINF:-1,BEIN SPORT MAX 1 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120676
+#EXTINF:-1,BEIN SPORT MAX 2 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120677
+#EXTINF:-1,BEIN SPORT MAX 1 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120810
+#EXTINF:-1,BEIN SPORT MAX 2 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120809
+
+#####################################################
+#####################################################
+###########          BEIN FHD            ############
+#####################################################
+#####################################################
+#EXTINF:-1,beIN SPORTS FHD 
+https://images.beinsports.com/YV6OpdChztvOvjZOBNdpbFwuAT4=/1300x731/smart/3498655-AFCON-2021-Logo.jpg
+
+#EXTINF:-1,BEIN SPORT MAX 1 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120808
+#EXTINF:-1,BEIN SPORT MAX 2 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120807
+#EXTINF:-1,BEIN SPORT MAX 1 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120674
+#EXTINF:-1,BEIN SPORT MAX 2 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120675
+
+#####################################################
+#####################################################
+###########          BEIN HD             ############
+#####################################################
+#####################################################
+
+#EXTINF:-1,beIN SPORTS HD 
+https://images.beinsports.com/YV6OpdChztvOvjZOBNdpbFwuAT4=/1300x731/smart/3498655-AFCON-2021-Logo.jpg
+
 #EXTINF:-1,beIN SPORTS MAX HD1
 http://yassooo.com:8080/Manaf/Manaf123/120012
 #EXTINF:-1,beIN SPORTS MAX HD2
 http://yassooo.com:8080/Manaf/Manaf123/120011
+#EXTINF:-1,BEIN SPORT MAX HD1
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120012
+#EXTINF:-1,BEIN SPORT MAX HD2
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120011
+#EXTINF:-1,BEIN SPORT MAX HD1
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120680
+#EXTINF:-1,BEIN SPORT MAX HD2
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120681
+#EXTINF:-1,BEIN SPORT MAX HD1
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120806
+#EXTINF:-1,BEIN SPORT MAX HD2
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120805
+
+#####################################################
+#####################################################
+###########          BEIN SD             ############
+#####################################################
+#####################################################
+
+#EXTINF:-1,beIN SPORTS SD 
+https://images.beinsports.com/YV6OpdChztvOvjZOBNdpbFwuAT4=/1300x731/smart/3498655-AFCON-2021-Logo.jpg
+
 #EXTINF:-1,beIN SPORTS MAX 1 
 http://yassooo.com:8080/Manaf/Manaf123/120000
-#EXTINF:-1,beIN SPORTS MAX 2
+#EXTINF:-1,beIN SPORTS MAX 2 
 http://yassooo.com:8080/Manaf/Manaf123/119999
+#EXTINF:-1,BEIN SPORT MAX 1 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120000
+#EXTINF:-1,BEIN SPORT MAX 2 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/119999
+#EXTINF:-1,BEIN SPORT MAX 1 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120678
+#EXTINF:-1,BEIN SPORT MAX 2 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120679
+#EXTINF:-1,BEIN SPORT MAX 1 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120804
+#EXTINF:-1,BEIN SPORT MAX 2 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120803
 
-########################################################
-########################################################
+#####################################################
+#####################################################
+###########         YACIN HD             ############
+#####################################################
+#####################################################
+
 #EXTINF:-1,YACIN SPORTS MAX HD1
 http://k3.amaniyouhra.xyz:80/live/9962564400/index.m3u8
 #EXTINF:-1,YACIN SPORTS MAX HD2
@@ -39,8 +124,11 @@ http://k3.amaniyouhra.xyz:80/live/1515000000/index.m3u8
 #EXTINF:-1,YACIN SPORTS 7HD
 http://k3.amaniyouhra.xyz:80/live/791001144/index.m3u8
 
-#######################################################
-#######################################################
+#####################################################
+#####################################################
+###########         YACIN SD             ############
+#####################################################
+#####################################################
 
 #EXTINF:-1,YACIN SPORTS MAX 1
 http://k3.amaniyouhra.xyz:80/live/500025550/index.m3u8
@@ -67,8 +155,12 @@ http://k3.amaniyouhra.xyz:80/live/788550011/index.m3u8
 #EXTINF:-1,YACIN SPORTS 7SD
 http://k3.amaniyouhra.xyz:80/live/100666696/index.m3u8
 
-######################################################
-######################################################
+#####################################################
+#####################################################
+###########         BEIN ALL             ############
+#####################################################
+#####################################################
+
 #EXTINF:-1,beIN Sports 1 Premium 
 http://174.138.184.166:25461/livesport_ios/livesport_android/13
 #EXTINF:-1,beIN Sports 2 Premium 
