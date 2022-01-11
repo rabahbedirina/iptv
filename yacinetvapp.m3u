@@ -4,24 +4,22 @@
 ###########           BEIN 4K            ############
 #####################################################
 #####################################################
-#EXTINF:-1,beIN SPORTS 4K 
 
-
-#EXTINF:-1,beIN SPORTS MAX 1
+#EXTINF:-1,beIN SPORTS MAX 1 4K
 http://yassooo.com:8080/Manaf/Manaf123/120006
-#EXTINF:-1,beIN SPORTS MAX 2 
+#EXTINF:-1,beIN SPORTS MAX 2 4K 
 http://yassooo.com:8080/Manaf/Manaf123/120005
-#EXTINF:-1,BEIN SPORTS MAX 1 
+#EXTINF:-1,BEIN SPORTS MAX 1 4K 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120006
-#EXTINF:-1,BEIN SPORTS MAX 2 
+#EXTINF:-1,BEIN SPORTS MAX 2 4K 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120005
-#EXTINF:-1,BEIN SPORTS MAX 1 
+#EXTINF:-1,BEIN SPORTS MAX 1 4K 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120676
-#EXTINF:-1,BEIN SPORTS MAX 2 
+#EXTINF:-1,BEIN SPORTS MAX 2 4K 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120677
-#EXTINF:-1,BEIN SPORTS MAX 1 
+#EXTINF:-1,BEIN SPORTS MAX 1 4K 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120810
-#EXTINF:-1,BEIN SPORTS MAX 2 
+#EXTINF:-1,BEIN SPORTS MAX 2 4K 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120809
 
 #####################################################
@@ -29,16 +27,14 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120809
 ###########          BEIN FHD            ############
 #####################################################
 #####################################################
-#EXTINF:-1,beIN SPORTS FHD 
 
-
-#EXTINF:-1,BEIN SPORTS MAX 1 
+#EXTINF:-1,BEIN SPORTS MAX 1 FHD
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120808
-#EXTINF:-1,BEIN SPORTS MAX 2 
+#EXTINF:-1,BEIN SPORTS MAX 2 FHD
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120807
-#EXTINF:-1,BEIN SPORTS MAX 1 
+#EXTINF:-1,BEIN SPORTS MAX 1 FHD
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120674
-#EXTINF:-1,BEIN SPORTS MAX 2 
+#EXTINF:-1,BEIN SPORTS MAX 2 FHD
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120675
 
 #####################################################
@@ -46,9 +42,6 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120675
 ###########          BEIN HD             ############
 #####################################################
 #####################################################
-
-#EXTINF:-1,beIN SPORTS HD 
-
 
 #EXTINF:-1,beIN SPORTS MAX HD1
 http://yassooo.com:8080/Manaf/Manaf123/120012
@@ -72,9 +65,6 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120805
 ###########          BEIN SD             ############
 #####################################################
 #####################################################
-
-#EXTINF:-1,beIN SPORTS SD 
-
 
 #EXTINF:-1,beIN SPORTS MAX 1 
 http://yassooo.com:8080/Manaf/Manaf123/120000
