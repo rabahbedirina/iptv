@@ -244,19 +244,11 @@ http://174.138.184.166:25461/livesport_ios/livesport_android/57
 
 
 
-
-#EXTINF:-1,SSC1 HD
-http://yassooo.com:8080/Manaf/Manaf123/98917
-#EXTINF:-1,SSC2 HD
-http://yassooo.com:8080/Manaf/Manaf123/98916
-#EXTINF:-1,SSC3 HD
-http://yassooo.com:8080/Manaf/Manaf123/98915
-#EXTINF:-1,SSC4 HD
-http://yassooo.com:8080/Manaf/Manaf123/98914
 #EXTINF:-1,SSC5 HD
 http://yassooo.com:8080/Manaf/Manaf123/98913
-#EXTINF:-1,SSC6 HD
-http://yassooo.com:8080/Manaf/Manaf123/98912
-#EXTINF:-1,SSC7 HD
-http://yassooo.com:8080/Manaf/Manaf123/98911
+#EXTINF:-1,SSC5
+http://geo-stream.xyz:8880/live/54393917/67737458/466086.ts
+#EXTINF:-1,SSC5
+http://geo-stream.xyz:8880/live/54393917/67737458/466093.ts
+
 
