@@ -247,23 +247,6 @@ http://174.138.184.166:25461/livesport_ios/livesport_android/57
 
 #####################################################
 #####################################################
-###########         SSC Sport            ############
-#####################################################
-#####################################################
-#EXTINF:-1,SSC5 HD
-http://yassooo.com:8080/Manaf/Manaf123/98913
-#EXTINF:-1,SSC5 HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/98913
-#EXTINF:-1,SSC5 HD
-http://opplex.tv:8080/dawood/dawood/218722
-#EXTINF:-1,SCC5 HD
-http://s2.famousiptv.com:8080/sultan/sultan123/80042
-#EXTINF:-1,SSC5 HD
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/691278
-
-
-#####################################################
-#####################################################
 ###########             OSN              ############
 #####################################################
 #####################################################
@@ -354,5 +337,21 @@ http://yassooo.com:8080/Manaf/Manaf123/80191
 http://yassooo.com:8080/Manaf/Manaf123/80190
 #EXTINF:-1,OSN Kids Zone
 http://yassooo.com:8080/Manaf/Manaf123/80189
+
+#####################################################
+#####################################################
+###########         SSC Sport            ############
+#####################################################
+#####################################################
+#EXTINF:-1,SSC5 HD
+http://yassooo.com:8080/Manaf/Manaf123/98913
+#EXTINF:-1,SSC5 HD
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/98913
+#EXTINF:-1,SSC5 HD
+http://opplex.tv:8080/dawood/dawood/218722
+#EXTINF:-1,SSC5 HD
+http://s2.famousiptv.com:8080/sultan/sultan123/80042
+#EXTINF:-1,SSC5 HD
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/691278
 
 
