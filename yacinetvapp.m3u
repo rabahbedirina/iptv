@@ -5,6 +5,12 @@
 #####################################################
 #####################################################
 
+
+#EXTINF:-1,BEIN SPORTS MAX 1
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120810
+#EXTINF:-1,BEIN SPORTS MAX 2
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120809
+
 #EXTINF:-1,YACIN SPORTS MAX HD1
 http://yazansportpro.xyz:25461/livesport_ios/livesport_android/95
 #EXTINF:-1,YACIN SPORTS MAX HD2
