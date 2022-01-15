@@ -272,20 +272,23 @@ http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3002
 #####################################################
 #####################################################
 
-#EXTINF:-1,beIN Movies 1 HD
-http://iptv.journalsat.com:25461/989970462/journalsat/59
-#EXTINF:-1,beIN Movies 2 HD
-http://iptv.journalsat.com:25461/989970462/journalsat/60
-#EXTINF:-1,beIN Movies 3 HD
-http://iptv.journalsat.com:25461/989970462/journalsat/61
-#EXTINF:-1,beIN Movies 4 HD
-http://iptv.journalsat.com:25461/989970462/journalsat/62
-#EXTINF:-1,beIN Series 1 HD
-http://iptv.journalsat.com:25461/989970462/journalsat/63
-#EXTINF:-1,beIN Series 2 HD
-http://iptv.journalsat.com:25461/989970462/journalsat/64
+
+#EXTINF:-1 ,BT SPORT 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+
+#EXTINF:-1 ,BT SPORT 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+
+#EXTINF:-1,S*y Sports 1
+http://93.152.174.144:4000/play/skysports1/index.m3u8
 
 
+#EXTINF:-1,S*y Sports 3
+http://93.152.174.144:4000/play/skysports3/index.m3u8
+
+
+#EXTINF:-1,S*y Sports 5
+http://93.152.174.144:4000/play/skysports5/index.m3u8
 
 
 
