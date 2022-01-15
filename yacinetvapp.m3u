@@ -57,17 +57,24 @@ http://m4.aminouras.xyz:80/live/791001144/index.m3u8
 
 
 #EXTINF:-1,YACIN SPORTS MAX 1
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/92
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/92
+#EXTINF:-1,YACIN SPORTS MAX 1
 http://m6.aminouras.xyz:80/live/50002/index.m3u8
+
 #EXTINF:-1,YACIN SPORTS MAX 2
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/93
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/93
+#EXTINF:-1,YACIN SPORTS MAX 2
 http://m4.aminouras.xyz:80/live/51514/index.m3u8
+
 #EXTINF:-1,YACIN SPORT PREMIUM 1SD
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/26
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/26
+#EXTINF:-1,YACIN SPORT PREMIUM 1SD
 http://m4.aminouras.xyz:80/live/88824/index.m3u8
+
 #EXTINF:-1,YACIN SPORT PREMIUM 2SD
 http://yazansportpro.xyz:25461/livesport_ios/livesport_android/27
-#http://m4.aminouras.xyz:80/live/794812458/index.m3u8
+#EXTINF:-1,YACIN SPORT PREMIUM 2SD
+http://m4.aminouras.xyz:80/live/794812458/index.m3u8
 #EXTINF:-1,YACIN SPORT PREMIUM 3SD
 #http://yazansportpro.xyz:25461/livesport_ios/livesport_android/28
 http://m4.aminouras.xyz:80/live/179885588/index.m3u8
