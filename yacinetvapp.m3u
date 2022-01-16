@@ -43,11 +43,10 @@ http://yazansportpro.xyz:25461/livesport_ios/livesport_android/19
 #EXTINF:-1,YACIN SPORTS 5HD
 http://yazansportpro.xyz:25461/livesport_ios/livesport_android/20
 #http://p3.anfalrou.xyz:80/live/610303030/index.m3u8
-# #EXTINF:-1,YACIN SPORTS 6HD
-# http://yazansportpro.xyz:25461/livesport_ios/livesport_android/
-# #http://p3.anfalrou.xyz:80/live/1515000000/index.m3u8
-# #EXTINF:-1,YACIN SPORTS 7HD
-# http://p3.anfalrou.xyz:80/live/791001144/index.m3u8
+#EXTINF:-1,YACIN SPORTS 6HD
+http://p3.anfalrou.xyz:80/live/1515000000/index.m3u8
+#EXTINF:-1,YACIN SPORTS 7HD
+http://p3.anfalrou.xyz:80/live/791001144/index.m3u8
 
 #####################################################
 #####################################################
@@ -92,10 +91,10 @@ http://yazansportpro.xyz:25461/livesport_ios/livesport_android/32
 #EXTINF:-1,YACIN SPORTS 5SD
 http://yazansportpro.xyz:25461/livesport_ios/livesport_android/33
 #http://p3.anfalrou.xyz:80/live/115451004/index.m3u8
-# #EXTINF:-1,YACIN SPORTS 6SD
-# http://p3.anfalrou.xyz:80/live/788550011/index.m3u8
-# #EXTINF:-1,YACIN SPORTS 7SD
-# http://p3.anfalrou.xyz:80/live/100666696/index.m3u8
+#EXTINF:-1,YACIN SPORTS 6SD
+http://p3.anfalrou.xyz:80/live/788550011/index.m3u8
+#EXTINF:-1,YACIN SPORTS 7SD
+http://p3.anfalrou.xyz:80/live/100666696/index.m3u8
 
 #####################################################
 #####################################################
