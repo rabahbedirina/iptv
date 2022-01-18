@@ -570,7 +570,7 @@ http://yassooo.com:8080/Manaf/Manaf123/80059
 
 #####################################################
 #####################################################
-###########           BEIN 4K            ############
+###########           UHD  4K            ############
 #####################################################
 #####################################################
 
@@ -584,6 +584,14 @@ http://95.141.128.163:8004/play/a0n9
 http://95.141.128.163:8004/play/a0n8
 #EXTINF:0,Eurosport 4K
 http://95.141.128.163:8004/play/a0n7
+#EXTINF:-1,Bloomberg TV+ UHD
+https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Fashion TV UHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+
+
+
 #EXTINF:0,Discovery ULTRA
 http://95.141.128.163:8004/play/a0n6
 #EXTINF:0,Eleven Sports 1 HD
@@ -600,6 +608,11 @@ http://95.141.128.163:8004/play/a0a5
 #EXTINF:0,HBO3 HD  
 http://95.141.128.163:8004/play/a0a6
 
+#####################################################
+#####################################################
+###########           BEIN 4K            ############
+#####################################################
+#####################################################
 
 #EXTINF:-1,BEIN SPORTS MAX 1 4K
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120810
