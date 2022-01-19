@@ -272,23 +272,23 @@ http://yassooo.com:8080/Manaf/Manaf123/80265
 http://yassooo.com:8080/Manaf/Manaf123/80264
 #EXTINF:-1,MBC Iraq HD
 http://yassooo.com:8080/Manaf/Manaf123/80263
-#EXTINF:-1,MBC 1 SD
+#EXTINF:-1,MBC 1 
 http://yassooo.com:8080/Manaf/Manaf123/80262
-#EXTINF:-1,MBC 2 SD
+#EXTINF:-1,MBC 2 
 http://yassooo.com:8080/Manaf/Manaf123/80261
-#EXTINF:-1,MBC 3 SD
+#EXTINF:-1,MBC 3 
 http://yassooo.com:8080/Manaf/Manaf123/80260
-#EXTINF:-1,MBC 4 SD
+#EXTINF:-1,MBC 4 
 http://yassooo.com:8080/Manaf/Manaf123/80259
-#EXTINF:-1,MBC Bollywood SD
+#EXTINF:-1,MBC Bollywood 
 http://yassooo.com:8080/Manaf/Manaf123/80258
-#EXTINF:-1,MBC Max SD
+#EXTINF:-1,MBC Max 
 http://yassooo.com:8080/Manaf/Manaf123/80257
-#EXTINF:-1,MBC Iraq SD
+#EXTINF:-1,MBC Iraq 
 http://yassooo.com:8080/Manaf/Manaf123/80256
-#EXTINF:-1,MBC Action SD
+#EXTINF:-1,MBC Action 
 http://yassooo.com:8080/Manaf/Manaf123/80255
-#EXTINF:-1,MBC Drama SD
+#EXTINF:-1,MBC Drama 
 http://yassooo.com:8080/Manaf/Manaf123/80254
 
 #####################################################
@@ -384,7 +384,7 @@ http://yassooo.com:8080/Manaf/Manaf123/80156
 http://yassooo.com:8080/Manaf/Manaf123/591
 #EXTINF:-1,PROGRAMME NATIONAL
 http://yassooo.com:8080/Manaf/Manaf123/589
-#EXTINF:-1,Samira
+#EXTINF:-1,Samira TV
 http://yassooo.com:8080/Manaf/Manaf123/588
 #EXTINF:-1,Bahia TV
 http://yassooo.com:8080/Manaf/Manaf123/587
@@ -396,20 +396,18 @@ http://yassooo.com:8080/Manaf/Manaf123/585
 http://yassooo.com:8080/Manaf/Manaf123/584
 #EXTINF:-1,ENNAHAR TV
 http://yassooo.com:8080/Manaf/Manaf123/583
-#EXTINF:-1,Alanis
+#EXTINF:-1,Alanis TV
 http://yassooo.com:8080/Manaf/Manaf123/582
 #EXTINF:-1,TV5
 http://yassooo.com:8080/Manaf/Manaf123/580
-#EXTINF:-1,Beur
+#EXTINF:-1,Beur TV
 http://yassooo.com:8080/Manaf/Manaf123/579
 #EXTINF:-1,Dzair Jannah
 http://yassooo.com:8080/Manaf/Manaf123/577
 #EXTINF:-1,EchoroukTV
 http://yassooo.com:8080/Manaf/Manaf123/576
-#EXTINF:-1,El Heddaf.TV
+#EXTINF:-1,El Heddaf TV
 http://yassooo.com:8080/Manaf/Manaf123/575
-#EXTINF:-1,ELHAYA ALGERIE
-http://yassooo.com:8080/Manaf/Manaf123/574
 #EXTINF:-1,EL DJAZAIRIA One
 http://yassooo.com:8080/Manaf/Manaf123/572
 #EXTINF:-1,EL HAYAT TV ALGERIE
@@ -424,17 +422,20 @@ http://yassooo.com:8080/Manaf/Manaf123/568
 ###########         SSC Sport            ############
 #####################################################
 #####################################################
+#EXTINF:-1,SSC1 HD
+http://yassooo.com:8080/Manaf/Manaf123/98917
+#EXTINF:-1,SSC2 HD
+http://yassooo.com:8080/Manaf/Manaf123/98916
+#EXTINF:-1,SSC3 HD
+http://yassooo.com:8080/Manaf/Manaf123/98915
+#EXTINF:-1,SSC4 HD
+http://yassooo.com:8080/Manaf/Manaf123/98914
 #EXTINF:-1,SSC5 HD
 http://yassooo.com:8080/Manaf/Manaf123/98913
-#EXTINF:-1,SSC5 HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/98913
-#EXTINF:-1,SSC5 HD
-http://opplex.tv:8080/dawood/dawood/218722
-#EXTINF:-1,SSC5 HD
-http://s2.famousiptv.com:8080/sultan/sultan123/80042
-#EXTINF:-1,SSC5 HD
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/691278
-
+#EXTINF:-1,SSC6 HD
+http://yassooo.com:8080/Manaf/Manaf123/98912
+#EXTINF:-1,SSC7 HD
+http://yassooo.com:8080/Manaf/Manaf123/98911
 
 #####################################################
 #####################################################
