@@ -26,17 +26,30 @@ http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mono.m3u8
 http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BEIN SPORTS 3 PREMIUM 
 http://belfast.dyndns.tv:5808/BEINHD10/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS 1 EN 
+http://belfast.dyndns.tv:5808/BEINHD11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,BEIN SPORTS 2 EN 
+http://belfast.dyndns.tv:5808/BEINHD12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,BEIN SPORTS MAX 1 EN 
+http://belfast.dyndns.tv:5808/BEINHD13/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ,BEIN SPORTS 1 FR
 http://belfast.dyndns.tv:5808/BEINHD1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BEIN SPORTS 2 FR
 http://belfast.dyndns.tv:5808/BEINHD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BEIN SPORTS 3 FR
 http://belfast.dyndns.tv:5808/BEINHD3/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 ,BEIN SPORTS MAX 4 FR
+http://belfast.dyndns.tv:5808/BEINHD4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,BEIN SPORTS MAX 5 FR
+http://belfast.dyndns.tv:5808/BEINHD5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,BEIN SPORTS MAX 6 FR
+http://belfast.dyndns.tv:5808/BEINHD6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,BEIN SPORTS MAX 7 FR
+http://belfast.dyndns.tv:5808/BEINHD7/tracks-v1a1/mono.m3u8
 #####################################################
 
-#EXTINF:-1 ,BEIN SPORTS PREMIUM 1HD
-http://7b30f9aa.tvclub.xyz:80/iptv/SGME6W4L2A6MNZ/6131/index.m3u8
 
 #####################################################
 
