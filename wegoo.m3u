@@ -5,71 +5,69 @@
 #####################################################
 #####################################################
 
-#EXTINF:-1 ,BEIN SPORTS News HD
-#EXTINF:-1 ,bein 4K
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM 
+#EXTINF:-1 group-title="BEIN SPORT HD" group-title="BEIN SPORT HD",BEIN SPORTS 1 PREMIUM 
 http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/m3u8/hls_m3u8_Bein-Prem-1-HEVC.m3u8
-#EXTINF:-1 ,BEIN SPORTS 2 PREMIUM 
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 2 PREMIUM 
 http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/m3u8/hls_m3u8_Bein-Prem-2-HEVC.m3u8
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM 
+#EXTINF:-1 group-title="BEIN SPORT HD",BEIN SPORTS 1 PREMIUM 
 http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1 ,BEIN SPORTS 2 PREMIUM 
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 2 PREMIUM 
 http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1 ,BEIN SPORTS 3 PREMIUM 
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 3 PREMIUM 
 http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
 
 #####################################################
 
-#EXTINF:-1 ,BEIN SPORTS 1 PREMIUM 
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 1 PREMIUM 
 http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,BEIN SPORTS 2 PREMIUM 
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 2 PREMIUM 
 http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,BEIN SPORTS 3 PREMIUM 
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 3 PREMIUM 
 http://belfast.dyndns.tv:5808/BEINHD10/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,BEIN SPORTS 1 EN 
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 1 EN 
 http://belfast.dyndns.tv:5808/BEINHD11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,BEIN SPORTS 2 EN 
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 2 EN 
 http://belfast.dyndns.tv:5808/BEINHD12/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,BEIN SPORTS MAX 1 EN 
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS MAX 1 EN 
 http://belfast.dyndns.tv:5808/BEINHD13/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,BEIN SPORTS 1 FR
+#EXTINF:-1 group-title="BEIN SPORT FR" ,BEIN SPORTS 1 FR
 http://belfast.dyndns.tv:5808/BEINHD1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,BEIN SPORTS 2 FR
+#EXTINF:-1 group-title="BEIN SPORT FR" ,BEIN SPORTS 2 FR
 http://belfast.dyndns.tv:5808/BEINHD2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,BEIN SPORTS 3 FR
+#EXTINF:-1 group-title="BEIN SPORT FR" ,BEIN SPORTS 3 FR
 http://belfast.dyndns.tv:5808/BEINHD3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,BEIN SPORTS MAX 4 FR
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS MAX 4 FR
 http://belfast.dyndns.tv:5808/BEINHD4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,BEIN SPORTS MAX 5 FR
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS MAX 5 FR
 http://belfast.dyndns.tv:5808/BEINHD5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,BEIN SPORTS MAX 6 FR
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS MAX 6 FR
 http://belfast.dyndns.tv:5808/BEINHD6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,BEIN SPORTS MAX 7 FR
+#EXTINF:-1 group-title="BEIN SPORT FR" ,BEIN SPORTS MAX 7 FR
 http://belfast.dyndns.tv:5808/BEINHD7/tracks-v1a1/mono.m3u8
 #####################################################
 
 
 #####################################################
 
-#EXTINF:-1 ,BEIN SPORTS 1 
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 1 
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
-#EXTINF:-1 ,BEIN SPORTS 2 
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 2 
 http://93.152.174.144:4000/play/bein2ar/index.m3u8
-#EXTINF:-1 ,BEIN SPORTS 3 
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 3 
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
-#EXTINF:-1 ,BEIN SPORTS 4 
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 4 
 http://93.152.174.144:4000/play/bein4ar/index.m3u8
-#EXTINF:-1 ,BEIN SPORTS 5 
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 5 
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
-#EXTINF:-1 ,BEIN SPORTS 7 
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 7 
 http://93.152.174.144:4000/play/bein7/index.m3u8
-#EXTINF:-1 ,BEIN SPORTS 1 FR
+#EXTINF:-1 group-title="BEIN SPORT FR" ,BEIN SPORTS 1 FR
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 ,BEIN SPORTS 2 FR
+#EXTINF:-1 group-title="BEIN SPORT FR" ,BEIN SPORTS 2 FR
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1 ,BEIN SPORTS 3 FR
+#EXTINF:-1 group-title="BEIN SPORT FR" ,BEIN SPORTS 3 FR
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
 #####################################################
@@ -85,188 +83,43 @@ http://93.152.174.144:4000/play/bein3fr/index.m3u8
 #####################################################
 
 
-#EXTINF:-1,beIN Sports 1 Premium HD
+#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 1 Premium HD
 http://174.138.184.166:25461/livesport_ios/livesport_android/13
-#EXTINF:-1,beIN Sports 2 Premium HD
+#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 2 Premium HD
 http://174.138.184.166:25461/livesport_ios/livesport_android/14
-#EXTINF:-1,beIN Sports 3 Premium HD
+#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 3 Premium HD
 http://174.138.184.166:25461/livesport_ios/livesport_android/15
-#EXTINF:-1,beIN Sports 1 HD
+#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 1 HD
 http://174.138.184.166:25461/livesport_ios/livesport_android/16
-#EXTINF:-1,beIN Sports 2 HD
+#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 2 HD
 http://174.138.184.166:25461/livesport_ios/livesport_android/17
-#EXTINF:-1,beIN Sports 3 HD
+#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 3 HD
 http://174.138.184.166:25461/livesport_ios/livesport_android/18
-#EXTINF:-1,beIN Sports 4 HD
+#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 4 HD
 http://174.138.184.166:25461/livesport_ios/livesport_android/19
-#EXTINF:-1,beIN Sports 5 HD
+#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 5 HD
 http://174.138.184.166:25461/livesport_ios/livesport_android/20
-#EXTINF:-1,beIN Sports 1 Premium SD
+#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 1 Premium SD
 http://174.138.184.166:25461/livesport_ios/livesport_android/26
-#EXTINF:-1,beIN Sports 2 Premium SD
+#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 2 Premium SD
 http://174.138.184.166:25461/livesport_ios/livesport_android/27
-#EXTINF:-1,beIN Sports 3 Premium SD
+#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 3 Premium SD
 http://174.138.184.166:25461/livesport_ios/livesport_android/28
-#EXTINF:-1,beIN Sports 1 SD
+#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 1 SD
 http://174.138.184.166:25461/livesport_ios/livesport_android/29
-#EXTINF:-1,beIN Sports 2 SD
+#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 2 SD
 http://174.138.184.166:25461/livesport_ios/livesport_android/30
-#EXTINF:-1,beIN Sports 3 SD
+#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 3 SD
 http://174.138.184.166:25461/livesport_ios/livesport_android/31
-#EXTINF:-1,beIN Sports 4 SD
+#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 4 SD
 http://174.138.184.166:25461/livesport_ios/livesport_android/32
-#EXTINF:-1,beIN Sports 5 SD
+#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 5 SD
 http://174.138.184.166:25461/livesport_ios/livesport_android/33
-#EXTINF:-1,beIN Sport XTRA 1 HD
+#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sport XTRA 1 HD
 http://174.138.184.166:25461/livesport_ios/livesport_android/56
-#EXTINF:-1,beIN Sport XTRA 2 HD
+#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sport XTRA 2 HD
 http://174.138.184.166:25461/livesport_ios/livesport_android/57
 
-
-
-#####################################################
-#####################################################
-###########        allkaicerteam         ############
-#####################################################
-#####################################################
-
-
-
-#EXTINF:-1,•●★★--- beIN MAX---★★●•
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3908
-#EXTINF:-1,Bein Sport Max 1 4K
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3919
-#EXTINF:-1,Bein Sport Max 2 4K
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3920
-#EXTINF:-1,Bein Sport Max 1 FHD backup
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3921
-#EXTINF:-1,Bein Sport Max 2 FHD backup
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3922
-#EXTINF:-1,Bein Sport Max 1 HD backup
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3923
-#EXTINF:-1,Bein Sport Max 2 HD backup  
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3924
-#EXTINF:-1,Bein Sport Max 1 SD backup
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3925
-#EXTINF:-1,Bein Sport Max 2 SD backup  
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3926
-#EXTINF:-1,BeIN Sport Max1 hevc 
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3909
-#EXTINF:-1,beIN SPORTS MAX1 FullHD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3898
-#EXTINF:-1,beIN SPORTS MAX2 FullHD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3899
-#EXTINF:-1,beIN SPORTS MAX1 HD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3916
-#EXTINF:-1,beIN SPORTS MAX1 SD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3917
-#EXTINF:-1,beIN SPORTS MAX1 LOW
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3918
-#EXTINF:-1,BeIN Sport Max FHD 1 s2
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3910
-#EXTINF:-1,BeIN Sport Max FHD 2 s2
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3911
-#EXTINF:-1,BeIN Sport Max HD 1
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3912
-#EXTINF:-1,BeIN Sport Max HD 2
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3913
-#EXTINF:-1,BeIN Sport Max SD 1
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3914
-#EXTINF:-1,BeIN Sport Max SD 2
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3915
-
-#####################################################
-#####################################################
-
-
-#EXTINF:-1,•●★★--- beIN Sport Full HD ---★★●•
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3220
-#EXTINF:-1,beIN SPORTS 1 PREMIUM FullHD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3221
-#EXTINF:-1,beIN SPORTS 2 PREMIUM FullHD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3222
-#EXTINF:-1,beIN SPORTS 3 PREMIUM FullHD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3223
-#EXTINF:-1,beIN SPORTS FullHD1
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3224
-#EXTINF:-1,beIN SPORTS FullHD2
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3225
-#EXTINF:-1,beIN SPORTS FullHD3
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3226
-#EXTINF:-1,beIN SPORTS FullHD4
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3227
-#EXTINF:-1,beIN SPORTS FullHD5
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3228
-#EXTINF:-1,beIN SPORTS FullHD6
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3230
-#EXTINF:-1,beIN SPORTS FullHD7
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3229
-
-#####################################################
-#####################################################
-
-
-#EXTINF:-1,•●★★--- beIN SPORTS Hevc 265H ---★★●•
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3703
-#EXTINF:-1,beIN SPORTS 1 PREMIUM HEVC
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/459
-#EXTINF:-1,beIN SPORTS 2 PREMIUM HEVC
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/450
-#EXTINF:-1,beIN SPORTS 3 PREMIUM HEVC
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/451
-#EXTINF:-1,beIN SPORTS1 H265
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/452
-#EXTINF:-1,beIN SPORTS2 H265
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/453
-#EXTINF:-1,beIN SPORTS3 H265
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3875
-#EXTINF:-1,beIN SPORTS4 H265
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/455
-#EXTINF:-1,beIN SPORTS5 H265
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/456
-#EXTINF:-1,beIN SPORTS6 H265
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/457
-#EXTINF:-1,beIN SPORTS7 H265
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/458
-
-#####################################################
-#####################################################
-
-
-#EXTINF:-1,•●★★--- beIN SPORTS HD ---★★●•
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/117
-#EXTINF:-1,beIN SPORTS News
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/2051
-#EXTINF:-1,beIN SPORTS HD (Global)
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/960
-#EXTINF:-1,beIN Sport XTRA 1 HD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3620
-#EXTINF:-1,beIN Sport XTRA 2 HD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3621
-#EXTINF:-1,beIN SPORTS 1 PREMIUM HD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/46
-#EXTINF:-1,beIN SPORTS 2 PREMIUM HD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/47
-#EXTINF:-1,beIN SPORTS 3 PREMIUM HD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/48
-#EXTINF:-1,beIN SPORTS 1HD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/49
-#EXTINF:-1,beIN SPORTS 2HD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/50
-#EXTINF:-1,beIN SPORTS 3HD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/51
-#EXTINF:-1,beIN SPORTS 4HD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/52
-#EXTINF:-1,beIN SPORTS 5HD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/53
-#EXTINF:-1,beIN SPORTS 6HD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/54
-#EXTINF:-1,beIN SPORTS 7HD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/55
-#EXTINF:-1, beIN SPORTS 1 ENGLISH HD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3001
-#EXTINF:-1, beIN SPORTS 2 ENGLISH HD
-http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3002
 
 
 
@@ -288,4 +141,11 @@ http://tv.allkaicerteam.com:8080/kaicer_VIPp3824g/63hajm/3002
 
 
 
-
+Ben 1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6864
+Bein 2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6866
+Bein 6
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6867
+Bein 4
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6869
