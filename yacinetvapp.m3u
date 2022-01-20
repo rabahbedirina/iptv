@@ -631,3 +631,15 @@ http://geo-stream.xyz:8880/live/54393917/67737458/522199.ts
 http://geo-stream.xyz:8880/live/54393917/67737458/522201.ts
 #EXTINF:-1, ELEVEN SPORTS 6 HD
 http://geo-stream.xyz:8880/live/54393917/67737458/522203.ts
+#EXTINF:-1,Eleven Sports 1 SD
+http://geo-stream.xyz:8880/live/54393917/67737458/99280.ts
+#EXTINF:-1,Eleven Sports 2 SD
+http://geo-stream.xyz:8880/live/54393917/67737458/99281.ts
+#EXTINF:-1,Eleven Sports 3 SD
+http://geo-stream.xyz:8880/live/54393917/67737458/99282.ts
+#EXTINF:-1,Eleven Sports 4 SD
+http://geo-stream.xyz:8880/live/54393917/67737458/99283.ts
+#EXTINF:-1,Eleven Sports 5 SD
+http://geo-stream.xyz:8880/live/54393917/67737458/99284.ts
+#EXTINF:-1,Eleven Sports 6 SD
+http://geo-stream.xyz:8880/live/54393917/67737458/99285.ts
