@@ -604,3 +604,30 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120809
 http://yassooo.com:8080/Manaf/Manaf123/120006
 #EXTINF:-1,beIN SPORTS Max 2 4K 
 http://yassooo.com:8080/Manaf/Manaf123/120005
+
+
+#EXTINF:-1,SPORT TV 1 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/59871.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/59874.ts
+#EXTINF:-1,Sport TV 3 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/61157.ts
+#EXTINF:-1,SPORT TV 4 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/522182.ts
+#EXTINF:-1,SPORT TV 5 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/522183.ts
+#EXTINF:-1,SPORT TV 6 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/522185.ts
+
+#EXTINF:-1, ELEVEN SPORTS 1 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/522193.ts
+#EXTINF:-1, ELEVEN SPORTS 2 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/522195.ts
+#EXTINF:-1, ELEVEN SPORTS 3 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/522197.ts
+#EXTINF:-1, ELEVEN SPORTS 4 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/522199.ts
+#EXTINF:-1, ELEVEN SPORTS 5 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/522201.ts
+#EXTINF:-1, ELEVEN SPORTS 6 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/522203.ts
