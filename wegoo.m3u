@@ -394,5 +394,41 @@ http://geo-stream.xyz:8880/live/54393917/67737458/320160.ts
 http://geo-stream.xyz:8880/live/54393917/67737458/320157.ts
 
 
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/eleven-sports-1-portugal-uk-pt.png" group-title="POLISH",ELEVEN SPORTS 1 HD
+http://38.143.137.105:8080/mb1234/mb1234/15198
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/eleven-sports-2-portugal-uk-pt.png" group-title="POLISH",ELEVEN SPORTS 2 HD
+http://38.143.137.105:8080/mb1234/mb1234/15200
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/eleven-sports-3-portugal-uk-pt.png" group-title="POLISH",ELEVEN SPORTS 3 HD
+http://38.143.137.105:8080/mb1234/mb1234/15199
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/eleven-sports-4-portugal-uk-pt.png" group-title="POLISH",ELEVEN SPORTS 4 HD
+http://38.143.137.105:8080/mb1234/mb1234/60949
+#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="POLSAT SPORT NEWS HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/polsat_sport_news.png" group-title="POLISH",POLSAT SPORT NEWS HD
+http://38.143.137.105:8080/mb1234/mb1234/330387
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="POLSAT SPORT PREMIUM 01 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/polsat_sport.png" group-title="POLISH",POLSAT SPORT PREMIUM 01 HD
+http://38.143.137.105:8080/mb1234/mb1234/330386
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="POLSAT SPORT PREMIUM 02 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/canalplus_pl_ale_kino.png" group-title="POLISH",POLSAT SPORT PREMIUM 02 HD
+http://38.143.137.105:8080/mb1234/mb1234/15226
+
+#EXTINF:-1 tvg-id="DAZN.ca" tvg-name="DEP* DAZN 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/Canada/dazn.png" group-title="DEPORTES",DEP* DAZN 1 HD
+http://38.143.137.105:8080/mb1234/mb1234/391225
+
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="DAZN SPORT 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/Canada/dazn.png" group-title="GERMAN -//- SWEDEN",DAZN SPORT 1 HD
+http://38.143.137.105:8080/mb1234/mb1234/391223
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="DAZN SPORT 2 HD" tvg-logo="http://glmtv.pw/logo/prestige/Canada/dazn.png" group-title="GERMAN -//- SWEDEN",DAZN SPORT 2 HD
+http://38.143.137.105:8080/mb1234/mb1234/391222
+
+#EXTINF:-1 tvg-id="AspireTV.us" tvg-name="SPORT TV PLUS HD" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/sport_tv_pt_mais.png" group-title="PORTUGUESE",SPORT TV PLUS HD
+http://38.143.137.105:8080/mb1234/mb1234/185025
+#EXTINF:-1 tvg-id="QazsportTV.kz" tvg-name="SPORT TV 1 HD" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/sport_tv_pt_1.png" group-title="PORTUGUESE",SPORT TV 1 HD
+http://38.143.137.105:8080/mb1234/mb1234/26627
+#EXTINF:-1 tvg-id="QazsportTV.kz" tvg-name="SPORT TV 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/sport_tv_pt_2.png" group-title="PORTUGUESE",SPORT TV 2 HD
+http://38.143.137.105:8080/mb1234/mb1234/26628
+#EXTINF:-1 tvg-id="Esport3.es" tvg-name="SPORT TV 3 HD" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/sport_tv_pt_3.png" group-title="PORTUGUESE",SPORT TV 3 HD
+http://38.143.137.105:8080/mb1234/mb1234/26629
+#EXTINF:-1 tvg-id="QazsportTV.kz" tvg-name="SPORT TV 4 HD" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/sport_tv_pt_4.png" group-title="PORTUGUESE",SPORT TV 4 HD
+http://38.143.137.105:8080/mb1234/mb1234/26630
+#EXTINF:-1 tvg-id="QazsportTV.kz" tvg-name="SPORT TV 5 HD" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/sport_tv_pt.png" group-title="PORTUGUESE",SPORT TV 5 HD
+http://38.143.137.105:8080/mb1234/mb1234/26631
+
 
 
