@@ -16,6 +16,25 @@ http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 3 PREMIUM 
 http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
 
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 1 
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 2 
+http://93.152.174.144:4000/play/bein2ar/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 3 
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 4 
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 5 
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 7 
+http://93.152.174.144:4000/play/bein7/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORT FR" ,BEIN SPORTS 1 FR
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORT FR" ,BEIN SPORTS 2 FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORT FR" ,BEIN SPORTS 3 FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+
 #####################################################
 
 #EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 1 PREMIUM 
@@ -51,24 +70,6 @@ http://belfast.dyndns.tv:5808/BEINHD7/tracks-v1a1/mono.m3u8
 
 #####################################################
 
-#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 1 
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 2 
-http://93.152.174.144:4000/play/bein2ar/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 3 
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 4 
-http://93.152.174.144:4000/play/bein4ar/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 5 
-http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 7 
-http://93.152.174.144:4000/play/bein7/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORT FR" ,BEIN SPORTS 1 FR
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORT FR" ,BEIN SPORTS 2 FR
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORT FR" ,BEIN SPORTS 3 FR
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
 #####################################################
 #####################################################
@@ -81,46 +82,24 @@ http://93.152.174.144:4000/play/bein3fr/index.m3u8
 ###########          livesport           ############
 #####################################################
 #####################################################
-
-
-#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 1 Premium HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/13
-#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 2 Premium HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/14
-#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 3 Premium HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/15
-#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 1 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/16
-#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 2 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/17
-#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 3 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/18
-#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 4 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/19
-#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 5 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/20
-#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 1 Premium SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/26
-#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 2 Premium SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/27
-#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 3 Premium SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/28
-#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 1 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/29
-#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 2 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/30
-#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 3 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/31
-#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 4 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/32
-#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sports 5 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/33
-#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sport XTRA 1 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/56
-#EXTINF:-1 group-title="BEIN SPORT HD",beIN Sport XTRA 2 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/57
-
-
+#EXTINF:-1,AR: Bein Sport 1HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6872
+#EXTINF:-1,AR: Bein Sport 2HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6871
+#EXTINF:-1,AR: Bein Sport 3HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6870
+#EXTINF:-1,AR: Bein Sport 4HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6869
+#EXTINF:-1,AR: Bein Sport 5HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6868
+#EXTINF:-1,AR: Bein Sport 6HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6867
+#EXTINF:-1,AR: Bein Sport 7HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6866
+#EXTINF:-1,AR: Bein Sport MAX 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6865
+#EXTINF:-1,AR: Bein Sport MAX 2 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6864
 
 
 #####################################################
@@ -128,7 +107,26 @@ http://174.138.184.166:25461/livesport_ios/livesport_android/57
 ###########         BEIN FRANCE          ############
 #####################################################
 #####################################################
-
+#EXTINF:-1,FR: BEINSPORT 1HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/14140
+#EXTINF:-1,FR: BEINSPORT 2HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/347
+#EXTINF:-1,FR: BEINSPORT 3HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/346
+#EXTINF:-1,FR: BEINSPORT MAX 4
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2515
+#EXTINF:-1,FR: BEINSPORT MAX 5
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2516
+#EXTINF:-1,FR: BEINSPORT MAX 6
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2517
+#EXTINF:-1,FR: BEINSPORT MAX 7
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2518
+#EXTINF:-1,FR: BEINSPORT MAX 8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2519
+#EXTINF:-1,FR: BEINSPORT MAX 9
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2520
+#EXTINF:-1,FR: BEINSPORT MAX 10
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2521
 
 
 
@@ -138,14 +136,11 @@ http://174.138.184.166:25461/livesport_ios/livesport_android/57
 #####################################################
 #####################################################
 
-
-
-
-Ben 1
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6864
-Bein 2
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6866
-Bein 6
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6867
-Bein 4
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6869
+#EXTINF:-1,TR: Bein Sport HD1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/4110
+#EXTINF:-1,TR: Bein Sport HD2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/4111
+#EXTINF:-1,TR: Bein Sport HD3
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/4112
+#EXTINF:-1,TR: Bein Sport HD4
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/4113
