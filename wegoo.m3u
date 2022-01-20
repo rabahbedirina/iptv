@@ -5,6 +5,11 @@
 #####################################################
 #####################################################
 
+
+
+#EXTINF:-1 ,beIN SPORTS NEWS HD
+http://38.143.137.105:8080/mb1234/mb1234/315505
+
 #EXTINF:-1 group-title="BEIN SPORT HD" group-title="BEIN SPORT HD",BEIN SPORTS 1 PREMIUM 
 http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/m3u8/hls_m3u8_Bein-Prem-1-HEVC.m3u8
 #EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 2 PREMIUM 
@@ -132,7 +137,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2521
 
 #####################################################
 #####################################################
-###########         BEIN MOVIES          ############
+###########          BEIN TURK           ############
 #####################################################
 #####################################################
 
@@ -144,3 +149,250 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/4111
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/4112
 #EXTINF:-1,TR: Bein Sport HD4
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/4113
+
+#####################################################
+#####################################################
+###########          GEO           ############
+#####################################################
+#####################################################
+
+
+
+#EXTINF:-1,AT: beIN 4K
+http://geo-stream.xyz:8880/live/54393917/67737458/132083.ts
+#EXTINF:-1,AT:  BeIN SPORTS 2
+http://geo-stream.xyz:8880/live/54393917/67737458/107897.ts
+#EXTINF:-1,AT:  beIN SPORTS 3
+http://geo-stream.xyz:8880/live/54393917/67737458/107898.ts
+#EXTINF:-1,AR: BeIN Sports News
+http://geo-stream.xyz:8880/live/54393917/67737458/146389.ts
+#EXTINF:-1,AR: BEIN SPORTS 1 Premium FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/146390.ts
+#EXTINF:-1,AR: BEIN SPORTS 3 Premium FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/146394.ts
+#EXTINF:-1,AR: BEIN SPORTS 1 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/61303.ts
+#EXTINF:-1,AR: BEIN SPORTS 2 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/146391.ts
+#EXTINF:-1,AR: BEIN SPORTS 3 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/146392.ts
+#EXTINF:-1,AR: BEIN SPORTS 3 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/61305.ts
+#EXTINF:-1,AR: Bein Sports 10 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/99545.ts
+#EXTINF:-1,FR: BEIN SPORTS 2 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/146401.ts
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 8 FHD.
+http://geo-stream.xyz:8880/live/54393917/67737458/146405.ts
+#EXTINF:-1,EN: BEIN SPORTS 2 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/146398.ts
+#EXTINF:-1,EN: BEIN SPORTS 5 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/146395.ts
+#EXTINF:-1,AR: BEIN SPORTS Premium 2 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/61304.ts
+#EXTINF:-1,EN: Bein Sport 12 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/320654.ts
+#EXTINF:-1,BeIN Sport Max 6 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/329713.ts
+#EXTINF:-1,BeIN Sport Max 5 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/329714.ts
+#EXTINF:-1, BS: beIN SPORTS 5 4K
+http://geo-stream.xyz:8880/live/54393917/67737458/61307.ts
+#EXTINF:-1,AR: BEIN SPORTS 4 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/146393.ts
+#EXTINF:-1,AR: BEIN SPORTS 7 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/146396.ts
+#EXTINF:-1,FR: BEIN SPORTS 9 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/109005.ts
+#EXTINF:-1,UNION beIN SPORTS 1 PREMIUM SD
+http://geo-stream.xyz:8880/live/54393917/67737458/461335.ts
+#EXTINF:-1,beIN SPORTS 3 PREMIUM 4K PURE
+http://geo-stream.xyz:8880/live/54393917/67737458/461337.ts
+#EXTINF:-1,TR: beIN SPORTS 2 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/461338.ts
+#EXTINF:-1,AR: BEIN SPORTS 3 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/461339.ts
+#EXTINF:-1,beIN Sports 4 4K Pure
+http://geo-stream.xyz:8880/live/54393917/67737458/461340.ts
+#EXTINF:-1,beIN Sports 5 4K Pure
+http://geo-stream.xyz:8880/live/54393917/67737458/461341.ts
+#EXTINF:-1,beIN Sports 6 4K Pure
+http://geo-stream.xyz:8880/live/54393917/67737458/461342.ts
+#EXTINF:-1,beIN Sports 7 4K 
+http://geo-stream.xyz:8880/live/54393917/67737458/461343.ts
+#EXTINF:-1,EN: Bein Sports 1 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/99546.ts
+#EXTINF:-1,beIN SPORTS XTRA 1 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/456755.ts
+#EXTINF:-1,beIN SPORTS XTRA 2 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/456756.ts
+#EXTINF:-1,beIN SPORTS 2 PREMIUM
+http://geo-stream.xyz:8880/live/54393917/67737458/461336.ts
+#EXTINF:-1,EN: BEIN SPORTS 1 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/108995.ts
+#EXTINF:-1,AR | BEIN SPORTS PREMIUM 2 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/352813.ts
+#EXTINF:-1,AR: beIN Sports Max 2 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/352814.ts
+#EXTINF:-1,AR: VIP BeIN Sports 1 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/109021.ts
+#EXTINF:-1,AR: VIP BeIN Sports 2-HD
+http://geo-stream.xyz:8880/live/54393917/67737458/109022.ts
+#EXTINF:-1,AR: VIP BeIN Sports 3-HD
+http://geo-stream.xyz:8880/live/54393917/67737458/109023.ts
+#EXTINF:-1,AR: VIP BeIN Sports 4-HD
+http://geo-stream.xyz:8880/live/54393917/67737458/109024.ts
+#EXTINF:-1,AR: VIP BeIN Sports 6-HD
+http://geo-stream.xyz:8880/live/54393917/67737458/109026.ts
+#EXTINF:-1,AR: VIP BeIN Sports 9-HD
+http://geo-stream.xyz:8880/live/54393917/67737458/109029.ts
+#EXTINF:-1,AR: VIP BeIN Sports 10 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/109030.ts
+#EXTINF:-1,UK: BEIN SPORTS 11
+http://geo-stream.xyz:8880/live/54393917/67737458/10473.ts
+#EXTINF:-1,UK: BEIN SPORTS 12
+http://geo-stream.xyz:8880/live/54393917/67737458/109031.ts
+#EXTINF:-1,AR: Bein Sport 1 SD
+http://geo-stream.xyz:8880/live/54393917/67737458/10463.ts
+#EXTINF:-1,AR: Bein Sport 3 SD
+http://geo-stream.xyz:8880/live/54393917/67737458/10465.ts
+#EXTINF:-1,BS:  Bein Sport 4 SD
+http://geo-stream.xyz:8880/live/54393917/67737458/10466.ts
+#EXTINF:-1,AR: Bein Sport 5 SD
+http://geo-stream.xyz:8880/live/54393917/67737458/10467.ts
+#EXTINF:-1,BS:  Bein Sport 7 SD
+http://geo-stream.xyz:8880/live/54393917/67737458/10469.ts
+#EXTINF:-1,AR: Bein Sport 8 SD
+http://geo-stream.xyz:8880/live/54393917/67737458/10470.ts
+#EXTINF:-1,AR: Bein Sports 10 SD
+http://geo-stream.xyz:8880/live/54393917/67737458/136574.ts
+#EXTINF:-1,BS:  Bein Sport News HD
+http://geo-stream.xyz:8880/live/54393917/67737458/99520.ts
+#EXTINF:-1,||AR.BEIN|| BEIN SPORTS news HD
+http://geo-stream.xyz:8880/live/54393917/67737458/135577.ts
+#EXTINF:-1,AR: BEIN SPORTS NEWS HD
+http://geo-stream.xyz:8880/live/54393917/67737458/135588.ts
+#EXTINF:-1,BS:  Bein Sport 6 SD
+http://geo-stream.xyz:8880/live/54393917/67737458/10468.ts
+#EXTINF:-1,AR: Bein Sport 2 SD
+http://geo-stream.xyz:8880/live/54393917/67737458/10464.ts
+#EXTINF:-1,AR: BeIN Sports 7 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/109027.ts
+#EXTINF:-1,beIN SPORTS XTRA 1 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/456753.ts
+#EXTINF:-1,beIN SPORTS XTRA 2 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/456754.ts
+#EXTINF:-1,AR: Bein Sports 9 SD
+http://geo-stream.xyz:8880/live/54393917/67737458/136573.ts
+#EXTINF:-1,AR: VIP BeIN Sports 5-HD
+http://geo-stream.xyz:8880/live/54393917/67737458/109025.ts
+#EXTINF:-1,FR: BEIN SPORT MAX 6 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/322124.ts
+#EXTINF:-1,AR: Bein sport max 5 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/322123.ts
+#EXTINF:-1,AR: beIN Sports Max 4 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/352816.ts
+#EXTINF:-1,FR: BEIN SPORTS MAX 5 SD
+
+
+#EXTINF:-1,CA: beIN Sports prem HD
+http://geo-stream.xyz:8880/live/54393917/67737458/98315.ts
+#EXTINF:-1,CR: beIN SPORT 3 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/109111.ts
+
+#EXTINF:-1,FR:  Bein Sport 1 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/109907.ts
+#EXTINF:-1,FR: BEIN SPORTS 1 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/110247.ts
+#EXTINF:-1,FR:  BeIN SPORTS 1 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/109630.ts
+#EXTINF:-1,FR:  BEIN SPORT 3 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/109909.ts
+#EXTINF:-1,FR:  BeIN SPORTS 3 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/109634.ts
+#EXTINF:-1,FR: Bein Sport MAX 4 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/109529.ts
+#EXTINF:-1,FR: Bein Sport MAX 5 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/109528.ts
+#EXTINF:-1,FR: BEIN MAX 6 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/109450.ts
+#EXTINF:-1,FR:  beIN SPORTS MAX 7 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/109818.ts
+#EXTINF:-1,FR:  beinsports 8 MaX
+http://geo-stream.xyz:8880/live/54393917/67737458/109525.ts
+#EXTINF:-1,FR: BEIN MAX 8 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/109451.ts
+#EXTINF:-1,FR:  Bein Sport MaX 10
+http://geo-stream.xyz:8880/live/54393917/67737458/109625.ts
+#EXTINF:-1,FR:  BEIN SPORT 2 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/109908.ts
+
+#EXTINF:-1,Bein Sport 01 AR
+http://geo-stream.xyz:8880/live/54393917/67737458/115745.ts
+#EXTINF:-1,FR: Bein Sport 2 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/115746.ts
+#EXTINF:-1,Bein Sport 03 AR
+http://geo-stream.xyz:8880/live/54393917/67737458/115747.ts
+#EXTINF:-1,Bein Sport 04 AR
+http://geo-stream.xyz:8880/live/54393917/67737458/115748.ts
+#EXTINF:-1,Bein Sport 05 AR
+http://geo-stream.xyz:8880/live/54393917/67737458/115749.ts
+#EXTINF:-1,Bein Sport 06 AR
+http://geo-stream.xyz:8880/live/54393917/67737458/115750.ts
+#EXTINF:-1,Bein Sport 08 AR
+http://geo-stream.xyz:8880/live/54393917/67737458/115752.ts
+#EXTINF:-1,Bein Sport 09 AR
+http://geo-stream.xyz:8880/live/54393917/67737458/115753.ts
+#EXTINF:-1,Bein Sport 12 AR
+http://geo-stream.xyz:8880/live/54393917/67737458/115756.ts
+#EXTINF:-1,Bein Sport FR 1
+http://geo-stream.xyz:8880/live/54393917/67737458/115821.ts
+#EXTINF:-1,Bein Sport FR 2
+http://geo-stream.xyz:8880/live/54393917/67737458/115822.ts
+#EXTINF:-1,Bein Sport 07 AR
+http://geo-stream.xyz:8880/live/54393917/67737458/115751.ts
+#EXTINF:-1,Bein Sport 10 AR
+http://geo-stream.xyz:8880/live/54393917/67737458/115754.ts
+#EXTINF:-1,TR| BEIN SPORT 3 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/115757.ts
+#EXTINF:-1,TR:  BEIN SPORTS 2 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/134453.ts
+#EXTINF:-1,TR:  BEIN SPORTS 3 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/134454.ts
+#EXTINF:-1,TR:  BEIN SPORTS Haber SD
+http://geo-stream.xyz:8880/live/54393917/67737458/134449.ts
+#EXTINF:-1,TR:  BEIN SPORTS MAX 1 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/134456.ts
+#EXTINF:-1,TR: Bein Sports 1 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/97583.ts
+
+
+#EXTINF:-1,US: beIN Sports 01
+http://geo-stream.xyz:8880/live/54393917/67737458/117373.ts
+#EXTINF:-1,US:  beIN Sports 2
+http://geo-stream.xyz:8880/live/54393917/67737458/117127.ts
+#EXTINF:-1,US:  beIN Sports 4 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/117128.ts
+#EXTINF:-1,US:  beIN Sports 5 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/117129.ts
+#EXTINF:-1,US:  beIN Sports 6 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/117130.ts
+#EXTINF:-1,US:  beIN Sports 7 HD
+http://geo-stream.xyz:8880/live/54393917/67737458/117131.ts
+#EXTINF:-1,US:  beIN Sports USA HD
+http://geo-stream.xyz:8880/live/54393917/67737458/117133.ts
+#EXTINF:-1,US: beIN SPORTS La Liga
+http://geo-stream.xyz:8880/live/54393917/67737458/134682.ts
+#EXTINF:-1,US: beIN Sports N
+http://geo-stream.xyz:8880/live/54393917/67737458/117383.ts
+
+#EXTINF:-1,US: beIN Sports Connect HD
+http://geo-stream.xyz:8880/live/54393917/67737458/545740.ts
+#EXTINF:-1,BEIN sport MAX 4 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/320160.ts
+#EXTINF:-1,BEIN sport MAX 1 FHD
+http://geo-stream.xyz:8880/live/54393917/67737458/320157.ts
+
+
+
+
