@@ -8,7 +8,7 @@
 http://yassooo.com:8080/Manaf/Manaf123/83323
 #EXTINF:-1,beIN Sports Global
 http://yassooo.com:8080/Manaf/Manaf123/83322
-#EXTINF:-1 ,beIN SPORTS NEWS HD
+
 
 
 #EXTINF:-1 group-title="BEIN SPORT HD" group-title="BEIN SPORT HD",BEIN SPORTS 1 PREMIUM 
@@ -21,6 +21,30 @@ http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
 http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 3 PREMIUM 
 http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1,Bein Sport 1HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6872
+#EXTINF:-1,Bein Sport 2HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6871
+#EXTINF:-1,Bein Sport 3HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6870
+#EXTINF:-1,Bein Sport 4HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6869
+#EXTINF:-1,Bein Sport 5HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6868
+#EXTINF:-1,Bein Sport 6HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6867
+#EXTINF:-1,Bein Sport 7HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6866
+#EXTINF:-1,Bein Sport 8HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6865
+#EXTINF:-1,Bein Sport 9HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6864
+#EXTINF:-1,Bein Sport 10HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6863
+#EXTINF:-1,Bein Sport 11HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2745
+#EXTINF:-1,Bein Sport 12HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2746
 
 #EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 1 
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
@@ -88,24 +112,7 @@ http://belfast.dyndns.tv:5808/BEINHD7/tracks-v1a1/mono.m3u8
 ###########          livesport           ############
 #####################################################
 #####################################################
-#EXTINF:-1,AR: Bein Sport 1HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6872
-#EXTINF:-1,AR: Bein Sport 2HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6871
-#EXTINF:-1,AR: Bein Sport 3HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6870
-#EXTINF:-1,AR: Bein Sport 4HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6869
-#EXTINF:-1,AR: Bein Sport 5HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6868
-#EXTINF:-1,AR: Bein Sport 6HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6867
-#EXTINF:-1,AR: Bein Sport 7HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6866
-#EXTINF:-1,AR: Bein Sport MAX 1 HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6865
-#EXTINF:-1,AR: Bein Sport MAX 2 HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6864
+
 
 
 #####################################################
@@ -113,26 +120,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6864
 ###########         BEIN FRANCE          ############
 #####################################################
 #####################################################
-#EXTINF:-1,FR: BEINSPORT 1HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/14140
-#EXTINF:-1,FR: BEINSPORT 2HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/347
-#EXTINF:-1,FR: BEINSPORT 3HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/346
-#EXTINF:-1,FR: BEINSPORT MAX 4
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2515
-#EXTINF:-1,FR: BEINSPORT MAX 5
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2516
-#EXTINF:-1,FR: BEINSPORT MAX 6
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2517
-#EXTINF:-1,FR: BEINSPORT MAX 7
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2518
-#EXTINF:-1,FR: BEINSPORT MAX 8
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2519
-#EXTINF:-1,FR: BEINSPORT MAX 9
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2520
-#EXTINF:-1,FR: BEINSPORT MAX 10
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2521
 
 
 
@@ -142,13 +129,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2521
 #####################################################
 #####################################################
 
-#EXTINF:-1,TR: Bein Sport HD1
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/4110
-#EXTINF:-1,TR: Bein Sport HD2
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/4111
-#EXTINF:-1,TR: Bein Sport HD3
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/4112
-#EXTINF:-1,TR: Bein Sport HD4
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/4113
 
 #####################################################
@@ -158,241 +138,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/4113
 #####################################################
 
 
-
-#EXTINF:-1,AT: beIN 4K
-http://geo-stream.xyz:8880/live/54393917/67737458/132083.ts
-#EXTINF:-1,AT:  BeIN SPORTS 2
-http://geo-stream.xyz:8880/live/54393917/67737458/107897.ts
-#EXTINF:-1,AT:  beIN SPORTS 3
-http://geo-stream.xyz:8880/live/54393917/67737458/107898.ts
-#EXTINF:-1,AR: BeIN Sports News
-http://geo-stream.xyz:8880/live/54393917/67737458/146389.ts
-#EXTINF:-1,AR: BEIN SPORTS 1 Premium FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/146390.ts
-#EXTINF:-1,AR: BEIN SPORTS 3 Premium FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/146394.ts
-#EXTINF:-1,AR: BEIN SPORTS 1 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/61303.ts
-#EXTINF:-1,AR: BEIN SPORTS 2 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/146391.ts
-#EXTINF:-1,AR: BEIN SPORTS 3 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/146392.ts
-#EXTINF:-1,AR: BEIN SPORTS 3 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/61305.ts
-#EXTINF:-1,AR: Bein Sports 10 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/99545.ts
-#EXTINF:-1,FR: BEIN SPORTS 2 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/146401.ts
-#EXTINF:-1,|AR.BEIN| BEIN SPORTS 8 FHD.
-http://geo-stream.xyz:8880/live/54393917/67737458/146405.ts
-#EXTINF:-1,EN: BEIN SPORTS 2 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/146398.ts
-#EXTINF:-1,EN: BEIN SPORTS 5 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/146395.ts
-#EXTINF:-1,AR: BEIN SPORTS Premium 2 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/61304.ts
-#EXTINF:-1,EN: Bein Sport 12 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/320654.ts
-#EXTINF:-1,BeIN Sport Max 6 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/329713.ts
-#EXTINF:-1,BeIN Sport Max 5 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/329714.ts
-#EXTINF:-1, BS: beIN SPORTS 5 4K
-http://geo-stream.xyz:8880/live/54393917/67737458/61307.ts
-#EXTINF:-1,AR: BEIN SPORTS 4 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/146393.ts
-#EXTINF:-1,AR: BEIN SPORTS 7 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/146396.ts
-#EXTINF:-1,FR: BEIN SPORTS 9 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/109005.ts
-#EXTINF:-1,UNION beIN SPORTS 1 PREMIUM SD
-http://geo-stream.xyz:8880/live/54393917/67737458/461335.ts
-#EXTINF:-1,beIN SPORTS 3 PREMIUM 4K PURE
-http://geo-stream.xyz:8880/live/54393917/67737458/461337.ts
-#EXTINF:-1,TR: beIN SPORTS 2 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/461338.ts
-#EXTINF:-1,AR: BEIN SPORTS 3 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/461339.ts
-#EXTINF:-1,beIN Sports 4 4K Pure
-http://geo-stream.xyz:8880/live/54393917/67737458/461340.ts
-#EXTINF:-1,beIN Sports 5 4K Pure
-http://geo-stream.xyz:8880/live/54393917/67737458/461341.ts
-#EXTINF:-1,beIN Sports 6 4K Pure
-http://geo-stream.xyz:8880/live/54393917/67737458/461342.ts
-#EXTINF:-1,beIN Sports 7 4K 
-http://geo-stream.xyz:8880/live/54393917/67737458/461343.ts
-#EXTINF:-1,EN: Bein Sports 1 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/99546.ts
-#EXTINF:-1,beIN SPORTS XTRA 1 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/456755.ts
-#EXTINF:-1,beIN SPORTS XTRA 2 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/456756.ts
-#EXTINF:-1,beIN SPORTS 2 PREMIUM
-http://geo-stream.xyz:8880/live/54393917/67737458/461336.ts
-#EXTINF:-1,EN: BEIN SPORTS 1 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/108995.ts
-#EXTINF:-1,AR | BEIN SPORTS PREMIUM 2 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/352813.ts
-#EXTINF:-1,AR: beIN Sports Max 2 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/352814.ts
-#EXTINF:-1,AR: VIP BeIN Sports 1 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/109021.ts
-#EXTINF:-1,AR: VIP BeIN Sports 2-HD
-http://geo-stream.xyz:8880/live/54393917/67737458/109022.ts
-#EXTINF:-1,AR: VIP BeIN Sports 3-HD
-http://geo-stream.xyz:8880/live/54393917/67737458/109023.ts
-#EXTINF:-1,AR: VIP BeIN Sports 4-HD
-http://geo-stream.xyz:8880/live/54393917/67737458/109024.ts
-#EXTINF:-1,AR: VIP BeIN Sports 6-HD
-http://geo-stream.xyz:8880/live/54393917/67737458/109026.ts
-#EXTINF:-1,AR: VIP BeIN Sports 9-HD
-http://geo-stream.xyz:8880/live/54393917/67737458/109029.ts
-#EXTINF:-1,AR: VIP BeIN Sports 10 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/109030.ts
-#EXTINF:-1,UK: BEIN SPORTS 11
-http://geo-stream.xyz:8880/live/54393917/67737458/10473.ts
-#EXTINF:-1,UK: BEIN SPORTS 12
-http://geo-stream.xyz:8880/live/54393917/67737458/109031.ts
-#EXTINF:-1,AR: Bein Sport 1 SD
-http://geo-stream.xyz:8880/live/54393917/67737458/10463.ts
-#EXTINF:-1,AR: Bein Sport 3 SD
-http://geo-stream.xyz:8880/live/54393917/67737458/10465.ts
-#EXTINF:-1,BS:  Bein Sport 4 SD
-http://geo-stream.xyz:8880/live/54393917/67737458/10466.ts
-#EXTINF:-1,AR: Bein Sport 5 SD
-http://geo-stream.xyz:8880/live/54393917/67737458/10467.ts
-#EXTINF:-1,BS:  Bein Sport 7 SD
-http://geo-stream.xyz:8880/live/54393917/67737458/10469.ts
-#EXTINF:-1,AR: Bein Sport 8 SD
-http://geo-stream.xyz:8880/live/54393917/67737458/10470.ts
-#EXTINF:-1,AR: Bein Sports 10 SD
-http://geo-stream.xyz:8880/live/54393917/67737458/136574.ts
-#EXTINF:-1,BS:  Bein Sport News HD
-http://geo-stream.xyz:8880/live/54393917/67737458/99520.ts
-#EXTINF:-1,||AR.BEIN|| BEIN SPORTS news HD
-http://geo-stream.xyz:8880/live/54393917/67737458/135577.ts
-#EXTINF:-1,AR: BEIN SPORTS NEWS HD
-http://geo-stream.xyz:8880/live/54393917/67737458/135588.ts
-#EXTINF:-1,BS:  Bein Sport 6 SD
-http://geo-stream.xyz:8880/live/54393917/67737458/10468.ts
-#EXTINF:-1,AR: Bein Sport 2 SD
-http://geo-stream.xyz:8880/live/54393917/67737458/10464.ts
-#EXTINF:-1,AR: BeIN Sports 7 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/109027.ts
-#EXTINF:-1,beIN SPORTS XTRA 1 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/456753.ts
-#EXTINF:-1,beIN SPORTS XTRA 2 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/456754.ts
-#EXTINF:-1,AR: Bein Sports 9 SD
-http://geo-stream.xyz:8880/live/54393917/67737458/136573.ts
-#EXTINF:-1,AR: VIP BeIN Sports 5-HD
-http://geo-stream.xyz:8880/live/54393917/67737458/109025.ts
-#EXTINF:-1,FR: BEIN SPORT MAX 6 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/322124.ts
-#EXTINF:-1,AR: Bein sport max 5 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/322123.ts
-#EXTINF:-1,AR: beIN Sports Max 4 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/352816.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 5 SD
-
-
-#EXTINF:-1,CA: beIN Sports prem HD
-http://geo-stream.xyz:8880/live/54393917/67737458/98315.ts
-#EXTINF:-1,CR: beIN SPORT 3 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/109111.ts
-
-#EXTINF:-1,FR:  Bein Sport 1 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/109907.ts
-#EXTINF:-1,FR: BEIN SPORTS 1 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/110247.ts
-#EXTINF:-1,FR:  BeIN SPORTS 1 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/109630.ts
-#EXTINF:-1,FR:  BEIN SPORT 3 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/109909.ts
-#EXTINF:-1,FR:  BeIN SPORTS 3 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/109634.ts
-#EXTINF:-1,FR: Bein Sport MAX 4 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/109529.ts
-#EXTINF:-1,FR: Bein Sport MAX 5 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/109528.ts
-#EXTINF:-1,FR: BEIN MAX 6 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/109450.ts
-#EXTINF:-1,FR:  beIN SPORTS MAX 7 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/109818.ts
-#EXTINF:-1,FR:  beinsports 8 MaX
-http://geo-stream.xyz:8880/live/54393917/67737458/109525.ts
-#EXTINF:-1,FR: BEIN MAX 8 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/109451.ts
-#EXTINF:-1,FR:  Bein Sport MaX 10
-http://geo-stream.xyz:8880/live/54393917/67737458/109625.ts
-#EXTINF:-1,FR:  BEIN SPORT 2 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/109908.ts
-
-#EXTINF:-1,Bein Sport 01 AR
-http://geo-stream.xyz:8880/live/54393917/67737458/115745.ts
-#EXTINF:-1,FR: Bein Sport 2 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/115746.ts
-#EXTINF:-1,Bein Sport 03 AR
-http://geo-stream.xyz:8880/live/54393917/67737458/115747.ts
-#EXTINF:-1,Bein Sport 04 AR
-http://geo-stream.xyz:8880/live/54393917/67737458/115748.ts
-#EXTINF:-1,Bein Sport 05 AR
-http://geo-stream.xyz:8880/live/54393917/67737458/115749.ts
-#EXTINF:-1,Bein Sport 06 AR
-http://geo-stream.xyz:8880/live/54393917/67737458/115750.ts
-#EXTINF:-1,Bein Sport 08 AR
-http://geo-stream.xyz:8880/live/54393917/67737458/115752.ts
-#EXTINF:-1,Bein Sport 09 AR
-http://geo-stream.xyz:8880/live/54393917/67737458/115753.ts
-#EXTINF:-1,Bein Sport 12 AR
-http://geo-stream.xyz:8880/live/54393917/67737458/115756.ts
-#EXTINF:-1,Bein Sport FR 1
-http://geo-stream.xyz:8880/live/54393917/67737458/115821.ts
-#EXTINF:-1,Bein Sport FR 2
-http://geo-stream.xyz:8880/live/54393917/67737458/115822.ts
-#EXTINF:-1,Bein Sport 07 AR
-http://geo-stream.xyz:8880/live/54393917/67737458/115751.ts
-#EXTINF:-1,Bein Sport 10 AR
-http://geo-stream.xyz:8880/live/54393917/67737458/115754.ts
-#EXTINF:-1,TR| BEIN SPORT 3 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/115757.ts
-#EXTINF:-1,TR:  BEIN SPORTS 2 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/134453.ts
-#EXTINF:-1,TR:  BEIN SPORTS 3 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/134454.ts
-#EXTINF:-1,TR:  BEIN SPORTS Haber SD
-http://geo-stream.xyz:8880/live/54393917/67737458/134449.ts
-#EXTINF:-1,TR:  BEIN SPORTS MAX 1 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/134456.ts
-#EXTINF:-1,TR: Bein Sports 1 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/97583.ts
-
-
-#EXTINF:-1,US: beIN Sports 01
-http://geo-stream.xyz:8880/live/54393917/67737458/117373.ts
-#EXTINF:-1,US:  beIN Sports 2
-http://geo-stream.xyz:8880/live/54393917/67737458/117127.ts
-#EXTINF:-1,US:  beIN Sports 4 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/117128.ts
-#EXTINF:-1,US:  beIN Sports 5 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/117129.ts
-#EXTINF:-1,US:  beIN Sports 6 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/117130.ts
-#EXTINF:-1,US:  beIN Sports 7 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/117131.ts
-#EXTINF:-1,US:  beIN Sports USA HD
-http://geo-stream.xyz:8880/live/54393917/67737458/117133.ts
-#EXTINF:-1,US: beIN SPORTS La Liga
-http://geo-stream.xyz:8880/live/54393917/67737458/134682.ts
-#EXTINF:-1,US: beIN Sports N
-http://geo-stream.xyz:8880/live/54393917/67737458/117383.ts
-
-#EXTINF:-1,US: beIN Sports Connect HD
-http://geo-stream.xyz:8880/live/54393917/67737458/545740.ts
-#EXTINF:-1,BEIN sport MAX 4 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/320160.ts
-#EXTINF:-1,BEIN sport MAX 1 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/320157.ts
 
 
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/eleven-sports-1-portugal-uk-pt.png" group-title="POLISH",ELEVEN SPORTS 1 HD
@@ -432,197 +177,293 @@ http://38.143.137.105:8080/mb1234/mb1234/26630
 http://38.143.137.105:8080/mb1234/mb1234/26631
 
 
-
-#EXTINF:-1,ES: DAZN 1 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/135891.ts
-#EXTINF:-1,ES: DAZN 2 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/135890.ts
-#EXTINF:-1,ES: DAZN 3 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/484344.ts
-#EXTINF:-1,ES: DAZN 4 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/484345.ts
-#EXTINF:-1,ES: Dazn Formula 1 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/191515.ts
-#EXTINF:-1,ES: Movistar Dazn F1
-http://geo-stream.xyz:8880/live/54393917/67737458/522112.ts
-#EXTINF:-1,ES: DAZN SPORTS 5
-http://geo-stream.xyz:8880/live/54393917/67737458/522114.ts
-#EXTINF:-1,ES: DAZN SPORTS 6 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/522115.ts
-
-
-#EXTINF:-1,PT: SPORT TV 1 SD
-http://geo-stream.xyz:8880/live/54393917/67737458/522186.ts
-#EXTINF:-1, PT: SPORT TV 2 SD
-http://geo-stream.xyz:8880/live/54393917/67737458/522188.ts
-#EXTINF:-1, PT: SPORT TV 3 SD
-http://geo-stream.xyz:8880/live/54393917/67737458/522189.ts
-#EXTINF:-1,PT: Sport TV 4 SD
-http://geo-stream.xyz:8880/live/54393917/67737458/522191.ts
-#EXTINF:-1, PT: SPORT TV 5 SD
-http://geo-stream.xyz:8880/live/54393917/67737458/522190.ts
-#EXTINF:-1,PT: SPORT TV 6 SD
-http://geo-stream.xyz:8880/live/54393917/67737458/522187.ts
-#EXTINF:-1,PT: Sport Tv 2 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/105805.ts
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/522204.ts
-#EXTINF:-1,PT: Sport TV 4 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/99288.ts
-#EXTINF:-1,PT: Sport TV 5 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/99289.ts
-#EXTINF:-1,PT: Sport Tv 6 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/460112.ts
-#EXTINF:-1,PT: SPORT TV + HD
-http://geo-stream.xyz:8880/live/54393917/67737458/59869.ts
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/59871.ts
-#EXTINF:-1,PT: SPORT TV 2 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/59874.ts
-#EXTINF:-1,PT: Sport TV 3 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/61157.ts
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/522182.ts
-#EXTINF:-1,PT: SPORT TV 5 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/522183.ts
-#EXTINF:-1,PT: SPORT TV 6 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/522185.ts
-
-
-
-#EXTINF:-1,PL:  Sport Klub HD
-http://geo-stream.xyz:8880/live/54393917/67737458/29536.ts
-#EXTINF:-1,PL: Sport Klub Polska
-http://geo-stream.xyz:8880/live/54393917/67737458/114069.ts
-#EXTINF:-1,PL:  Eleven Sport 1 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/29568.ts
-#EXTINF:-1,PL: Eleven Sport 1
-http://geo-stream.xyz:8880/live/54393917/67737458/114104.ts
-#EXTINF:-1,PL:  Eleven Sports 2 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/29616.ts
-#EXTINF:-1,PL:  Eleven Sports 3 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/29617.ts
-#EXTINF:-1,PL: Eleven Sports 3 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/133774.ts
-#EXTINF:-1,PL: Eleven Sport 3
-http://geo-stream.xyz:8880/live/54393917/67737458/114106.ts
-#EXTINF:-1,PL:  Eleven Sports 4 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/29618.ts
-#EXTINF:-1,PL: Eleven Sports 4 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/133775.ts
-#EXTINF:-1,PL:  TVP Sport HD
-http://geo-stream.xyz:8880/live/54393917/67737458/29535.ts
-#EXTINF:-1,PL: TVP Sport HD
-http://geo-stream.xyz:8880/live/54393917/67737458/114075.ts
-#EXTINF:-1,PL: CANAL+ SPORT 1 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/114094.ts
-#EXTINF:-1,PL: Canal+ Sport 2 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/114095.ts
-#EXTINF:-1,PL:  Canal Sport 1 Plus HD
-http://geo-stream.xyz:8880/live/54393917/67737458/29501.ts
-#EXTINF:-1,PL:  Canal Sport 2 Plus HD
-http://geo-stream.xyz:8880/live/54393917/67737458/29502.ts
-#EXTINF:-1,PL:  Polsat Sport Premium 1 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/29619.ts
-#EXTINF:-1,PL: Polsat Sport Premium 2
-http://geo-stream.xyz:8880/live/54393917/67737458/60357.ts
-#EXTINF:-1,PL: Polsat Sport Premium 3
-http://geo-stream.xyz:8880/live/54393917/67737458/133843.ts
-#EXTINF:-1,PL: Polsat Sport Premium 6
-http://geo-stream.xyz:8880/live/54393917/67737458/114127.ts
-
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM PPV 3 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/460105.ts
-#EXTINF:-1,PL: Polsat Sport Premium PPV 4
-http://geo-stream.xyz:8880/live/54393917/67737458/460106.ts
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM PPV 5 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/460107.ts
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM PPV 6 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/460108.ts
-
-#EXTINF:-1,PL: CANAL  SPORT 1 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/460109.ts
-#EXTINF:-1,|PL| Canal+ Sport 4K+
-http://geo-stream.xyz:8880/live/54393917/67737458/144333.ts
-#EXTINF:-1,PL: CANAL  SPORT 2 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/460110.ts
-#EXTINF:-1,PL: CANAL SPORT 4 FHD
-http://geo-stream.xyz:8880/live/54393917/67737458/460111.ts
-
-
-
-#EXTINF:-1,PT: Sport TV 1 FHD
-http://yassooo.com:8080/Manaf/Manaf123/82559
-#EXTINF:-1,PT: SPORT TV 1 HD (720P)
-http://yassooo.com:8080/Manaf/Manaf123/82558
-#EXTINF:-1,PT: Sport TV 1
-http://yassooo.com:8080/Manaf/Manaf123/82557
-#EXTINF:-1,PT: Sport TV 2 FHD
-http://yassooo.com:8080/Manaf/Manaf123/82556
-#EXTINF:-1,PT: Sport TV 2
-http://yassooo.com:8080/Manaf/Manaf123/82555
-#EXTINF:-1,PT: Sport TV 3 FHD
-http://yassooo.com:8080/Manaf/Manaf123/82554
-#EXTINF:-1,PT: Sport TV 3
-http://yassooo.com:8080/Manaf/Manaf123/82553
-#EXTINF:-1,PT: Sport TV 4
-http://yassooo.com:8080/Manaf/Manaf123/82552
-#EXTINF:-1,PT: Sport TV 5
-http://yassooo.com:8080/Manaf/Manaf123/82551
-#EXTINF:-1,PT: Eleven Sports 1 FHD 1080
-http://yassooo.com:8080/Manaf/Manaf123/82550
-#EXTINF:-1,PT: Eleven Sports 1 FHD (back up)
-http://yassooo.com:8080/Manaf/Manaf123/82549
-#EXTINF:-1,PT: Eleven Sports 1 HD 720
-http://yassooo.com:8080/Manaf/Manaf123/82548
-#EXTINF:-1,PT: Eleven Sports 1 SD
-http://yassooo.com:8080/Manaf/Manaf123/82547
-#EXTINF:-1,PT: Eleven Sports 2 FHD 1080
-http://yassooo.com:8080/Manaf/Manaf123/82546
-#EXTINF:-1,PT: Eleven Sports 2 HD
-http://yassooo.com:8080/Manaf/Manaf123/82545
-#EXTINF:-1,PT: Eleven Sports 2 HD 720
-http://yassooo.com:8080/Manaf/Manaf123/82544
-#EXTINF:-1,PT: Eleven Sports 2 SD
-http://yassooo.com:8080/Manaf/Manaf123/82543
-#EXTINF:-1,PT: Eleven Sports 3 FHD 1080
-http://yassooo.com:8080/Manaf/Manaf123/82542
-#EXTINF:-1,PT: Eleven Sports 3 HD 720
-http://yassooo.com:8080/Manaf/Manaf123/82541
-#EXTINF:-1,PT: Eleven Sports 3 SD
-http://yassooo.com:8080/Manaf/Manaf123/82540
-#EXTINF:-1,PT: Eleven Sports 3 SD (back up)
-http://yassooo.com:8080/Manaf/Manaf123/82539
-#EXTINF:-1,PT: Eleven Sports 6 SD
-http://yassooo.com:8080/Manaf/Manaf123/82538
-#EXTINF:-1,PT: Eleven Sports 4 FHD 1080
-http://yassooo.com:8080/Manaf/Manaf123/82537
-#EXTINF:-1,PT: Eleven Sports 4 HD 720
-http://yassooo.com:8080/Manaf/Manaf123/82536
-#EXTINF:-1,PT: Eleven Sports 4 SD
-http://yassooo.com:8080/Manaf/Manaf123/82535
-#EXTINF:-1,PT: Eleven Sports 4 SD (back up)
-http://yassooo.com:8080/Manaf/Manaf123/82534
-#EXTINF:-1,PT: Eleven Sports 5 FHD 1080
-http://yassooo.com:8080/Manaf/Manaf123/82533
-#EXTINF:-1,PT: Eleven Sports 5 HD 720
-http://yassooo.com:8080/Manaf/Manaf123/82532
-#EXTINF:-1,PT: Eleven Sports 5 SD
-http://yassooo.com:8080/Manaf/Manaf123/82531
-#EXTINF:-1,PT: Eleven Sports 6 FHD 1080
-http://yassooo.com:8080/Manaf/Manaf123/82530
-#EXTINF:-1,PT: Eleven Sports 6 HD 720
-http://yassooo.com:8080/Manaf/Manaf123/82529
-
-#EXTINF:-1,DE: DAZN 2 HD
+#EXTINF:-1, DAZN 2 HD
 http://yassooo.com:8080/Manaf/Manaf123/83843
-#EXTINF:-1,DE: DAZN 1 HD
+#EXTINF:-1, DAZN 1 HD
 http://yassooo.com:8080/Manaf/Manaf123/83842
-#EXTINF:-1,SP: Dazn 1
+#EXTINF:-1, Dazn 1
 http://yassooo.com:8080/Manaf/Manaf123/81927
-#EXTINF:-1,SP: Dazn 2
+#EXTINF:-1, Dazn 2
 http://yassooo.com:8080/Manaf/Manaf123/81926
-#EXTINF:-1,It: Dazn 1 HD [ Live ]
-http://yassooo.com:8080/Manaf/Manaf123/103886
-#EXTINF:-1,It: Dazn 2 HD
-http://yassooo.com:8080/Manaf/Manaf123/103885
+
+
+
+#EXTINF:-1,Sky Sport Main Events
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/259
+#EXTINF:-1,Sky Sport Cricket
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/258
+#EXTINF:-1,Sky Sport Action
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/257
+#EXTINF:-1,Sky Sport Golf
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/256
+#EXTINF:-1,Sky Sport PL
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/255
+#EXTINF:-1,Sky Sport F1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/253
+#EXTINF:-1,Sky Sport News
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/416
+#EXTINF:-1,Sky Sport Main Events HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6680
+#EXTINF:-1,Sky Sport Cricket HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6681
+#EXTINF:-1,Sky Sport Action HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6682
+#EXTINF:-1,Sky Sport Golf HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6683
+#EXTINF:-1,Sky Sport Premier League HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6684
+#EXTINF:-1,Sky Sport Football HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/15406
+#EXTINF:-1,Sky Sport Arena HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12665
+#EXTINF:-1,Sky Sport F1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6685
+#EXTINF:-1,Sky Sports News HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1624
+#EXTINF:-1,Sky Sports MIX
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7608
+#EXTINF:-1,BT Sports 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1641
+#EXTINF:-1,BT Sports 2 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2512
+#EXTINF:-1,BT Sports 3 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2513
+#EXTINF:-1,Eir Sport 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3045
+#EXTINF:-1,BT Sport 1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/374
+#EXTINF:-1,BT Sport 2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/375
+#EXTINF:-1,BT Sport 3
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1282
+#EXTINF:-1,BT Sport ESPN HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/587
+#EXTINF:-1,BT Sport Extra
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1247
+#EXTINF:-1,BT Sport Mosaic
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7609
+#EXTINF:-1,BT Sport Extra 1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7610
+#EXTINF:-1,BT Sport Extra 2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7611
+#EXTINF:-1,BT Sport Extra 3
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7612
+#EXTINF:-1,BT Sport Extra 4
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7613
+#EXTINF:-1,Box Nation HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/17004
+#EXTINF:-1,EuroSport 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1634
+#EXTINF:-1,EuroSport 2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1633
+#EXTINF:-1,Eir Sport 1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/376
+#EXTINF:-1,Eir Sport 2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18130
+#EXTINF:-1,Chelsea TV HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/937
+
+#EXTINF:-1,FOX Sport 1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2860
+#EXTINF:-1,FOX Sport 2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2861
+#EXTINF:-1,CANAL+ SPORT
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/356
+#EXTINF:-1,BEINSPORT 1HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/14140
+#EXTINF:-1,BEINSPORT 2HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/347
+#EXTINF:-1,BEINSPORT 3HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/346
+#EXTINF:-1,BEINSPORT MAX 4
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2515
+#EXTINF:-1,BEINSPORT MAX 5
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2516
+#EXTINF:-1,BEINSPORT MAX 6
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2517
+#EXTINF:-1,BEINSPORT MAX 7
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2518
+#EXTINF:-1,BEINSPORT MAX 8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2519
+#EXTINF:-1,BEINSPORT MAX 9
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2520
+#EXTINF:-1,BEINSPORT MAX 10
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2521
+
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/539
+#EXTINF:-1,Sky Sport Bundesliga 2 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1344
+#EXTINF:-1,Sky Sport Bundesliga 3 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1343
+#EXTINF:-1,Sky Sport Bundesliga 4 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1342
+#EXTINF:-1,Sky Sport Bundesliga 5 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1341
+#EXTINF:-1,Sky Sport Bundesliga 6 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1340
+#EXTINF:-1,Sky Sport Bundesliga 7 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1339
+#EXTINF:-1,Sky Sport Bundesliga 8 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1338
+#EXTINF:-1,Sky Sport Bundesliga 9 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1337
+#EXTINF:-1,Sky Sport Bundesliga 10 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1345
+#EXTINF:-1,Sky Sport 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/121
+#EXTINF:-1,Sky Sport 2 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/540
+#EXTINF:-1,Sky Sport 3 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7487
+#EXTINF:-1,Sky Sport 4 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1333
+#EXTINF:-1,Sky Sport 5 HD  ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1332
+#EXTINF:-1,Sky Sport 6 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1331
+#EXTINF:-1,Sky Sport 7 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1330
+#EXTINF:-1,Sky Sport 8 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1329
+#EXTINF:-1,Sky Sport 9 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1328
+#EXTINF:-1,Sky Sport 10 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1335
+#EXTINF:-1,Sky Sport 11 HD ( During Games only )
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1334
+#EXTINF:-1,Sky Sport Austria HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/122
+#EXTINF:-1,Sky Sports News HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/120
+
+
+#EXTINF:-1,Sport1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7583
+#EXTINF:-1,Sport1+ HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/35324
+#EXTINF:-1,Sportdigital HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/123
+#EXTINF:-1,Super Sport News HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/224
+#EXTINF:-1,Super Sport 2 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/223
+#EXTINF:-1,Super Sport 3 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/222
+#EXTINF:-1,Super Sport 4 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/221
+#EXTINF:-1,Super Sport 5 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/19809
+#EXTINF:-1,Super Sport 6 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/19810
+#EXTINF:-1,Super Sport 7 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29797
+#EXTINF:-1,Tring Sport News HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/212
+#EXTINF:-1,Tring Sport 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/213
+#EXTINF:-1,Tring Sport 1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2156
+#EXTINF:-1,Tring Sport 2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2155
+#EXTINF:-1,Tring Sport 3
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2154
+#EXTINF:-1,Tring Sport 4
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2153
+
+#EXTINF:-1,K Sport 1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2115
+#EXTINF:-1,K Sport 2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2114
+#EXTINF:-1,K Sport 3
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2113
+#EXTINF:-1,K Sport 4
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2112
+#EXTINF:-1,K Sport 5
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29798
+#EXTINF:-1,Eurosport 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2116
+
+#EXTINF:-1,Arena Sport 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2505
+#EXTINF:-1,Arena Sport 2 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2503
+#EXTINF:-1,Arena Sport 3 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2501
+#EXTINF:-1,Arena Sport 4 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2499
+#EXTINF:-1,Arena Sport 5 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2497
+#EXTINF:-1,Arena Sport 6 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/13586
+#EXTINF:-1,SPORT KLUB 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2494
+#EXTINF:-1,SPORT KLUB 2 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2493
+#EXTINF:-1,SPORT KLUB 3 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2492
+#EXTINF:-1,SPORT KLUB 4 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5345
+#EXTINF:-1,SPORT KLUB 5 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5344
+#EXTINF:-1,SPORT KLUB 6 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5343
+
+#EXTINF:-1,Arena Sport 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2504
+#EXTINF:-1,Arena Sport 2 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2502
+#EXTINF:-1,Arena Sport 3 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2500
+#EXTINF:-1,Arena Sport 4 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2498
+#EXTINF:-1,Arena Sport 5 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/13590
+#EXTINF:-1,SPORT KLUB 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7735
+#EXTINF:-1,SPORT KLUB 2 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7734
+#EXTINF:-1,SPORT KLUB 3 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7733
+#EXTINF:-1,SPORT KLUB 4 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/23610
+#EXTINF:-1,SPORT KLUB 5 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/23609
+#EXTINF:-1,SPORT KLUB 6 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/23608
+#EXTINF:-1,SPORT KLUB Golf
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/23607
+
+#EXTINF:-1,Bein Sport HD1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/4110
+#EXTINF:-1,Bein Sport HD2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/4111
+#EXTINF:-1,Bein Sport HD3
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/4112
+#EXTINF:-1,Bein Sport HD4
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/4113
+
+#EXTINF:-1,Ziggo Sport Docu FHD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/892
+#EXTINF:-1,Ziggo Sport Tennis FHD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2372
+#EXTINF:-1,Ziggo Sport Golf
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/891
+#EXTINF:-1,Ziggo Sport FHD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/9766
+#EXTINF:-1,Ziggo Sport Racing
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/889
+#EXTINF:-1,Ziggo Sport Select HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/957
+#EXTINF:-1,Ziggo Sport Voetbal
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/896
+
+#EXTINF:-1,Nova Sport 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12716
+#EXTINF:-1,Nova Sport 2 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7012
+
+#EXTINF:-1,Sport 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7161
+#EXTINF:-1,Sport 2 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7014
