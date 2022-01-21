@@ -1,9 +1,4 @@
 #EXTM3U 
-#####################################################
-#####################################################
-###########         BEIN STABLE          ############
-#####################################################
-#####################################################
 #EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-name="AR: beIN SPORTS NEWS HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_us.png" group-title="SPORTS",AR: beIN SPORTS NEWS HD
 http://38.143.137.105:8080/mb1234/mb1234/315505
 #EXTINF:-1 tvg-id="beINSports1Ar.qa" tvg-name="AR: beIN SPORT 01 HD" tvg-logo="http://epg4you.com/logos/beinsports.png" group-title="SPORTS",AR: beIN SPORT 01 HD
@@ -61,7 +56,7 @@ http://38.143.137.105:8080/mb1234/mb1234/31185
 
 
 
-EXTINF:-1 tvg-id="Cosmovision.co" tvg-name="AR: OSN MOVIES DISNEY HD" tvg-logo="http://glmtv.pw/logo/prestige/United-Arab-Emirates/osn-movies-disney-ae.png" group-title="ARABIC",AR: OSN MOVIES DISNEY HD
+#EXTINF:-1 tvg-id="Cosmovision.co" tvg-name="AR: OSN MOVIES DISNEY HD" tvg-logo="http://glmtv.pw/logo/prestige/United-Arab-Emirates/osn-movies-disney-ae.png" group-title="ARABIC",AR: OSN MOVIES DISNEY HD
 http://38.143.137.105:8080/mb1234/mb1234/393708
 #EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="AR: OSN ART AFLAM 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-Arab-Emirates/ART-AFLAM-1.png" group-title="ARABIC",AR: OSN ART AFLAM 1 HD
 http://38.143.137.105:8080/mb1234/mb1234/25266
