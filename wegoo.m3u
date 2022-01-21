@@ -1,20 +1,17 @@
 #EXTM3U 
-
-
-
 #EXTINF:-1 ,beIN Sports Global FHD AR
 http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/688155
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports News FHD AR" tvg-logo="" group-title="Sports",beIN Sports News FHD AR
+#EXTINF:-1 ,beIN Sports News FHD AR
 http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/676904
-#EXTINF:-1  1 [HEVC] FHD VIP AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 1 [HEVC] FHD VIP AR
+#EXTINF:-1  ,beIN Sports 1 [HEVC] FHD VIP AR
 http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/678748
-#EXTINF:-1  1 FHD AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 1 FHD AR
+#EXTINF:-1  ,beIN Sports 1 FHD AR
 http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682932
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN Sports 2 [HEVC] FHD VIP AR" tvg-logo="" group-title="Sports",beIN Sports 2 [HEVC] FHD VIP AR
+#EXTINF:-1 ,beIN Sports 2 [HEVC] FHD VIP AR
 http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5481
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN Sports 2 FHD AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 2 FHD AR
+#EXTINF:-1 ,beIN Sports 2 FHD AR
 http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682933
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN Sports 3 [HEVC] FHD VIP AR" tvg-logo="" group-title="Sports",beIN Sports 3 [HEVC] FHD VIP AR
+#EXTINF:-1 ,beIN Sports 3 [HEVC] FHD VIP AR
 http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5480
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN Sports 3 FHD AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 3 FHD AR
-h
+#EXTINF:-1 ,beIN Sports 3 FHD AR
+
