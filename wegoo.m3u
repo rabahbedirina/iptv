@@ -15,3 +15,100 @@ http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682933
 http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5480
 #EXTINF:-1 ,beIN Sports 3 FHD AR
 
+
+#EXTINF:-1 tvg-id="BBC Arabic ARB" tvg-name="BBC Arabic HD ARB" tvg-logo="" group-title="Arabic",BBC Arabic HD ARB
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/14865
+#EXTINF:-1 tvg-id="bbcarabic.sa" tvg-name="BBC Arabic AR" tvg-logo="" group-title="Arabic",BBC Arabic AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/4110
+#EXTINF:-1 tvg-id="artaflam1.sa" tvg-name="Art Aflam 1 AR" tvg-logo="" group-title="Arabic",Art Aflam 1 AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5841
+#EXTINF:-1 tvg-id="artaflam2.sa" tvg-name="Art Aflam 2 AR" tvg-logo="" group-title="Arabic",Art Aflam 2 AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5840
+#EXTINF:-1 tvg-id="hekayat.sa" tvg-name="Art Hekayat 1 AR" tvg-logo="" group-title="Arabic",Art Hekayat 1 AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5838
+#EXTINF:-1 tvg-id="hekayat2.sa" tvg-name="Art Hekayat 2 AR" tvg-logo="" group-title="Arabic",Art Hekayat 2 AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5837
+#EXTINF:-1 tvg-id="cartoonnetwork.qa" tvg-name="Cartoon Network AR" tvg-logo="" group-title="Arabic",Cartoon Network AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5789
+#EXTINF:-1 tvg-id="" tvg-name="Dzair News AR" tvg-logo="" group-title="Arabic",Dzair News AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/8916
+#EXTINF:-1 tvg-id="osnyahala.ae" tvg-name="OSN Ya Hala FHD ARB" tvg-logo="" group-title="Arabic",OSN Ya Hala FHD ARB
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/8855
+#EXTINF:-1 tvg-id="OSN Yahala Drama HD ARB" tvg-name="OSN Ya Hala HD ARB" tvg-logo="" group-title="Arabic",OSN Ya Hala HD ARB
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5908
+#EXTINF:-1 tvg-id="osnyahalaaloula.ae" tvg-name="OSN Ya Hala Al Oula FHD AR" tvg-logo="" group-title="Arabic",OSN Ya Hala Al Oula FHD AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/8848
+#EXTINF:-1 tvg-id="osnyahalacinema.ae" tvg-name="OSN Yahala Cinema HD AR" tvg-logo="" group-title="Arabic",OSN Yahala Cinema HD AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/8862
+#EXTINF:-1 tvg-id="OSN Yahala Cinema HD ARB" tvg-name="OSN Ya Hala Cinema AR" tvg-logo="" group-title="Arabic",OSN Ya Hala Cinema AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5910
+#EXTINF:-1 tvg-id="" tvg-name="OSN Action 2 AR" tvg-logo="" group-title="Arabic",OSN Action 2 AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5901
+#EXTINF:-1 tvg-id="alyawm.sa" tvg-name="OSN Al Yawm HD AR" tvg-logo="" group-title="Arabic",OSN Al Yawm HD AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/8879
+#EXTINF:-1 tvg-id="" tvg-name="OSN Alkass Sport 4 AR" tvg-logo="" group-title="Arabic",OSN Alkass Sport 4 AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5886
+#EXTINF:-1 tvg-id="animalplanet.sa" tvg-name="OSN Animal Planet AR" tvg-logo="" group-title="Arabic",OSN Animal Planet AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5911
+#EXTINF:-1 tvg-id="ARTCinema.sa" tvg-name="OSN Art Cinema AR" tvg-logo="" group-title="Arabic",OSN Art Cinema AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/8881
+#EXTINF:-1 tvg-id="boxoffice.qa" tvg-name="OSN Box Office 1 AR" tvg-logo="" group-title="Arabic",OSN Box Office 1 AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5897
+#EXTINF:-1 tvg-id="" tvg-name="OSN Box Office 3 AR" tvg-logo="" group-title="Arabic",OSN Box Office 3 AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5895
+#EXTINF:-1 tvg-id="osncinema.ae" tvg-name="OSN Cinema 1 AR" tvg-logo="" group-title="Arabic",OSN Cinema 1 AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/8856
+#EXTINF:-1 tvg-id="discovery.sa" tvg-name="OSN Discovery HD ARB" tvg-logo="http://pici.life/SE/discoveryhd.png" group-title="Arabic",OSN Discovery HD ARB
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/672570
+#EXTINF:-1 tvg-id="discovery.sa" tvg-name="OSN Discovery History HD ARB" tvg-logo="http://pici.life/Africans/discovery_history.png" group-title="Arabic",OSN Discovery History HD ARB
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/672571
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery ID FHD ARB" tvg-logo="" group-title="Arabic",OSN Discovery ID FHD ARB
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5903
+#EXTINF:-1 tvg-id="discoveryscience.sa" tvg-name="OSN Discovery Science HD VIP AR" tvg-logo="" group-title="Arabic",OSN Discovery Science HD VIP AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5894
+#EXTINF:-1 tvg-id="" tvg-name="OSN National Geographic ARB" tvg-logo="http://pici.life/Africans/nat_geo_people_us.png" group-title="Arabic",OSN National Geographic ARB
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/672572
+#EXTINF:-1 tvg-id="OSN First ARB" tvg-name="OSN First AR" tvg-logo="" group-title="Arabic",OSN First AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5904
+#EXTINF:-1 tvg-id="" tvg-name="OSN Home Cinema 1 AR" tvg-logo="" group-title="Arabic",OSN Home Cinema 1 AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/4133
+#EXTINF:-1 tvg-id="" tvg-name="OSN Home Cinema 2 AR" tvg-logo="" group-title="Arabic",OSN Home Cinema 2 AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/4132
+#EXTINF:-1 tvg-id="" tvg-name="OSN MBC Drama AR" tvg-logo="" group-title="Arabic",OSN MBC Drama AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5912
+#EXTINF:-1 tvg-id="" tvg-name="OSN MBC Plus Drama AR" tvg-logo="" group-title="Arabic",OSN MBC Plus Drama AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5906
+#EXTINF:-1 tvg-id="osnmoviesaction.ae" tvg-name="OSN Movies Action AR" tvg-logo="" group-title="Arabic",OSN Movies Action AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5916
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Action 2 HD AR" tvg-logo="" group-title="Arabic",OSN Movies Action 2 HD AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/8871
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Box Office 2 HD AR" tvg-logo="" group-title="Arabic",OSN Movies Box Office 2 HD AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/8869
+#EXTINF:-1 tvg-id="osnmoviescomedy.ae" tvg-name="OSN Movies Comedy AR" tvg-logo="" group-title="Arabic",OSN Movies Comedy AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5905
+#EXTINF:-1 tvg-id="osnmoviesdrama.ae" tvg-name="OSN Movies Drama HD ARB" tvg-logo="" group-title="Arabic",OSN Movies Drama HD ARB
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/4123
+#EXTINF:-1 tvg-id="osnmoviesdrama.ae" tvg-name="OSN Movies Drama AR" tvg-logo="" group-title="Arabic",OSN Movies Drama AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5892
+#EXTINF:-1 tvg-id="osnmoviesfestival.ae" tvg-name="OSN Movies Festival ARB" tvg-logo="" group-title="Arabic",OSN Movies Festival ARB
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5917
+#EXTINF:-1 tvg-id="osnmoviesfirsthd.ae" tvg-name="OSN Movies First HD ARB" tvg-logo="" group-title="Arabic",OSN Movies First HD ARB
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/4121
+#EXTINF:-1 tvg-id="osnseriesfirst.ae" tvg-name="OSN Series First HD AR" tvg-logo="" group-title="Arabic",OSN Series First HD AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/8844
+#EXTINF:-1 tvg-id="osnmovies.ae" tvg-name="OSN Movies HD AR" tvg-logo="" group-title="Arabic",OSN Movies HD AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/8868
+#EXTINF:-1 tvg-id="osnmovieskids.ae" tvg-name="OSN Movies Kids HD AR" tvg-logo="" group-title="Arabic",OSN Movies Kids HD AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/4119
+#EXTINF:-1 tvg-id="osnmoviesdrama.ae" tvg-name="OSN Movies Premiere ARB" tvg-logo="" group-title="Arabic",OSN Movies Premiere ARB
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5899
+#EXTINF:-1 tvg-id="starmovies.sa" tvg-name="OSN Star Movies ARB" tvg-logo="" group-title="Arabic",OSN Star Movies ARB
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5914
+#EXTINF:-1 tvg-id="starworld.sa" tvg-name="OSN Star World ARB" tvg-logo="" group-title="Arabic",OSN Star World ARB
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5913
+#EXTINF:-1 tvg-id="musicnow.sa" tvg-name="OSN Music Now AR" tvg-logo="" group-title="Arabic",OSN Music Now AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/4117
+#EXTINF:-1 tvg-id="disney.sa" tvg-name="OSN Disney Channel HD AR" tvg-logo="" group-title="Arabic",OSN Disney Channel HD AR
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/35465
+#EXTINF:-1 tvg-id="osnwwenetwork.ae" tvg-name="OSN WWE HD ARB" tvg-logo="" group-title="Arabic",OSN WWE HD ARB
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/8860
