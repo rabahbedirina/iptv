@@ -2,21 +2,13 @@
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="-------  beIN Sports AR -------" tvg-logo="" group-title="Sports",-------  beIN Sports AR -------
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682924
-#EXTINF:-1 tvg-id="beinmovies1.qa" tvg-name="beIN Sports Global FHD AR" tvg-logo="" group-title="Sports",beIN Sports Global FHD AR
+#EXTINF:-1 ,beIN Sports Global FHD AR
 http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/688155
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports News FHD AR" tvg-logo="" group-title="Sports",beIN Sports News FHD AR
 http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/676904
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN Sports 1 [HEVC] FHD VIP AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 1 [HEVC] FHD VIP AR
+#EXTINF:-1  1 [HEVC] FHD VIP AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 1 [HEVC] FHD VIP AR
 http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/678748
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN Sports 1 FHD AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 1 FHD AR
+#EXTINF:-1  1 FHD AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 1 FHD AR
 http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682932
 #EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN Sports 2 [HEVC] FHD VIP AR" tvg-logo="" group-title="Sports",beIN Sports 2 [HEVC] FHD VIP AR
 http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5481
@@ -25,88 +17,4 @@ http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682933
 #EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN Sports 3 [HEVC] FHD VIP AR" tvg-logo="" group-title="Sports",beIN Sports 3 [HEVC] FHD VIP AR
 http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5480
 #EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN Sports 3 FHD AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 3 FHD AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682934
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN Sports 4 [HEVC] FHD VIP AR" tvg-logo="" group-title="Sports",beIN Sports 4 [HEVC] FHD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5479
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN Sports 5 [HEVC] FHD VIP AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 5 [HEVC] FHD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682935
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN Sports 5 FHD VIP AR" tvg-logo="" group-title="Sports",beIN Sports 5 FHD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5478
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN Sports 6 [HEVC] FHD VIP AR" tvg-logo="" group-title="Sports",beIN Sports 6 [HEVC] FHD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/54777
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN Sports 7 [HEVC] FHD VIP AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 7 [HEVC] FHD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/683135
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN Sports 7 FHD VIP AR" tvg-logo="" group-title="Sports",beIN Sports 7 FHD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5476
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="beIN Sports Premium 1 FHD VIP AR" tvg-logo="" group-title="Sports",beIN Sports Premium 1 FHD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/53432
-#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="beIN Sports Premium 1 HD VIP AR" tvg-logo="" group-title="Sports",beIN Sports Premium 1 HD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/688156
-#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="beIN Sports Premium 2 FHD VIP AR" tvg-logo="" group-title="Sports",beIN Sports Premium 2 FHD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/688157
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="beIN Sports Premium 2 HD VIP AR" tvg-logo="" group-title="Sports",beIN Sports Premium 2 HD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5474
-#EXTINF:-1 tvg-id="beinsports10.qa" tvg-name="beIN Sports Premium 3 FHD VIP AR" tvg-logo="" group-title="Sports",beIN Sports Premium 3 FHD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5473
-#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="beIN Sports Premium 3 HD VIP AR" tvg-logo="" group-title="Sports",beIN Sports Premium 3 HD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/691817
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports MAX 1 FHD VIP AR" tvg-logo="" group-title="Sports",Bein Sports MAX 1 FHD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/693748
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports MAX 1 HD VIP AR" tvg-logo="" group-title="Sports",Bein Sports MAX 1 HD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/693750
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports MAX 2 FHD VIP AR" tvg-logo="" group-title="Sports",Bein Sports MAX 2 FHD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/693749
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports MAX 2 HD VIP AR" tvg-logo="" group-title="Sports",Bein Sports MAX 2 HD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/693751
-#EXTINF:-1 tvg-id="beinsports11.qa" tvg-name="beIN Sports Xtra 1 FHD VIP AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports Xtra 1 FHD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/667466
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Xtra 2 HD VIP AR" tvg-logo="" group-title="Sports",beIN Sports Xtra 2 HD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/689266
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 1 FHD VIP AR" tvg-logo="" group-title="Sports",beIN Sports English 1 FHD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/689287
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 2 FHD VIP AR" tvg-logo="" group-title="Sports",beIN Sports English 2 FHD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/689288
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 3 HD VIP AR" tvg-logo="" group-title="Sports",beIN Sports English 3 HD VIP AR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/689289
-#EXTINF:-1 tvg-id="" tvg-name="------- beIN Sports US -------" tvg-logo="" group-title="Sports",------- beIN Sports US -------
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682938
-#EXTINF:-1 tvg-id="beinsports.us" tvg-name="beIN Sports FHD US" tvg-logo="https://i.postimg.cc/B6ZB5c3R/be-IN-Sports.png" group-title="Sports",beIN Sports FHD US
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682942
-#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="beIN Sports La Liga HD VIP US" tvg-logo="" group-title="Sports",beIN Sports La Liga HD VIP US
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/687794
-#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="beIN Sports Espanol HD VIP US" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports Espanol HD VIP US
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/678747
-#EXTINF:-1 tvg-id="" tvg-name="------- beIN Sports TR -------" tvg-logo="" group-title="Sports",------- beIN Sports TR -------
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682925
-#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="beIN Sports Haber HD TR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports Haber HD TR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682950
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 HD TR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 1 HD TR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682946
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN Sports 2 FHD TR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 2 FHD TR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682947
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN Sports 3 VIP TR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 3 VIP TR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682948
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="beIN Sports 4 FHD TR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 4 FHD TR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682949
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN Sports Max 1 HD VIP TR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports Max 1 HD VIP TR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682953
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN Sports Max 2 HD VIP TR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports Max 2 HD VIP TR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682954
-#EXTINF:-1 tvg-id="" tvg-name="------- beIN Sports FR -------" tvg-logo="" group-title="Sports",------- beIN Sports FR -------
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682926
-#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="beIN Sports 1 HD FR" tvg-logo="https://i.postimg.cc/4452hX04/Be-INSports1.png" group-title="Sports",beIN Sports 1 HD FR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682943
-#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="beIN Sports 2 HD FR" tvg-logo="https://i.postimg.cc/Hx30jkkf/Bein-sports-2.png" group-title="Sports",beIN Sports 2 HD FR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682944
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="beIN Sports 3 SD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 3 SD FR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/682945
-#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="beIN Sports Max 4 HD FR" tvg-logo="" group-title="Sports",beIN Sports Max 4 HD FR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5470
-#EXTINF:-1 tvg-id="supersport2.za" tvg-name="beIN Sports Max 5 FR" tvg-logo="" group-title="Sports",beIN Sports Max 5 FR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/53604
-#EXTINF:-1 tvg-id="supersport3.za" tvg-name="beIN Sports Max 6 FR" tvg-logo="" group-title="Sports",beIN Sports Max 6 FR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/625242
-#EXTINF:-1 tvg-id="supersport4.za" tvg-name="beIN Sports Max 7 FR" tvg-logo="" group-title="Sports",beIN Sports Max 7 FR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/54678
-#EXTINF:-1 tvg-id="supersport5.za" tvg-name="beIN Sports Max 8 FR" tvg-logo="" group-title="Sports",beIN Sports Max 8 FR
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/5466
+h
