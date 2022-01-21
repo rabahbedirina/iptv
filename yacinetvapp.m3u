@@ -8,127 +8,85 @@
 ########################################################################
 ########################################################################
 ########################################################################
-
-
-#EXTINF:-1,YACIN SPORTS MAX HD1
-http://n21.amaniyouhra.xyz:80/live/996251/index.m3u8
-#EXTINF:-1,YACIN SPORTS MAX HD2
-http://n21.amaniyouhra.xyz:80/live/88001/index.m3u8
-
-#EXTINF:-1,YACIN SPORT PREMIUM 1HD
-http://n21.amaniyouhra.xyz:80/live/61616/index.m3u8
-
-#EXTINF:-1,YACIN SPORT PREMIUM 2HD
-http://n21.amaniyouhra.xyz:80/live/6161949878/index.m3u8
-#EXTINF:-1,YACIN SPORT PREMIUM 3HD
-http://n21.amaniyouhra.xyz:80/live/61512788878/index.m3u8
-#EXTINF:-1,YACIN SPORTS 1HD
-http://n21.amaniyouhra.xyz:80/live/918454578001/index.m3u8
-#EXTINF:-1,YACIN SPORTS 2HD
-http://n21.amaniyouhra.xyz:80/live/69854211/index.m3u8
-#EXTINF:-1,YACIN SPORTS 3HD
-
-http://n21.amaniyouhra.xyz:80/live/645587700/index.m3u8
-#EXTINF:-1,YACIN SPORTS 4HD
-
-http://n21.amaniyouhra.xyz:80/live/9787488847/index.m3u8
-#EXTINF:-1,YACIN SPORTS 5HD
-
-http://n21.amaniyouhra.xyz:80/live/610303030/index.m3u8
-#EXTINF:-1,YACIN SPORTS 6HD
-http://n21.amaniyouhra.xyz:80/live/1515000000/index.m3u8
-#EXTINF:-1,YACIN SPORTS 7HD
-http://n21.amaniyouhra.xyz:80/live/791001144/index.m3u8
-
-#####################################################
-#####################################################
-###########         YACIN SD             ############
-#####################################################
-#####################################################
-
-
-#EXTINF:-1,YACIN SPORTS MAX 1
-http://n21.amaniyouhra.xyz:80/live/500021/index.m3u8
-#EXTINF:-1,YACIN SPORTS MAX 2
-http://n21.amaniyouhra.xyz:80/live/515141/index.m3u8
-#EXTINF:-1,YACIN SPORT PREMIUM 1SD
-http://n21.amaniyouhra.xyz:80/live/88824/index.m3u8
-#EXTINF:-1,YACIN SPORT PREMIUM 2SD
-http://n21.amaniyouhra.xyz:80/live/794812458/index.m3u8
-
-#EXTINF:-1,YACIN SPORT PREMIUM 3SD
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/28
-#http://n21.amaniyouhra.xyz:80/live/179885588/index.m3u8
-#EXTINF:-1,YACIN SPORTS 1SD
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/29
-#http://n21.amaniyouhra.xyz:80/live/978488877005/index.m3u8
-#EXTINF:-1,YACIN SPORTS 2SD
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/30
-#http://n21.amaniyouhra.xyz:80/live/10011244/index.m3u8
-#EXTINF:-1,YACIN SPORTS 3SD
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/31
-#http://n21.amaniyouhra.xyz:80/live/161988840/index.m3u8
-#EXTINF:-1,YACIN SPORTS 4SD
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/32
-#http://n21.amaniyouhra.xyz:80/live/0103088447/index.m3u8
-#EXTINF:-1,YACIN SPORTS 5SD
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/33
-#http://n21.amaniyouhra.xyz:80/live/115451004/index.m3u8
-#EXTINF:-1,YACIN SPORTS 6SD
-http://n21.amaniyouhra.xyz:80/live/788550011/index.m3u8
-#EXTINF:-1,YACIN SPORTS 7SD
-http://n21.amaniyouhra.xyz:80/live/100666696/index.m3u8
-
-#####################################################
-#####################################################
-###########         BEIN ALL             ############
-#####################################################
-#####################################################
-
-#EXTINF:-1,beIN Sports Max 1 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/95
-#EXTINF:-1,beIN Sports Max 2 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/94
-#EXTINF:-1,beIN Sports 1 Premium 
-http://174.138.184.166:25461/livesport_ios/livesport_android/13
-#EXTINF:-1,beIN Sports 2 Premium 
-http://174.138.184.166:25461/livesport_ios/livesport_android/14
-#EXTINF:-1,beIN Sports 3 Premium 
-http://174.138.184.166:25461/livesport_ios/livesport_android/15
+#EXTINF:-1,beIN Sports Premium 1 HD
+http://yassooo.com:8080/Manaf/Manaf123/80034
+#EXTINF:-1,beIN Sports Premium 2 HD
+http://yassooo.com:8080/Manaf/Manaf123/80033
+#EXTINF:-1,beIN Sports Premium 3 HD
+http://yassooo.com:8080/Manaf/Manaf123/80032
 #EXTINF:-1,beIN Sports 1 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/16
+http://yassooo.com:8080/Manaf/Manaf123/80031
 #EXTINF:-1,beIN Sports 2 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/17
+http://yassooo.com:8080/Manaf/Manaf123/80030
 #EXTINF:-1,beIN Sports 3 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/18
+http://yassooo.com:8080/Manaf/Manaf123/80029
 #EXTINF:-1,beIN Sports 4 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/19
+http://yassooo.com:8080/Manaf/Manaf123/80028
 #EXTINF:-1,beIN Sports 5 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/20
-#EXTINF:-1,beIN Sports Max 1 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/92
-#EXTINF:-1,beIN Sports Max 2 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/93
-#EXTINF:-1,beIN Sports 1 Premium
-http://174.138.184.166:25461/livesport_ios/livesport_android/26
-#EXTINF:-1,beIN Sports 2 Premium
-http://174.138.184.166:25461/livesport_ios/livesport_android/27
-#EXTINF:-1,beIN Sports 3 Premium
-http://174.138.184.166:25461/livesport_ios/livesport_android/28
-#EXTINF:-1,beIN Sports 1 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/29
-#EXTINF:-1,beIN Sports 2 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/30
-#EXTINF:-1,beIN Sports 3 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/31
-#EXTINF:-1,beIN Sports 4 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/32
-#EXTINF:-1,beIN Sports 5 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/33
-#EXTINF:-1,beIN Sport XTRA 1 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/56
-#EXTINF:-1,beIN Sport XTRA 2 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/57
+http://yassooo.com:8080/Manaf/Manaf123/80027
+#EXTINF:-1,beIN Sports 6 HD
+http://yassooo.com:8080/Manaf/Manaf123/80026
+#EXTINF:-1,beIN Sports 7 HD
+http://yassooo.com:8080/Manaf/Manaf123/80025
+#EXTINF:-1,beIN Sports English 1 HD
+http://yassooo.com:8080/Manaf/Manaf123/80024
+#EXTINF:-1,beIN Sports English 2 HD
+http://yassooo.com:8080/Manaf/Manaf123/80023
+
+#EXTINF:-1,beIN SPORTS MAX 1 
+http://yassooo.com:8080/Manaf/Manaf123/120000
+#EXTINF:-1,beIN SPORTS MAX 2 
+http://yassooo.com:8080/Manaf/Manaf123/119999
+#EXTINF:-1,beIN Sports Premium 1 
+http://yassooo.com:8080/Manaf/Manaf123/80079
+#EXTINF:-1,beIN Sports Premium 2 
+http://yassooo.com:8080/Manaf/Manaf123/80078
+#EXTINF:-1,beIN Sports Premium 3 
+http://yassooo.com:8080/Manaf/Manaf123/80077
+#EXTINF:-1,beIN Sports 1 
+http://yassooo.com:8080/Manaf/Manaf123/80076
+#EXTINF:-1,beIN Sports 2 
+http://yassooo.com:8080/Manaf/Manaf123/80075
+#EXTINF:-1,beIN Sports 3 
+http://yassooo.com:8080/Manaf/Manaf123/80074
+#EXTINF:-1,beIN PORTS 4 
+http://yassooo.com:8080/Manaf/Manaf123/80073
+#EXTINF:-1,beIN PORTS 5 
+http://yassooo.com:8080/Manaf/Manaf123/80072
+#EXTINF:-1,beIN Sports 6 
+http://yassooo.com:8080/Manaf/Manaf123/80071
+#EXTINF:-1,beIN Sports 7 
+
+#EXTINF:-1,beIN Sports Premium 01 Low
+http://yassooo.com:8080/Manaf/Manaf123/80155
+#EXTINF:-1,beIN Sports Premium 02 Low
+http://yassooo.com:8080/Manaf/Manaf123/80154
+#EXTINF:-1,beIN Sports Premium 03 Low
+http://yassooo.com:8080/Manaf/Manaf123/80153
+#EXTINF:-1,beIN Sports 01 Low
+http://yassooo.com:8080/Manaf/Manaf123/80152
+#EXTINF:-1,beIN Sports 02 Low
+http://yassooo.com:8080/Manaf/Manaf123/80151
+#EXTINF:-1,beIN Sports 03 Low
+http://yassooo.com:8080/Manaf/Manaf123/80150
+#EXTINF:-1,beIN Sports 04 Low
+http://yassooo.com:8080/Manaf/Manaf123/80149
+#EXTINF:-1,beIN Sports 05 Low
+http://yassooo.com:8080/Manaf/Manaf123/80148
+#EXTINF:-1,beIN Sports 06 Low
+http://yassooo.com:8080/Manaf/Manaf123/80147
+#EXTINF:-1,beIN Sports 07 Low
+http://yassooo.com:8080/Manaf/Manaf123/80146
+#EXTINF:-1,beIN Sports English 01 Low
+http://yassooo.com:8080/Manaf/Manaf123/80144
+#EXTINF:-1,beIN Sports English 02 Low
+http://yassooo.com:8080/Manaf/Manaf123/80143
+#EXTINF:-1,beIN Sports English 03 Low
+http://yassooo.com:8080/Manaf/Manaf123/80142
+#EXTINF:-1,beIN Sports French 01 Low
+http://yassooo.com:8080/Manaf/Manaf123/80141
+#EXTINF:-1,beIN Sports French 02 Low
+http://yassooo.com:8080/Manaf/Manaf123/80140
 
 
 
