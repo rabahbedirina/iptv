@@ -8,6 +8,12 @@
 ########################################################################
 ########################################################################
 ########################################################################
+#EXTINF:-1,beIN Sports News
+http://yassooo.com:8080/Manaf/Manaf123/83323
+#EXTINF:-1,beIN Sports 
+http://yassooo.com:8080/Manaf/Manaf123/83322
+
+
 #EXTINF:-1,beIN Sports Premium 01 HEVC
 http://yassooo.com:8080/Manaf/Manaf123/80061
 #EXTINF:-1,beIN Sports Premium 02 HEVC
@@ -576,39 +582,44 @@ http://yassooo.com:8080/Manaf/Manaf123/120005
 
 
 #EXTINF:-1,SPORT TV 1 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/59871.ts
+http://38.143.137.105:8080/mb1234/mb1234/26627
 #EXTINF:-1,SPORT TV 2 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/59874.ts
+http://38.143.137.105:8080/mb1234/mb1234/26628
 #EXTINF:-1,Sport TV 3 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/61157.ts
+http://38.143.137.105:8080/mb1234/mb1234/26629
 #EXTINF:-1,SPORT TV 4 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/522182.ts
+http://38.143.137.105:8080/mb1234/mb1234/26630
 #EXTINF:-1,SPORT TV 5 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/522183.ts
-#EXTINF:-1,SPORT TV 6 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/522185.ts
+http://38.143.137.105:8080/mb1234/mb1234/26631
 
-#EXTINF:-1, ELEVEN  1 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/522193.ts
-#EXTINF:-1, ELEVEN  2 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/522195.ts
-#EXTINF:-1, ELEVEN  3 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/522197.ts
-#EXTINF:-1, ELEVEN  4 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/522199.ts
-#EXTINF:-1, ELEVEN  5 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/522201.ts
-#EXTINF:-1, ELEVEN  6 HD
-http://geo-stream.xyz:8880/live/54393917/67737458/522203.ts
-#EXTINF:-1,ELEVEN  1
-http://geo-stream.xyz:8880/live/54393917/67737458/99280.ts
-#EXTINF:-1,ELEVEN  2
-http://geo-stream.xyz:8880/live/54393917/67737458/99281.ts
-#EXTINF:-1,ELEVEN  3
-http://geo-stream.xyz:8880/live/54393917/67737458/99282.ts
-#EXTINF:-1,ELEVEN  4
-http://geo-stream.xyz:8880/live/54393917/67737458/99283.ts
-#EXTINF:-1,ELEVEN  5
-http://geo-stream.xyz:8880/live/54393917/67737458/99284.ts
-#EXTINF:-1,ELEVEN  6
-http://geo-stream.xyz:8880/live/54393917/67737458/99285.ts
+
+# EXTINF:-1, ELEVEN  1 HD
+# EXTINF:-1, ELEVEN  2 HD
+# EXTINF:-1, ELEVEN  3 HD
+# EXTINF:-1, ELEVEN  4 HD
+# EXTINF:-1, ELEVEN  5 HD
+# EXTINF:-1, ELEVEN  6 HD
+
+
+
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="PL: CANAL+ SPORT 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/canalplus_pl_sport.png" group-title="POLISH",PL: CANAL+ SPORT 1 HD
+http://38.143.137.105:8080/mb1234/mb1234/15207
+
+#EXTINF:-1 tvg-id="247Retro.us" tvg-name="PL: CANAL+ SPORT 2 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/canalplus_pl_sport2.png" group-title="POLISH",PL: CANAL+ SPORT 2 HD
+http://38.143.137.105:8080/mb1234/mb1234/15219
+#EXTINF:-1 tvg-id="CanalPlusSport 2.pl" tvg-name="PL: CANAL+ SPORT 3 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/canal-plus-sport-3-polska-pl.png" group-title="POLISH",PL: CANAL+ SPORT 3 HD
+http://38.143.137.105:8080/mb1234/mb1234/15213
+
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="PL: ELEVEN SPORTS 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/eleven-sports-1-portugal-uk-pt.png" group-title="POLISH",PL: ELEVEN SPORTS 1 HD
+http://38.143.137.105:8080/mb1234/mb1234/15198
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="PL: ELEVEN SPORTS 2 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/eleven-sports-2-portugal-uk-pt.png" group-title="POLISH",PL: ELEVEN SPORTS 2 HD
+http://38.143.137.105:8080/mb1234/mb1234/15200
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="PL: ELEVEN SPORTS 3 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/eleven-sports-3-portugal-uk-pt.png" group-title="POLISH",PL: ELEVEN SPORTS 3 HD
+http://38.143.137.105:8080/mb1234/mb1234/15199
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="PL: ELEVEN SPORTS 4 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/eleven-sports-4-portugal-uk-pt.png" group-title="POLISH",PL: ELEVEN SPORTS 4 HD
+http://38.143.137.105:8080/mb1234/mb1234/60949
+
+EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="PL: POLSAT SPORT PREMIUM 01 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/polsat_sport.png" group-title="POLISH",PL: POLSAT SPORT PREMIUM 01 HD
+http://38.143.137.105:8080/mb1234/mb1234/330386
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="PL: POLSAT SPORT PREMIUM 02 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/canalplus_pl_ale_kino.png" group-title="POLISH",PL: POLSAT SPORT PREMIUM 02 HD
+http://38.143.137.105:8080/mb1234/mb1234/15226
