@@ -8,589 +8,49 @@
 ########################################################################
 ########################################################################
 ########################################################################
-#EXTINF:-1,beIN Sports News
-http://yassooo.com:8080/Manaf/Manaf123/83323
-#EXTINF:-1,beIN Sports 
-http://yassooo.com:8080/Manaf/Manaf123/83322
+#EXTINF:-1,YACIN SPORTS MAX HD1
+http://k21.yacinelivetv.com:80/live/996251/index.m3u8?t=aYEIix5q6me8-YLsxC1n6w&e=1644002670
+#EXTINF:-1,YACIN SPORTS MAX HD2
+http://k21.yacinelivetv.com:80/live/88001/index.m3u8?t=qFhVZkNkeoxlbP-rkeHyhw&e=1644005864
 
+#EXTINF:-1,YACIN SPORTS MAX 1
+http://k21.yacinelivetv.com:80/live/500021/index.m3u8?t=ReS_jkOQ99GjGTH8JCiB9Q&e=1644005995
+#EXTINF:-1,YACIN SPORTS MAX 2
+http://k21.yacinelivetv.com:80/live/515141/index.m3u8?t=BT0nCiabtCwDYS_jQLlc0g&e=1644006108
 
-#EXTINF:-1,beIN Sports Premium 01 HEVC
-http://yassooo.com:8080/Manaf/Manaf123/80061
-#EXTINF:-1,beIN Sports Premium 02 HEVC
-http://yassooo.com:8080/Manaf/Manaf123/80060
-#EXTINF:-1,beIN Sports Premium 03 HEVC
-http://yassooo.com:8080/Manaf/Manaf123/80059
-#EXTINF:-1,beIN Sports 01 HEVC
-http://yassooo.com:8080/Manaf/Manaf123/80058
-#EXTINF:-1,beIN Sports 02 HEVC
-http://yassooo.com:8080/Manaf/Manaf123/80057
-#EXTINF:-1,beIN Sports 03 HEVC
-http://yassooo.com:8080/Manaf/Manaf123/80056
-#EXTINF:-1,beIN Sports 04 HEVC
-http://yassooo.com:8080/Manaf/Manaf123/80055
-#EXTINF:-1,beIN Sports 05 HEVC
-http://yassooo.com:8080/Manaf/Manaf123/80054
-#EXTINF:-1,beIN Sports 06 HEVC
-http://yassooo.com:8080/Manaf/Manaf123/80053
-#EXTINF:-1,beIN Sports 07 HEVC
-http://yassooo.com:8080/Manaf/Manaf123/80052
-
-#EXTINF:-1,beIN Sports 1 Premium  HD
-http://yassooo.com:8080/Manaf/Manaf123/80034
-#EXTINF:-1,beIN Sports 2 Premium  HD
-http://yassooo.com:8080/Manaf/Manaf123/80033
-#EXTINF:-1,beIN Sports 3 Premium  HD
-http://yassooo.com:8080/Manaf/Manaf123/80032
-#EXTINF:-1,beIN Sports 1 HD
-http://yassooo.com:8080/Manaf/Manaf123/80031
-#EXTINF:-1,beIN Sports 2 HD
-http://yassooo.com:8080/Manaf/Manaf123/80030
-#EXTINF:-1,beIN Sports 3 HD
-http://yassooo.com:8080/Manaf/Manaf123/80029
-#EXTINF:-1,beIN Sports 4 HD
-http://yassooo.com:8080/Manaf/Manaf123/80028
-#EXTINF:-1,beIN Sports 5 HD
-http://yassooo.com:8080/Manaf/Manaf123/80027
-#EXTINF:-1,beIN Sports 6 HD
-http://yassooo.com:8080/Manaf/Manaf123/80026
-#EXTINF:-1,beIN Sports 7 HD
-http://yassooo.com:8080/Manaf/Manaf123/80025
-#EXTINF:-1,beIN Sports English 1 HD
-http://yassooo.com:8080/Manaf/Manaf123/80024
-#EXTINF:-1,beIN Sports English 2 HD
-http://yassooo.com:8080/Manaf/Manaf123/80023
-
-#EXTINF:-1,beIN SPORTS MAX 1 
-http://yassooo.com:8080/Manaf/Manaf123/120000
-#EXTINF:-1,beIN SPORTS MAX 2 
-http://yassooo.com:8080/Manaf/Manaf123/119999
-#EXTINF:-1,beIN Sports 1 Premium
-http://yassooo.com:8080/Manaf/Manaf123/80079
-#EXTINF:-1,beIN Sports 2 Premium
-http://yassooo.com:8080/Manaf/Manaf123/80078
-#EXTINF:-1,beIN Sports 3 Premium
-http://yassooo.com:8080/Manaf/Manaf123/80077
-#EXTINF:-1,beIN Sports 1 
-http://yassooo.com:8080/Manaf/Manaf123/80076
-#EXTINF:-1,beIN Sports 2 
-http://yassooo.com:8080/Manaf/Manaf123/80075
-#EXTINF:-1,beIN Sports 3 
-http://yassooo.com:8080/Manaf/Manaf123/80074
-#EXTINF:-1,beIN SPORTS 4 
-http://yassooo.com:8080/Manaf/Manaf123/80073
-#EXTINF:-1,beIN SPORTS 5 
-http://yassooo.com:8080/Manaf/Manaf123/80072
-#EXTINF:-1,beIN Sports 6 
-http://yassooo.com:8080/Manaf/Manaf123/80071
-#EXTINF:-1,beIN Sports 7 
-
-#EXTINF:-1,beIN Sports Premium 01 Low
-http://yassooo.com:8080/Manaf/Manaf123/80155
-#EXTINF:-1,beIN Sports Premium 02 Low
-http://yassooo.com:8080/Manaf/Manaf123/80154
-#EXTINF:-1,beIN Sports Premium 03 Low
-http://yassooo.com:8080/Manaf/Manaf123/80153
-#EXTINF:-1,beIN Sports 01 Low
-http://yassooo.com:8080/Manaf/Manaf123/80152
-#EXTINF:-1,beIN Sports 02 Low
-http://yassooo.com:8080/Manaf/Manaf123/80151
-#EXTINF:-1,beIN Sports 03 Low
-http://yassooo.com:8080/Manaf/Manaf123/80150
-#EXTINF:-1,beIN Sports 04 Low
-http://yassooo.com:8080/Manaf/Manaf123/80149
-#EXTINF:-1,beIN Sports 05 Low
-http://yassooo.com:8080/Manaf/Manaf123/80148
-#EXTINF:-1,beIN Sports 06 Low
-http://yassooo.com:8080/Manaf/Manaf123/80147
-#EXTINF:-1,beIN Sports 07 Low
-http://yassooo.com:8080/Manaf/Manaf123/80146
-#EXTINF:-1,beIN Sports English 01 Low
-http://yassooo.com:8080/Manaf/Manaf123/80144
-#EXTINF:-1,beIN Sports English 02 Low
-http://yassooo.com:8080/Manaf/Manaf123/80143
-#EXTINF:-1,beIN Sports English 03 Low
-http://yassooo.com:8080/Manaf/Manaf123/80142
-#EXTINF:-1,beIN Sports French 01 Low
-http://yassooo.com:8080/Manaf/Manaf123/80141
-#EXTINF:-1,beIN Sports French 02 Low
-http://yassooo.com:8080/Manaf/Manaf123/80140
+#EXTINF:-1,YACIN SPORT PREMIUM 1HD
+http://k21.yacinelivetv.com:80/live/61616/index.m3u8?t=DcqY3UC7GDSc6hTJ3JhSfQ&e=1644006192
+#EXTINF:-1,YACIN SPORT PREMIUM 2HD
+http://k21.yacinelivetv.com:80/live/6161949878/index.m3u8
+#EXTINF:-1,YACIN SPORT PREMIUM 3HD
+http://k21.yacinelivetv.com:80/live/61512788878/index.m3u8
+#EXTINF:-1,YACIN SPORTS 1HD
+http://k21.yacinelivetv.com:80/live/918454578001/index.m3u8
+#EXTINF:-1,YACIN SPORTS 2HD
+http://k21.yacinelivetv.com:80/live/69854211/index.m3u8
+#EXTINF:-1,YACIN SPORTS 3HD
+http://k21.yacinelivetv.com:80/live/645587700/index.m3u8
+#EXTINF:-1,YACIN SPORTS 4HD
+http://k21.yacinelivetv.com:80/live/9787488847/index.m3u8
+#EXTINF:-1,YACIN SPORTS 5HD
+http://k21.yacinelivetv.com:80/live/610303030/index.m3u8
+#EXTINF:-1,YACIN SPORTS 6HD
+http://k21.yacinelivetv.com:80/live/1515000000/index.m3u8
+#EXTINF:-1,YACIN SPORTS 7HD
+http://k21.yacinelivetv.com:80/live/791001144/index.m3u8
 
 
 
-#####################################################
-#####################################################
-###########             OSN              ############
-#####################################################
-#####################################################
+#EXTINF:-1 ,beIN SPORTS NEWS HD
+http://38.143.137.105:8080/mb1234/mb1234/315505
 
-#EXTINF:-1,OSN Yahala HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80233
-#EXTINF:-1,OSN Yahala Oula HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80232
-#EXTINF:-1,OSN Yahala Cinema HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80231
-#EXTINF:-1,OSN Series HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80230
-#EXTINF:-1,OSN Action HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80229
-#EXTINF:-1,OSN Movies HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80228
-#EXTINF:-1,OSN Movies First HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80227
-#EXTINF:-1,OSN Movies First +2 HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80226
-#EXTINF:-1,OSN Movies Disney HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80225
-#EXTINF:-1,OSN Enigma HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80224
-#EXTINF:-1,OSN Kids HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80223
-#EXTINF:-1,OSN Series First HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80222
-#EXTINF:-1,OSN Series Comedy HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80221
-#EXTINF:-1,OSN Star Movies HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80220
-#EXTINF:-1,OSN Star World HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80219
-#EXTINF:-1,OSN TLC HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80218
-#EXTINF:-1,OSN Crime HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80217
-#EXTINF:-1,OSN Comedy Central
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80216
-#EXTINF:-1,OSN E! HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80215
-#EXTINF:-1,OSN Living HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80214
-#EXTINF:-1,OSN Alfa AlFann HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80212
-#EXTINF:-1,OSN Alfa Al Safwa HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80211
-#EXTINF:-1,OSN Alfa Alyoum HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80210
-#EXTINF:-1,OSN Alfa Cinema 1 HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80209
-#EXTINF:-1,OSN Alfa Cinema 2 HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80208
-#EXTINF:-1,OSN Alfa Musalsalat HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80207
-#EXTINF:-1,OSN Alfa Music Now HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80205
-#EXTINF:-1,OSN News HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80204
-#EXTINF:-1,OSN History HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80203
-#EXTINF:-1,OSN H2 HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80202
-#EXTINF:-1,OSN Nat Geo HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80201
-#EXTINF:-1,OSN Nat People HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80200
-#EXTINF:-1,OSN Nat Geo Wild HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80199
-#EXTINF:-1,OSN Discovery HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80198
-#EXTINF:-1,OSN Discovery ID HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80197
-#EXTINF:-1,OSN Discovery SC HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80196
-#EXTINF:-1,OSN Disney HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80195
-#EXTINF:-1,OSN Disney Junior HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80194
-#EXTINF:-1,OSN Baby HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80193
-#EXTINF:-1,OSN Nickelodeon HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80192
-#EXTINF:-1,OSN Nick Jr HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80191
-#EXTINF:-1,OSN Nick Toon HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80190
-#EXTINF:-1,OSN Kids Zone HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80189
+#EXTINF:-1,beIN SPORTS 1 PREMIUM  HD
+http://38.143.137.105:8080/mb1234/mb1234/30241
+#EXTINF:-1 ,beIN SPORTS 2 PREMIUM HD
+http://38.143.137.105:8080/mb1234/mb1234/30240
+#EXTINF:-1 , beIN SPORTS 3 PREMIUM HD
+http://38.143.137.105:8080/mb1234/mb1234/30239
 
-
-#EXTINF:-1,MBC1 HD
-http://yassooo.com:8080/Manaf/Manaf123/80275
-#EXTINF:-1,MBC2 HD
-http://yassooo.com:8080/Manaf/Manaf123/80274
-#EXTINF:-1,MBC3 HD
-http://yassooo.com:8080/Manaf/Manaf123/80273
-#EXTINF:-1,MBC4 HD
-http://yassooo.com:8080/Manaf/Manaf123/80272
-#EXTINF:-1,MBC Drama HD
-http://yassooo.com:8080/Manaf/Manaf123/80271
-#EXTINF:-1,MBC Action HD
-http://yassooo.com:8080/Manaf/Manaf123/80270
-#EXTINF:-1,MBC Bollywood HD
-http://yassooo.com:8080/Manaf/Manaf123/80269
-#EXTINF:-1,MBC Variety HD
-http://yassooo.com:8080/Manaf/Manaf123/80268
-#EXTINF:-1,MBC Masir1 HD
-http://yassooo.com:8080/Manaf/Manaf123/80267
-#EXTINF:-1,MBC Drama+ HD
-http://yassooo.com:8080/Manaf/Manaf123/80266
-#EXTINF:-1,MBC Masir2 HD
-http://yassooo.com:8080/Manaf/Manaf123/80265
-#EXTINF:-1,MBC MAX HD
-http://yassooo.com:8080/Manaf/Manaf123/80264
-#EXTINF:-1,MBC Iraq HD
-http://yassooo.com:8080/Manaf/Manaf123/80263
-#EXTINF:-1,MBC 1 
-http://yassooo.com:8080/Manaf/Manaf123/80262
-#EXTINF:-1,MBC 2 
-http://yassooo.com:8080/Manaf/Manaf123/80261
-#EXTINF:-1,MBC 3 
-http://yassooo.com:8080/Manaf/Manaf123/80260
-#EXTINF:-1,MBC 4 
-http://yassooo.com:8080/Manaf/Manaf123/80259
-#EXTINF:-1,MBC Bollywood 
-http://yassooo.com:8080/Manaf/Manaf123/80258
-#EXTINF:-1,MBC Max 
-http://yassooo.com:8080/Manaf/Manaf123/80257
-#EXTINF:-1,MBC Iraq 
-http://yassooo.com:8080/Manaf/Manaf123/80256
-#EXTINF:-1,MBC Action 
-http://yassooo.com:8080/Manaf/Manaf123/80255
-#EXTINF:-1,MBC Drama 
-http://yassooo.com:8080/Manaf/Manaf123/80254
-
-#####################################################
-#####################################################
-###########           NETFLIX            ############
-#####################################################
-#####################################################
-#EXTINF:-1,Netflix Cinema HD
-http://yassooo.com:8080/Manaf/Manaf123/91696
-#EXTINF:-1,Netflix Classic HD
-http://yassooo.com:8080/Manaf/Manaf123/91695
-#EXTINF:-1,Netflix Movies HD
-http://yassooo.com:8080/Manaf/Manaf123/91694
-#EXTINF:-1,Netflix Action HD
-http://yassooo.com:8080/Manaf/Manaf123/91693
-#EXTINF:-1,Netflix Horror HD
-http://yassooo.com:8080/Manaf/Manaf123/91692
-#EXTINF:-1,Netflix Hindi HD
-http://yassooo.com:8080/Manaf/Manaf123/91691
-#EXTINF:-1,Netflix Kids HD
-http://yassooo.com:8080/Manaf/Manaf123/91690
-
-#####################################################
-#####################################################
-###########         Bein Ente            ############
-#####################################################
-#####################################################
-#EXTINF:-1,beIN Movies HD1
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80183
-#EXTINF:-1,beIN Movies HD2
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80182
-#EXTINF:-1,beIN Movies HD3
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80181
-#EXTINF:-1,beIN Movies HD4
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80180
-#EXTINF:-1,beIN Drama HD1
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80179
-#EXTINF:-1,beIN Series HD1
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80178
-#EXTINF:-1,beIN Series HD2
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80177
-#EXTINF:-1,beIN Fox Life HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80176
-#EXTINF:-1,beIN Fox Crime HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80175
-#EXTINF:-1,beIN Fox Rewayat HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80174
-#EXTINF:-1,beIN Fox Movies HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80173
-#EXTINF:-1,beIN Fox Action Movies HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80172
-#EXTINF:-1,beIN Star World HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80171
-#EXTINF:-1,beIN Star Movies HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80170
-#EXTINF:-1,beIN AMC HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80169
-#EXTINF:-1,beIN HGTV HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80168
-#EXTINF:-1,beIN Gourmet HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80167
-#EXTINF:-1,beIN Fatafeat
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80166
-#EXTINF:-1,beIN Food Network HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80165
-#EXTINF:-1,beIN OutDoor HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80164
-#EXTINF:-1,beIN Travel HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80163
-#EXTINF:-1,beIN BBC Earth HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80162
-#EXTINF:-1,beIN Be Junior
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80161
-#EXTINF:-1,beIN Nat Geo HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80160
-#EXTINF:-1,beIN Nat Geo People HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80159
-#EXTINF:-1,beIN Nat geo Wild HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80158
-#EXTINF:-1,beIN Baraem HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80157
-#EXTINF:-1,beIN Baby HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80156
-#####################################################
-#####################################################
-###########          Algeria             ############
-#####################################################
-#####################################################
-
-#EXTINF:-1,EL BILAD TV
-http://yassooo.com:8080/Manaf/Manaf123/591
-#EXTINF:-1,PROGRAMME NATIONAL
-http://yassooo.com:8080/Manaf/Manaf123/589
-#EXTINF:-1,Samira TV
-http://yassooo.com:8080/Manaf/Manaf123/588
-#EXTINF:-1,Bahia TV
-http://yassooo.com:8080/Manaf/Manaf123/587
-#EXTINF:-1,EL FADJR TV 
-http://yassooo.com:8080/Manaf/Manaf123/586
-#EXTINF:-1,Echorouk News
-http://yassooo.com:8080/Manaf/Manaf123/585
-#EXTINF:-1,CANAL ALGERIE
-http://yassooo.com:8080/Manaf/Manaf123/584
-#EXTINF:-1,ENNAHAR TV
-http://yassooo.com:8080/Manaf/Manaf123/583
-#EXTINF:-1,Alanis TV
-http://yassooo.com:8080/Manaf/Manaf123/582
-#EXTINF:-1,TV5
-http://yassooo.com:8080/Manaf/Manaf123/580
-#EXTINF:-1,Beur TV
-http://yassooo.com:8080/Manaf/Manaf123/579
-#EXTINF:-1,Dzair Jannah
-http://yassooo.com:8080/Manaf/Manaf123/577
-#EXTINF:-1,EchoroukTV
-http://yassooo.com:8080/Manaf/Manaf123/576
-#EXTINF:-1,El Heddaf TV
-http://yassooo.com:8080/Manaf/Manaf123/575
-#EXTINF:-1,EL DJAZAIRIA One
-http://yassooo.com:8080/Manaf/Manaf123/572
-#EXTINF:-1,EL HAYAT TV ALGERIE
-http://yassooo.com:8080/Manaf/Manaf123/571
-#EXTINF:-1,Awraas TV channel
-http://yassooo.com:8080/Manaf/Manaf123/569
-#EXTINF:-1,El Djazair N1
-http://yassooo.com:8080/Manaf/Manaf123/568
-
-#####################################################
-#####################################################
-###########         SSC Sport            ############
-#####################################################
-#####################################################
-#EXTINF:-1,SSC1 HD
-http://yassooo.com:8080/Manaf/Manaf123/98917
-#EXTINF:-1,SSC2 HD
-http://yassooo.com:8080/Manaf/Manaf123/98916
-#EXTINF:-1,SSC3 HD
-http://yassooo.com:8080/Manaf/Manaf123/98915
-#EXTINF:-1,SSC4 HD
-http://yassooo.com:8080/Manaf/Manaf123/98914
-#EXTINF:-1,SSC5 HD
-http://yassooo.com:8080/Manaf/Manaf123/98913
-#EXTINF:-1,SSC6 HD
-http://yassooo.com:8080/Manaf/Manaf123/98912
-#EXTINF:-1,SSC7 HD
-http://yassooo.com:8080/Manaf/Manaf123/98911
-
-#####################################################
-#####################################################
-###########           BEIN 4K            ############
-#####################################################
-#####################################################
-
-
-#EXTINF:-1,BEIN SPORTS MAX 1 4K 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120006
-#EXTINF:-1,BEIN SPORTS MAX 2 4K 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120005
-#EXTINF:-1,BEIN SPORTS MAX 1 4K 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120676
-#EXTINF:-1,BEIN SPORTS MAX 2 4K 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120677
-#EXTINF:-1,BEIN SPORTS MAX 1 4K 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120810
-#EXTINF:-1,BEIN SPORTS MAX 2 4K 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120809
-
-
-
-#####################################################
-#####################################################
-###########          BEIN FHD            ############
-#####################################################
-#####################################################
-
-#EXTINF:-1,BEIN SPORTS MAX 1 FHD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120808
-#EXTINF:-1,BEIN SPORTS MAX 2 FHD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120807
-#EXTINF:-1,BEIN SPORTS MAX 1 FHD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120674
-#EXTINF:-1,BEIN SPORTS MAX 2 FHD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120675
-
-
-#####################################################
-#####################################################
-###########          BEIN HD             ############
-#####################################################
-#####################################################
-
-#EXTINF:-1,beIN SPORTS MAX HD1
-http://yassooo.com:8080/Manaf/Manaf123/120012
-#EXTINF:-1,beIN SPORTS MAX HD2
-http://yassooo.com:8080/Manaf/Manaf123/120011
-
-#EXTINF:-1,BEIN SPORTS MAX HD1
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120012
-#EXTINF:-1,BEIN SPORTS MAX HD2
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120011
-#EXTINF:-1,BEIN SPORTS MAX HD1
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120680
-#EXTINF:-1,BEIN SPORTS MAX HD2
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120681
-#EXTINF:-1,BEIN SPORTS MAX HD1
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120806
-#EXTINF:-1,BEIN SPORTS MAX HD2
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120805
-
-
-
-
-#####################################################
-#####################################################
-###########          BEIN SD             ############
-#####################################################
-#####################################################
-
-#EXTINF:-1,beIN SPORTS MAX 1 
-http://yassooo.com:8080/Manaf/Manaf123/120000
-#EXTINF:-1,beIN SPORTS MAX 2 
-http://yassooo.com:8080/Manaf/Manaf123/119999
-
-#EXTINF:-1,BEIN SPORTS MAX 1 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120000
-#EXTINF:-1,BEIN SPORTS MAX 2 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/119999
-#EXTINF:-1,BEIN SPORTS MAX 1 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120678
-#EXTINF:-1,BEIN SPORTS MAX 2 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120679
-#EXTINF:-1,BEIN SPORTS MAX 1 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120804
-#EXTINF:-1,BEIN SPORTS MAX 2 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120803
-
-#####################################################
-#####################################################
-###########         BEIN Prem            ############
-#####################################################
-#####################################################
-#EXTINF:-1,beIN Sports Premium 1 4K 
-http://yassooo.com:8080/Manaf/Manaf123/80089
-#EXTINF:-1,beIN Sports Premium 2 4K 
-http://yassooo.com:8080/Manaf/Manaf123/80088
-#EXTINF:-1,beIN Sports Premium 3 4K 
-http://yassooo.com:8080/Manaf/Manaf123/80087
-
-#EXTINF:-1,beIN Sports Premium 1 FHD 
-http://yassooo.com:8080/Manaf/Manaf123/80139
-#EXTINF:-1,beIN Sports Premium 2 FHD 
-http://yassooo.com:8080/Manaf/Manaf123/80138
-#EXTINF:-1,beIN Sports Premium 3 FHD 
-http://yassooo.com:8080/Manaf/Manaf123/80137
-
-#EXTINF:-1,beIN Sports Premium 1 FHD
-http://yassooo.com:8080/Manaf/Manaf123/80020
-#EXTINF:-1,beIN Sports Premium 2 FHD
-http://yassooo.com:8080/Manaf/Manaf123/80019
-#EXTINF:-1,beIN Sports Premium 3 FHD
-http://yassooo.com:8080/Manaf/Manaf123/80018
-
-#EXTINF:-1,beIN Sports Premium 1 HD 
-http://yassooo.com:8080/Manaf/Manaf123/80106
-#EXTINF:-1,beIN Sports Premium 2 HD 
-http://yassooo.com:8080/Manaf/Manaf123/80105
-#EXTINF:-1,beIN Sports Premium 3 HD 
-http://yassooo.com:8080/Manaf/Manaf123/80104
-
-
-
-#####################################################
-#####################################################
-###########           UHD  4K            ############
-#####################################################
-#####################################################
-
-#EXTINF:0,FTV UHD
-http://95.141.128.163:8004/play/a0gj
-#EXTINF:0,MyZen 4K
-http://95.141.128.163:8004/play/a0bw
-#EXTINF:0,КИНО UHD
-http://95.141.128.163:8004/play/a0n9
-#EXTINF:0,Love Nature 4K
-http://95.141.128.163:8004/play/a0n8
-#EXTINF:0,Eurosport 4K
-http://95.141.128.163:8004/play/a0n7
-#EXTINF:-1,Bloomberg TV+ UHD
-https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Fashion TV UHD
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
-
-
-
-#EXTINF:0,Discovery ULTRA
-http://95.141.128.163:8004/play/a0n6
-#EXTINF:0,ELEVEN  1 HD
-http://95.141.128.163:8004/play/a0a8
-#EXTINF:0,ELEVEN  2 HD 
-http://95.141.128.163:8004/play/a0a9
-#EXTINF:0,ELEVEN  3 HD  
-http://95.141.128.163:8004/play/a0aa
-
-#EXTINF:0,HBO HD 
-http://95.141.128.163:8004/play/a05y
-#EXTINF:0,HBO2 HD 
-http://95.141.128.163:8004/play/a0a5
-#EXTINF:0,HBO3 HD  
-http://95.141.128.163:8004/play/a0a6
-
-#####################################################
-#####################################################
-###########           BEIN 4K            ############
-#####################################################
-#####################################################
-
-#EXTINF:-1,BEIN SPORTS MAX 1 4K
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120810
-#EXTINF:-1,BEIN SPORTS MAX 2 4K
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120809
-
-#EXTINF:-1,beIN SPORTS Max 1 4K
-http://yassooo.com:8080/Manaf/Manaf123/120006
-#EXTINF:-1,beIN SPORTS Max 2 4K 
-http://yassooo.com:8080/Manaf/Manaf123/120005
-
-
-#EXTINF:-1,SPORT TV 1 HD
-http://38.143.137.105:8080/mb1234/mb1234/26627
-#EXTINF:-1,SPORT TV 2 HD
-http://38.143.137.105:8080/mb1234/mb1234/26628
-#EXTINF:-1,Sport TV 3 HD
-http://38.143.137.105:8080/mb1234/mb1234/26629
-#EXTINF:-1,SPORT TV 4 HD
-http://38.143.137.105:8080/mb1234/mb1234/26630
-#EXTINF:-1,SPORT TV 5 HD
-http://38.143.137.105:8080/mb1234/mb1234/26631
 
 
 #EXTINF:-1, ELEVEN  1 HD
@@ -669,3 +129,47 @@ http://38.143.137.105:8080/mb1234/mb1234/151686
 http://38.143.137.105:8080/mb1234/mb1234/151684
 #EXTINF:-1,SUPER SPORT 4 HD
 http://38.143.137.105:8080/mb1234/mb1234/151682
+
+
+
+
+#####################################################
+#####################################################
+###########           UHD  4K            ############
+#####################################################
+#####################################################
+
+#EXTINF:0,FTV UHD
+http://95.141.128.163:8004/play/a0gj
+#EXTINF:0,MyZen 4K
+http://95.141.128.163:8004/play/a0bw
+#EXTINF:0,КИНО UHD
+http://95.141.128.163:8004/play/a0n9
+#EXTINF:0,Love Nature 4K
+http://95.141.128.163:8004/play/a0n8
+#EXTINF:0,Eurosport 4K
+http://95.141.128.163:8004/play/a0n7
+#EXTINF:-1,Bloomberg TV+ UHD
+https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Fashion TV UHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+
+
+
+#EXTINF:0,Discovery ULTRA
+http://95.141.128.163:8004/play/a0n6
+#EXTINF:0,ELEVEN  1 HD
+http://95.141.128.163:8004/play/a0a8
+#EXTINF:0,ELEVEN  2 HD 
+http://95.141.128.163:8004/play/a0a9
+#EXTINF:0,ELEVEN  3 HD  
+http://95.141.128.163:8004/play/a0aa
+
+#EXTINF:0,HBO HD 
+http://95.141.128.163:8004/play/a05y
+#EXTINF:0,HBO2 HD 
+http://95.141.128.163:8004/play/a0a5
+#EXTINF:0,HBO3 HD  
+http://95.141.128.163:8004/play/a0a6
+
