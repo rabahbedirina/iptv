@@ -1,17 +1,11 @@
 #EXTM3U 
-#####################################################
-#####################################################
-###########         BEIN STABLE          ############
-#####################################################
-#####################################################
 
-#EXTINF:-1 group-title="BEIN SPORT HD" group-title="BEIN SPORT HD",BEIN SPORTS 1 PREMIUM 
-http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/m3u8/hls_m3u8_Bein-Prem-1-HEVC.m3u8
-#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 2 PREMIUM 
-http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/m3u8/hls_m3u8_Bein-Prem-2-HEVC.m3u8
-#EXTINF:-1 group-title="BEIN SPORT HD",BEIN SPORTS 1 PREMIUM 
-http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 2 PREMIUM 
-http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS 3 PREMIUM 
-http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1 group-title="BEIN SPORT HD" group-title="BEIN SPORT HD",BEIN SPORTS MAX 1
+
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS MAX 2  
+http://89.47.232.173:8080/live/mnhal-2/s2001934s/381927.m3u8?token=HbaXbc.0.y.0.00000000.0.0.00.m3u8.0000000000000000000000000000000000000000000000000000000000000000
+#EXTINF:-1 group-title="BEIN SPORT HD",BEIN SPORTS  MAX 1  
+
+#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS MAX 2  
+http://x3m.li:80/live/yp7ExrM2/7rcRxPGF/9.m3u8
+
