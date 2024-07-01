@@ -2,28 +2,33 @@
 
 
 #EXTINF:-1 group-title="BEIN SPORT HD",BEIN SPORTS  MAX 1  
-http://x3m.li:80/live/yp7ExrM2/7rcRxPGF/4.m3u8
-#EXTINF:-1 group-title="BEIN SPORT HD",BEIN SPORTS  MAX 1  
 http://51.158.176.50:8080/live/00097654688/67884211246/381926.mpd&token=zdcyXU.md5=e2dda10357cb1f4ee4e8b3f43aa42053.yIanUwanUwhHqk.qJwUawQbUk.zMwIiwjHaHqh.QkmwjaJjwjJwn.WmjuUw.00.m3u8.3d0c44da640d8b599dbaba8ea4d8ed4cb02a56763ff23a4b7e43cb9076d626d6.aoqMwjoqnjs.Mqjiaoqko
  
 #EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS MAX 2  
-http://x3m.li:80/live/yp7ExrM2/7rcRxPGF/9.m3u8
-#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS MAX 2  
 http://89.47.232.173:8080/live/mnhal-2/s2001934s/381927.m3u8?token=HbaXbc.0.y.0.00000000.0.0.00.m3u8.0000000000000000000000000000000000000000000000000000000000000000
 
-#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS test  
-http://x3m.li:80/live/yp7ExrM2/7rcRxPGF/1.m3u8
-#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS test  
-http://x3m.li:80/live/yp7ExrM2/7rcRxPGF/2.m3u8
-#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS test  
-http://x3m.li:80/live/yp7ExrM2/7rcRxPGF/3.m3u8
-#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS test  
-http://x3m.li:80/live/yp7ExrM2/7rcRxPGF/5.m3u8
-#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS test  
-http://x3m.li:80/live/yp7ExrM2/7rcRxPGF/6.m3u8
-#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS test  
-http://x3m.li:80/live/yp7ExrM2/7rcRxPGF/7.m3u8
-#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS test  
-http://x3m.li:80/live/yp7ExrM2/7rcRxPGF/8.m3u8
-#EXTINF:-1 group-title="BEIN SPORT HD" ,BEIN SPORTS test  
-http://x3m.li:80/live/yp7ExrM2/7rcRxPGF/10.m3u8
+
+#EXTINF:-1,beIN SPORTS MAX 1 AR 4K
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4342
+#EXTINF:-1,beIN SPORTS MAX 2 AR 4K
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4343
+#EXTINF:-1,beIN SPORTS MAX 3 EN 4K
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4348
+#EXTINF:-1,beIN SPORTS MAX 4 FR 4K
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4349
+#EXTINF:-1,beIN SPORTS MAX 1 AR HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4344
+#EXTINF:-1,beIN SPORTS MAX 2 AR HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4345
+#EXTINF:-1,beIN SPORTS MAX 3 EN HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4350
+#EXTINF:-1,beIN SPORTS MAX 4 FR HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4351
+#EXTINF:-1,beIN SPORTS MAX 1 AR SD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4346
+#EXTINF:-1,beIN SPORTS MAX 2 AR SD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4347
+#EXTINF:-1,beIN SPORTS MAX 3 EN SD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4352
+#EXTINF:-1,beIN SPORTS MAX 4 FR SD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4353
