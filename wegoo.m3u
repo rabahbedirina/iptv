@@ -8,17 +8,61 @@ http://51.158.176.50:8080/live/00097654688/67884211246/381926.mpd&token=zdcyXU.m
 http://89.47.232.173:8080/live/mnhal-2/s2001934s/381927.m3u8?token=HbaXbc.0.y.0.00000000.0.0.00.m3u8.0000000000000000000000000000000000000000000000000000000000000000
 
 
-#EXTINF:-1,beIN SPORTS MAX 1 4K
-http://ugeen.live:8080/UgeenPm8Fiud/7HP605/4342
-#EXTINF:-1,beIN SPORTS MAX 2 4K
-http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4343
-
-#EXTINF:-1,beIN SPORTS MAX 1 HD
-http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4344
-#EXTINF:-1,beIN SPORTS MAX 2 HD
-http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4345
-
-#EXTINF:-1,beIN SPORTS MAX 1 SD
-http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4346
-#EXTINF:-1,beIN SPORTS MAX 2 SD
-http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4347
+#EXTINF:-1,BeIN Sports News HD
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/33689
+#EXTINF:-1,BeIN Sports News 
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/68935
+#EXTINF:-1,Bein Sports News Low
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/381748
+#EXTINF:-1,BeIN Sports Global HD
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/33688
+#EXTINF:-1,Bein Sports Low
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/381749
+#EXTINF:-1,Bein Sports Max 1 
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807354
+#EXTINF:-1,Bein Sports Max 2 
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807355
+#EXTINF:-1,Bein Sports Max 3 
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807356
+#EXTINF:-1,Bein Sports Max 4 
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807357
+#EXTINF:-1,Bein Sports Max 5 
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807358
+#EXTINF:-1,Bein Sports Max 6 
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807359
+#EXTINF:-1,Bein Sports Max 1 
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807360
+#EXTINF:-1,Bein Sports Max 1 HD
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807361
+#EXTINF:-1,Bein Sports Max 2 
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807362
+#EXTINF:-1,Bein Sports Max 2 HD
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807363
+#EXTINF:-1,Bein Sports Max 3 
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807364
+#EXTINF:-1,Bein Sports Max 3 HD
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807365
+#EXTINF:-1,Bein Sports Max 4 
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807366
+#EXTINF:-1,Bein Sports Max 4 HD
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807367
+#EXTINF:-1,Bein Sports Max 5 
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807368
+#EXTINF:-1,Bein Sports Max 5 HD
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807369
+#EXTINF:-1,Bein Sports Max 6 
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807370
+#EXTINF:-1,Bein Sports Max 6 HD
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807371
+#EXTINF:-1,Bein Sports Max 1 SD
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807372
+#EXTINF:-1,Bein Sports Max 2 SD
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807377
+#EXTINF:-1,Bein Sports Max 3 SD
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807376
+#EXTINF:-1,Bein Sports Max 4 SD
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807375
+#EXTINF:-1,Bein Sports Max 5 SD
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807374
+#EXTINF:-1,Bein Sports Max 6 SD
+http://familyplus.me:8080/19737198471266/J0iupQQbo2/807373
