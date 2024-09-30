@@ -19,12 +19,12 @@ http://3.77.248.55:80/iptv/iptv/3.m3u8
 http://3.77.248.55:80/iptv/iptv/4.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://3.77.248.55:80/images/beinsport.png" tvg-name="beIN SPORTS" group-title=" beIN SPORTS HD ",beIN SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.77.248.55:80/images/beinsport.png" tvg-name="beIN SPORTS.qa" group-title=" beIN SPORTS HD ",beIN SPORTS
 http://3.77.248.55:80/iptv/iptv/26.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS News" tvg-logo="http://3.77.248.55:80/images/beinnews.jpg" tvg-name="beIN SPORTS News"   group-title=" beIN SPORTS HD ",beIN SPORTS News
+#EXTINF:-1 tvg-id="beIN SPORTS News" tvg-logo="http://3.77.248.55:80/images/beinnews.jpg" tvg-name="beIN SPORTS News.qa"   group-title=" beIN SPORTS HD ",beIN SPORTS News
 http://3.77.248.55:80/iptv/iptv/27.m3u8
 
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-logo="http://3.77.248.55:80/images/bein1.png" tvg-name="beIN SPORTS 1.qa" group-title=" beIN SPORTS HD ",beIN SPORTS 01 HD
+#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-logo="http://3.77.248.55:80/images/bein1.png" tvg-name="beIN SPORTS 1.qa" group-title=" beIN SPORTS HD ",beIN SPORTS 1
 http://3.77.248.55:80/iptv/iptv/28.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-logo="http://3.77.248.55:80/images/bein2.png" tvg-name="beIN SPORTS 2.qa" group-title=" beIN SPORTS HD ",beIN SPORTS 2
 http://3.77.248.55:80/iptv/iptv/29.m3u8
@@ -42,6 +42,7 @@ http://3.77.248.55:80/iptv/iptv/36.m3u8
 http://3.77.248.55:80/iptv/iptv/37.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-logo="http://3.77.248.55:80/images/bein9.png" tvg-name="beIN SPORTS 9.qa" group-title=" beIN SPORTS HD ",beIN SPORTS 9
 http://3.77.248.55:80/iptv/iptv/38.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cne-eg.com/uploads/logos/2021114237606.png" tvg-name="beIN 4K.qa" group-title=" beIN SPORTS HD ",beIN 4K
 
 
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-logo="http://3.77.248.55:80/images/bein1.png" tvg-name="beIN SPORTS 1.qa" group-title="beIN SPORTS SD",beIN SPORTS 1
@@ -103,7 +104,7 @@ http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/457
 #EXTINF:-1 tvg-id=" " tvg-logo="https://imgur.com/NcoCTSl.png" tvg-name="beIN SPORTS 9.qa" group-title="beIN SPORTS [HVEC_H265]",beIN SPORTS 9 
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4003
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="beIN Sport Global.qa" group-title="beIN SPORTS [HD]",beIN Sport Global
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="beIN Sport.qa" group-title="beIN SPORTS [HD]",beIN Sport
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4336
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/WOwcw3U.png" tvg-name="beIN SPORTS News.qa" group-title="beIN SPORTS [HD]",beIN SPORTS News
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/2051
