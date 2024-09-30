@@ -26,23 +26,23 @@ http://3.77.248.55:80/iptv/iptv/37.m3u8
 http://3.77.248.55:80/iptv/iptv/38.m3u8
 
 
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-logo="http://3.77.248.55:80/images/bein1.png" tvg-name="beIN SPORTS 1.qa" group-title="beIN SPORTS SD",beIN SPORTS 1
+#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-logo="https://i.imgur.com/oXcVB0w.png" tvg-name="beIN SPORTS 1.qa" group-title=" beIN SPORTS [SD] ",beIN SPORTS 1
 http://3.77.248.55:80/iptv/iptv/30.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://3.77.248.55:80/images/bein2.png" tvg-name="beIN SPORTS 2.qa" group-title="beIN SPORTS SD",beIN SPORTS 2
+#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-logo="https://i.imgur.com/BKStyAH.png" tvg-name="beIN SPORTS 2.qa" group-title=" beIN SPORTS [SD] ",beIN SPORTS 2
 http://3.77.248.55:80/iptv/iptv/31.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://3.77.248.55:80/images/bein3.png" tvg-name="beIN SPORTS 3.qa" group-title="beIN SPORTS SD",beIN SPORTS 3
+#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-logo="https://i.imgur.com/d67jlhQ.png" tvg-name="beIN SPORTS 3.qa" group-title=" beIN SPORTS [SD] ",beIN SPORTS 3
 http://3.77.248.55:80/iptv/iptv/39.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://3.77.248.55:80/images/bein4.png" tvg-name="beIN SPORTS 4.qa" group-title="beIN SPORTS SD",beIN SPORTS 4
+#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-logo="https://i.imgur.com/4yhhDji.png" tvg-name="beIN SPORTS 4.qa" group-title=" beIN SPORTS [SD] ",beIN SPORTS 4
 http://3.77.248.55:80/iptv/iptv/40.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://3.77.248.55:80/images/bein5.png" tvg-name="beIN SPORTS 5.qa" group-title="beIN SPORTS SD",beIN SPORTS 5
+#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-logo="https://i.imgur.com/YO98VBL.png" tvg-name="beIN SPORTS 5.qa" group-title=" beIN SPORTS [SD] ",beIN SPORTS 5
 http://3.77.248.55:80/iptv/iptv/41.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://3.77.248.55:80/images/bein6.png" tvg-name="beIN SPORTS 6.qa" group-title="beIN SPORTS SD",beIN SPORTS 6
+#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-logo="https://i.imgur.com/UdybOm7.png" tvg-name="beIN SPORTS 6.qa" group-title=" beIN SPORTS [SD] ",beIN SPORTS 6
 http://3.77.248.55:80/iptv/iptv/42.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://3.77.248.55:80/images/bein7.png" tvg-name="beIN SPORTS 7.qa" group-title="beIN SPORTS SD",beIN SPORTS 7
+#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-logo="https://i.imgur.com/GFWlGfl.png " tvg-name="beIN SPORTS 7.qa" group-title=" beIN SPORTS [SD] ",beIN SPORTS 7
 http://3.77.248.55:80/iptv/iptv/43.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://3.77.248.55:80/images/bein8.png" tvg-name="beIN SPORTS 8.qa" group-title="beIN SPORTS SD",beIN SPORTS 8
+#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-logo="https://i.imgur.com/PIuF1IS.png" tvg-name="beIN SPORTS 8.qa" group-title=" beIN SPORTS [SD] ",beIN SPORTS 8
 http://3.77.248.55:80/iptv/iptv/44.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://3.77.248.55:80/images/bein9.png" tvg-name="beIN SPORTS 9.qa" group-title="beIN SPORTS SD",beIN SPORTS 9
+#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-logo="https://i.imgur.com/NcoCTSl.png" tvg-name="beIN SPORTS 9.qa" group-title=" beIN SPORTS [SD] ",beIN SPORTS 9
 http://3.77.248.55:80/iptv/iptv/45.m3u8
 
 
@@ -180,3 +180,4 @@ http://3.77.248.55:80/iptv/iptv/2.m3u8
 http://3.77.248.55:80/iptv/iptv/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://3.77.248.55:80/images/extra3.png" tvg-name="SSC-EXTRA 3 1080" group-title="SSC",SSC-EXTRA 3
 http://3.77.248.55:80/iptv/iptv/4.m3u8
+
