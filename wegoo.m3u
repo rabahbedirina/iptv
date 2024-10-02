@@ -4,9 +4,9 @@
 
 #EXTINF:-1 tvg-id="beIN SPORTS.qa" tvg-logo="https://i.imgur.com/whDZFrj.png" tvg-name="beIN SPORTS" group-title=" beIN SPORTS HD ",beIN SPORTS
 http://3.77.248.55:80/iptv/iptv/26.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS News" tvg-logo="https://i.imgur.com/m94OgQp.png" tvg-name="beIN SPORTS News.qa"   group-title=" beIN SPORTS HD ",beIN SPORTS News
+#EXTINF:-1 tvg-id="beIN SPORTS News" tvg-logo="https://i.imgur.com/m94OgQp.png" tvg-name="beIN SPORTS News" group-title=" beIN SPORTS HD ",beIN SPORTS News
 http://3.77.248.55:80/iptv/iptv/27.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-logo="https://i.imgur.com/oXcVB0w.png" tvg-name="beIN SPORTS 1" group-title=" beIN SPORTS HD ",beIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-logo="https://i.imgur.com/oXcVB0w.png" tvg-name="beIN SPORTS 1" group-title=" beIN SPORTS HD ",beIN SPORTS 1.qa
 http://3.77.248.55:80/iptv/iptv/28.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-logo="https://i.imgur.com/BKStyAH.png" tvg-name="beIN SPORTS 2" group-title=" beIN SPORTS HD ",beIN SPORTS 2
 http://3.77.248.55:80/iptv/iptv/29.m3u8
