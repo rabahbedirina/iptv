@@ -2,110 +2,111 @@
 
 #EXTINF:-1 tvg-id="beIN 4K.qa" tvg-logo="https://i.imgur.com/LOKTNg5.png " tvg-name="beIN 4K" group-title=" beIN SPORTS HD ",beIN 4K
 
-#EXTINF:-1 tvg-id="beIN SPORTS.qa" tvg-logo="https://i.imgur.com/whDZFrj.png" tvg-name="beIN SPORTS.qa" group-title=" beIN SPORTS HD ",beIN SPORTS
+#EXTINF:-1 tvg-id="beIN SPORTS.qa" tvg-logo="https://i.imgur.com/whDZFrj.png" tvg-name="beIN SPORTS" group-title=" beIN SPORTS HD ",beIN SPORTS
 http://3.77.248.55:80/iptv/iptv/26.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS News" tvg-logo="https://i.imgur.com/m94OgQp.png" tvg-name="beIN SPORTS News.qa"   group-title=" beIN SPORTS HD ",beIN SPORTS News
 http://3.77.248.55:80/iptv/iptv/27.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-logo="https://i.imgur.com/oXcVB0w.png" tvg-name="beIN SPORTS 1.qa" group-title=" beIN SPORTS HD ",beIN SPORTS 1
+#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-logo="https://i.imgur.com/oXcVB0w.png" tvg-name="beIN SPORTS 1" group-title=" beIN SPORTS HD ",beIN SPORTS 1 HD
 http://3.77.248.55:80/iptv/iptv/28.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-logo="https://i.imgur.com/BKStyAH.png" tvg-name="beIN SPORTS 2.qa" group-title=" beIN SPORTS HD ",beIN SPORTS 2
+#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-logo="https://i.imgur.com/BKStyAH.png" tvg-name="beIN SPORTS 2" group-title=" beIN SPORTS HD ",beIN SPORTS 2
 http://3.77.248.55:80/iptv/iptv/29.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-logo="https://i.imgur.com/d67jlhQ.png" tvg-name="beIN SPORTS 3.qa" group-title=" beIN SPORTS HD ",beIN SPORTS 3
+#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-logo="https://i.imgur.com/d67jlhQ.png" tvg-name="beIN SPORTS 3" group-title=" beIN SPORTS HD ",beIN SPORTS 3
 http://3.77.248.55:80/iptv/iptv/32.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-logo="https://i.imgur.com/4yhhDji.png" tvg-name="beIN SPORTS 4.qa" group-title=" beIN SPORTS HD ",beIN SPORTS 4
+#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-logo="https://i.imgur.com/4yhhDji.png" tvg-name="beIN SPORTS 4" group-title=" beIN SPORTS HD ",beIN SPORTS 4
 http://3.77.248.55:80/iptv/iptv/33.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-logo="https://i.imgur.com/YO98VBL.png" tvg-name="beIN SPORTS 5.qa" group-title=" beIN SPORTS HD ",beIN SPORTS 5
+#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-logo="https://i.imgur.com/YO98VBL.png" tvg-name="beIN SPORTS 5" group-title=" beIN SPORTS HD ",beIN SPORTS 5
 http://3.77.248.55:80/iptv/iptv/34.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-logo="https://i.imgur.com/UdybOm7.png" tvg-name="beIN SPORTS 6.qa" group-title=" beIN SPORTS HD ",beIN SPORTS 6
+#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-logo="https://i.imgur.com/UdybOm7.png" tvg-name="beIN SPORTS 6" group-title=" beIN SPORTS HD ",beIN SPORTS 6
 http://3.77.248.55:80/iptv/iptv/35.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-logo="https://i.imgur.com/GFWlGfl.png "tvg-name="beIN SPORTS 7.qa" group-title=" beIN SPORTS HD ",beIN SPORTS 7
+#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-logo="https://i.imgur.com/GFWlGfl.png "tvg-name="beIN SPORTS 7" group-title=" beIN SPORTS HD ",beIN SPORTS 7
 http://3.77.248.55:80/iptv/iptv/36.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-logo="https://i.imgur.com/PIuF1IS.png" tvg-name="beIN SPORTS 8.qa" group-title=" beIN SPORTS HD ",beIN SPORTS 8
+#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-logo="https://i.imgur.com/swxfdA3.png" tvg-name="beIN SPORTS 8" group-title=" beIN SPORTS HD ",beIN SPORTS 8
 http://3.77.248.55:80/iptv/iptv/37.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-logo="https://i.imgur.com/NcoCTSl.png" tvg-name="beIN SPORTS 9.qa" group-title=" beIN SPORTS HD ",beIN SPORTS 9
+#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-logo="https://i.imgur.com/r7T2nmz.png" tvg-name="beIN SPORTS 9" group-title=" beIN SPORTS HD ",beIN SPORTS 9
 http://3.77.248.55:80/iptv/iptv/38.m3u8
 
 
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-logo="https://i.imgur.com/oXcVB0w.png" tvg-name="beIN SPORTS 1.qa" group-title=" beIN SPORTS SD ",beIN SPORTS 1
+#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-logo="https://i.imgur.com/oXcVB0w.png" tvg-name="beIN SPORTS 1" group-title=" beIN SPORTS SD ",beIN SPORTS 1
 http://3.77.248.55:80/iptv/iptv/30.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-logo="https://i.imgur.com/BKStyAH.png" tvg-name="beIN SPORTS 2.qa" group-title=" beIN SPORTS SD ",beIN SPORTS 2
+#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-logo="https://i.imgur.com/BKStyAH.png" tvg-name="beIN SPORTS 2" group-title=" beIN SPORTS SD ",beIN SPORTS 2
 http://3.77.248.55:80/iptv/iptv/31.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-logo="https://i.imgur.com/d67jlhQ.png" tvg-name="beIN SPORTS 3.qa" group-title=" beIN SPORTS SD ",beIN SPORTS 3
+#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-logo="https://i.imgur.com/d67jlhQ.png" tvg-name="beIN SPORTS 3" group-title=" beIN SPORTS SD ",beIN SPORTS 3
 http://3.77.248.55:80/iptv/iptv/39.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-logo="https://i.imgur.com/4yhhDji.png" tvg-name="beIN SPORTS 4.qa" group-title=" beIN SPORTS SD ",beIN SPORTS 4
+#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-logo="https://i.imgur.com/4yhhDji.png" tvg-name="beIN SPORTS 4" group-title=" beIN SPORTS SD ",beIN SPORTS 4
 http://3.77.248.55:80/iptv/iptv/40.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-logo="https://i.imgur.com/YO98VBL.png" tvg-name="beIN SPORTS 5.qa" group-title=" beIN SPORTS SD ",beIN SPORTS 5
+#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-logo="https://i.imgur.com/YO98VBL.png" tvg-name="beIN SPORTS 5" group-title=" beIN SPORTS SD ",beIN SPORTS 5
 http://3.77.248.55:80/iptv/iptv/41.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-logo="https://i.imgur.com/UdybOm7.png" tvg-name="beIN SPORTS 6.qa" group-title=" beIN SPORTS SD ",beIN SPORTS 6
+#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-logo="https://i.imgur.com/UdybOm7.png" tvg-name="beIN SPORTS 6" group-title=" beIN SPORTS SD ",beIN SPORTS 6
 http://3.77.248.55:80/iptv/iptv/42.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-logo="https://i.imgur.com/GFWlGfl.png "tvg-name="beIN SPORTS 7.qa" group-title=" beIN SPORTS SD ",beIN SPORTS 7
+#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-logo="https://i.imgur.com/GFWlGfl.png "tvg-name="beIN SPORTS 7" group-title=" beIN SPORTS SD ",beIN SPORTS 7
 http://3.77.248.55:80/iptv/iptv/43.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-logo="https://i.imgur.com/PIuF1IS.png" tvg-name="beIN SPORTS 8.qa" group-title=" beIN SPORTS SD ",beIN SPORTS 8
+#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-logo="https://i.imgur.com/swxfdA3.png" tvg-name="beIN SPORTS 8" group-title=" beIN SPORTS SD ",beIN SPORTS 8
 http://3.77.248.55:80/iptv/iptv/44.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-logo="https://i.imgur.com/NcoCTSl.png" tvg-name="beIN SPORTS 9.qa" group-title=" beIN SPORTS SD ",beIN SPORTS 9
+#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-logo="https://i.imgur.com/r7T2nmz.png" tvg-name="beIN SPORTS 9" group-title=" beIN SPORTS SD ",beIN SPORTS 9
 http://3.77.248.55:80/iptv/iptv/45.m3u8
 
 
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-logo="https://i.imgur.com/oXcVB0w.png" tvg-name="beIN SPORTS 1.qa" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 1
+#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-logo="https://i.imgur.com/oXcVB0w.png" tvg-name="beIN SPORTS 1" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 1
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3221
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-logo="https://i.imgur.com/BKStyAH.png" tvg-name="beIN SPORTS 2.qa" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 2
+#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-logo="https://i.imgur.com/BKStyAH.png" tvg-name="beIN SPORTS 2" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 2
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3222
-#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-logo="https://i.imgur.com/d67jlhQ.png" tvg-name="beIN SPORTS 3.qa" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 3
+#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-logo="https://i.imgur.com/d67jlhQ.png" tvg-name="beIN SPORTS 3" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 3
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3224
-#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-logo="https://i.imgur.com/4yhhDji.png" tvg-name="beIN SPORTS 4.qa" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 4
+#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-logo="https://i.imgur.com/4yhhDji.png" tvg-name="beIN SPORTS 4" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 4
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3225
-#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-logo="https://i.imgur.com/YO98VBL.png" tvg-name="beIN SPORTS 5.qa" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 5
+#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-logo="https://i.imgur.com/YO98VBL.png" tvg-name="beIN SPORTS 5" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 5
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3226
-#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-logo="https://i.imgur.com/UdybOm7.png" tvg-name="beIN SPORTS 6.qa" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 6
+#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-logo="https://i.imgur.com/UdybOm7.png" tvg-name="beIN SPORTS 6" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 6
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3227
-#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-logo="https://i.imgur.com/GFWlGfl.png "tvg-name="beIN SPORTS 7.qa" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 7
+#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-logo="https://i.imgur.com/GFWlGfl.png "tvg-name="beIN SPORTS 7" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 7
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3228
-#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-logo="https://i.imgur.com/PIuF1IS.png" tvg-name="beIN SPORTS 8.qa" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 8
+#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-logo="https://i.imgur.com/swxfdA3.png" tvg-name="beIN SPORTS 8" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 8
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3230
-#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-logo="https://i.imgur.com/NcoCTSl.png" tvg-name="beIN SPORTS 9.qa" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 9
+#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-logo="https://i.imgur.com/r7T2nmz.png" tvg-name="beIN SPORTS 9" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 9
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4033
 
 
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-logo="https://i.imgur.com/6ErnOc1.png" tvg-name="beIN SPORTS 1" group-title="beIN SPORTS [HVEC_H265]",beIN SPORTS 1 
+#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-logo="https://i.imgur.com/oXcVB0w.png" tvg-name="beIN SPORTS 1" group-title=" beIN SPORTS [HEVC] ",beIN SPORTS 1
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/459
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-logo="https://i.imgur.com/mX4NA2Y.png" tvg-name="beIN SPORTS 2" group-title="beIN SPORTS [HVEC_H265]",beIN SPORTS 2 
+#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-logo="https://i.imgur.com/BKStyAH.png" tvg-name="beIN SPORTS 2" group-title=" beIN SPORTS [HEVC] ",beIN SPORTS 2
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/450
-#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-logo="https://i.imgur.com/NmtMNZ0.png" tvg-name="beIN SPORTS 3" group-title="beIN SPORTS [HVEC_H265]",beIN SPORTS 3 
+#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-logo="https://i.imgur.com/d67jlhQ.png" tvg-name="beIN SPORTS 3" group-title=" beIN SPORTS [HEVC] ",beIN SPORTS 3
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/451
-#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-logo="https://i.imgur.com/0at73XQ.png" tvg-name="beIN SPORTS 4" group-title="beIN SPORTS [HVEC_H265]",beIN SPORTS 4 
+#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-logo="https://i.imgur.com/4yhhDji.png" tvg-name="beIN SPORTS 4" group-title=" beIN SPORTS [HEVC] ",beIN SPORTS 4
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/453
-#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-logo="https://i.imgur.com/hULekso.png" tvg-name="beIN SPORTS 5" group-title="beIN SPORTS [HVEC_H265]",beIN SPORTS 5 
+#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-logo="https://i.imgur.com/YO98VBL.png" tvg-name="beIN SPORTS 5" group-title=" beIN SPORTS [HEVC] ",beIN SPORTS 5
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3875
-#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-logo="https://i.imgur.com/ssp2TaP.png" tvg-name="beIN SPORTS 6" group-title="beIN SPORTS [HVEC_H265]",beIN SPORTS 6 
+#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-logo="https://i.imgur.com/UdybOm7.png" tvg-name="beIN SPORTS 6" group-title=" beIN SPORTS [HEVC] ",beIN SPORTS 6
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/455
-#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-logo="https://i.imgur.com/pFJrvy7.png" tvg-name="beIN SPORTS 7" group-title="beIN SPORTS [HVEC_H265]",beIN SPORTS 7 
+#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-logo="https://i.imgur.com/GFWlGfl.png "tvg-name="beIN SPORTS 7" group-title=" beIN SPORTS [HEVC] ",beIN SPORTS 7
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4002
-#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-logo="https://i.imgur.com/PIuF1IS.png" tvg-name="beIN SPORTS 8" group-title="beIN SPORTS [HVEC_H265]",beIN SPORTS 8 
+#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-logo="https://i.imgur.com/swxfdA3.png" tvg-name="beIN SPORTS 8" group-title=" beIN SPORTS [HEVC] ",beIN SPORTS 8
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/457
-#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-logo="https://i.imgur.com/NcoCTSl.png" tvg-name="beIN SPORTS 9" group-title="beIN SPORTS [HVEC_H265]",beIN SPORTS 9 
+#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-logo="https://i.imgur.com/r7T2nmz.png" tvg-name="beIN SPORTS 9" group-title=" beIN SPORTS [HEVC] ",beIN SPORTS 9
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4003
 
-#EXTINF:-1 tvg-id="beIN Sport.qa" tvg-logo="https://i.imgur.com/whDZFrj.png" tvg-name="beIN Sport.qa" group-title="beIN SPORTS [HD]",beIN Sport
+
+#EXTINF:-1 tvg-id="beIN Sport.qa" tvg-logo="https://i.imgur.com/whDZFrj.png" tvg-name="beIN Sport" group-title="beIN SPORTS [HD]",beIN Sport
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4336
-#EXTINF:-1 tvg-id="beIN SPORTS News.qa" tvg-logo="https://i.imgur.com/WOwcw3U.png" tvg-name="beIN SPORTS News.qa" group-title="beIN SPORTS [HD]",beIN SPORTS News
+#EXTINF:-1 tvg-id="beIN SPORTS News.qa" tvg-logo="https://i.imgur.com/m94OgQp.png" tvg-name="beIN SPORTS News" group-title="beIN SPORTS [HD]",beIN SPORTS News
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/2051
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-logo="https://i.imgur.com/6ErnOc1.png" tvg-name="beIN SPORTS 1" group-title="beIN SPORTS [HD]",beIN SPORTS 1
+#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-logo="https://i.imgur.com/oXcVB0w.png" tvg-name="beIN SPORTS 1" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 1
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/46
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-logo="https://i.imgur.com/mX4NA2Y.png" tvg-name="beIN SPORTS 2" group-title="beIN SPORTS [HD]",beIN SPORTS 2
+#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-logo="https://i.imgur.com/BKStyAH.png" tvg-name="beIN SPORTS 2" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 2
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/47
-#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-logo="https://i.imgur.com/NmtMNZ0.png" tvg-name="beIN SPORTS 3" group-title="beIN SPORTS [HD]",beIN SPORTS 3
+#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-logo="https://i.imgur.com/d67jlhQ.png" tvg-name="beIN SPORTS 3" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 3
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/49
-#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-logo="https://i.imgur.com/0at73XQ.png" tvg-name="beIN SPORTS 4" group-title="beIN SPORTS [HD]",beIN SPORTS 4
+#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-logo="https://i.imgur.com/4yhhDji.png" tvg-name="beIN SPORTS 4" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 4
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/50
-#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-logo="https://i.imgur.com/hULekso.png" tvg-name="beIN SPORTS 5" group-title="beIN SPORTS [HD]",beIN SPORTS 5
+#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-logo="https://i.imgur.com/YO98VBL.png" tvg-name="beIN SPORTS 5" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 5
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/51
-#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-logo="https://i.imgur.com/ssp2TaP.png" tvg-name="beIN SPORTS 6" group-title="beIN SPORTS [HD]",beIN SPORTS 6
+#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-logo="https://i.imgur.com/UdybOm7.png" tvg-name="beIN SPORTS 6" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 6
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/52
-#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-logo="https://i.imgur.com/pFJrvy7.png" tvg-name="beIN SPORTS 7" group-title="beIN SPORTS [HD]",beIN SPORTS 7
+#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-logo="https://i.imgur.com/GFWlGfl.png "tvg-name="beIN SPORTS 7" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 7
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/53
-#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-logo="https://i.imgur.com/PIuF1IS.png" tvg-name="beIN SPORTS 8" group-title="beIN SPORTS [HD]",beIN SPORTS 8
+#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-logo="https://i.imgur.com/swxfdA3.png" tvg-name="beIN SPORTS 8" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 8
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/54
-#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-logo="https://i.imgur.com/NcoCTSl.png" tvg-name="beIN SPORTS 9" group-title="beIN SPORTS [HD]",beIN SPORTS 9
+#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-logo="https://i.imgur.com/r7T2nmz.png" tvg-name="beIN SPORTS 9" group-title=" beIN SPORTS [FHD] ",beIN SPORTS 9
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4034
 
 
@@ -115,23 +116,23 @@ http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3001
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4295
 #EXTINF:-1 tvg-id="beIN SPORTS 1 FR.qa" tvg-logo="https://i.imgur.com/MUYDHty.png" tvg-name="beIN SPORTS 1 FR" group-title="beIN SPORTS FRENCH",beIN SPORTS  FR 1
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3972
-#EXTINF:-1 tvg-id="beIN SPORTS 2 FR.qa" tvg-logo="" tvg-name="beIN SPORTS 2 FR.qa" group-title="beIN SPORTS FRENCH",beIN SPORTS FR 2
+#EXTINF:-1 tvg-id="beIN SPORTS 2 FR.qa" tvg-logo="" tvg-name="beIN SPORTS 2 FR" group-title="beIN SPORTS FRENCH",beIN SPORTS FR 2
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4296
-#EXTINF:-1 tvg-id="beIN SPORTS 3 FR.qa" tvg-logo="" tvg-name="beIN SPORTS 3 FR.qa" group-title="beIN SPORTS FRENCH",beIN SPORTS FR 3
+#EXTINF:-1 tvg-id="beIN SPORTS 3 FR.qa" tvg-logo="" tvg-name="beIN SPORTS 3 FR" group-title="beIN SPORTS FRENCH",beIN SPORTS FR 3
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4297
 
 
-#EXTINF:-1 tvg-id="beIN Movies 1 HD.qa" tvg-logo="https://i.imgur.com/OPbIjAP.png" tvg-name="beIN Movies 1 HD.qa" group-title="beIN Entertainment",beIN Movies 1 HD
+#EXTINF:-1 tvg-id="beIN Movies 1 HD.qa" tvg-logo="https://i.imgur.com/OPbIjAP.png" tvg-name="beIN Movies 1 HD" group-title="beIN Entertainment",beIN Movies 1 HD
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/24
-#EXTINF:-1 tvg-id="beIN Movies 2 HD.qa" tvg-logo="https://i.imgur.com/sHC8Z1c.png" tvg-name="beIN Movies 2 HD.qa" group-title="beIN Entertainment",beIN Movies 2 HD
+#EXTINF:-1 tvg-id="beIN Movies 2 HD.qa" tvg-logo="https://i.imgur.com/sHC8Z1c.png" tvg-name="beIN Movies 2 HD" group-title="beIN Entertainment",beIN Movies 2 HD
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/17
-#EXTINF:-1 tvg-id="beIN Movies 3 HD.qa" tvg-logo="https://i.imgur.com/QbXsaCp.png" tvg-name="beIN Movies 3 HD.qa" group-title="beIN Entertainment",beIN Movies 3 HD
+#EXTINF:-1 tvg-id="beIN Movies 3 HD.qa" tvg-logo="https://i.imgur.com/QbXsaCp.png" tvg-name="beIN Movies 3 HD" group-title="beIN Entertainment",beIN Movies 3 HD
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/18
 #EXTINF:-1 tvg-id="beIN Movies 4 HD.qa" tvg-logo="https://i.imgur.com/ZDzHmlQ.png" tvg-name="beIN Movies 4 HD.qa " group-title="beIN Entertainment",beIN Movies 4 HD
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/19
-#EXTINF:-1 tvg-id="beIN Series 1 HD.qa" tvg-logo="https://i.imgur.com/72v3gp5.png" tvg-name="beIN Series 1 HD.qa" group-title="beIN Entertainment",beIN Series 1 HD
+#EXTINF:-1 tvg-id="beIN Series 1 HD.qa" tvg-logo="https://i.imgur.com/72v3gp5.png" tvg-name="beIN Series 1 HD" group-title="beIN Entertainment",beIN Series 1 HD
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/20
-#EXTINF:-1 tvg-id="beIN Series 2 HD.qa" tvg-logo="https://i.imgur.com/xjKmNsp.png" tvg-name="beIN Series 2 HD.qa" group-title="beIN Entertainment",beIN Series 2 HD
+#EXTINF:-1 tvg-id="beIN Series 2 HD.qa" tvg-logo="https://i.imgur.com/xjKmNsp.png" tvg-name="beIN Series 2 HD" group-title="beIN Entertainment",beIN Series 2 HD
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/21
 
 
