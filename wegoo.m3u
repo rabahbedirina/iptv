@@ -108,19 +108,46 @@ http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/53
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/54
 #EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-logo="https://i.imgur.com/r7T2nmz.png" tvg-name="beIN SPORTS 9" group-title=" beIN SPORTS [HD] ",beIN SPORTS 9
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4034
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA 1.qa" tvg-name="beIN SPORTS XTRA 1" tvg-logo="https://i.imgur.com/b58JXXd.png" group-title="beIN SPORTS [HD]",beIN SPORTS XTRA 1
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4095
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA 2.qa" tvg-name="beIN SPORTS XTRA 2" tvg-logo="https://i.imgur.com/ucKlqI8.png" group-title="beIN SPORTS [HD]",beIN SPORTS XTRA 2
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4096
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA 3.qa" tvg-name="beIN SPORTS XTRA 3" tvg-logo="https://i.imgur.com/ucKlqI.png" group-title="beIN SPORTS [HD]",beIN SPORTS XTRA 3
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4299
 
 
 #EXTINF:-1 tvg-id="beIN SPORTS 1 EN.qa" tvg-logo="https://i.imgur.com/Z03QVfY.png" tvg-name="beIN SPORTS 1 EN" group-title="beIN SPORTS ENGLISH",beIN SPORTS  EN 1
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3001
 #EXTINF:-1 tvg-id="beIN SPORTS 2 EN.qa" tvg-logo="https://i.imgur.com/Z03QVfY.png" tvg-name="beIN SPORTS 2 EN" group-title="beIN SPORTS ENGLISH",beIN SPORTS EN 2
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4295
+
+
 #EXTINF:-1 tvg-id="beIN SPORTS 1 FR.qa" tvg-logo="https://i.imgur.com/MUYDHty.png" tvg-name="beIN SPORTS 1 FR" group-title="beIN SPORTS FRENCH",beIN SPORTS  FR 1
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3972
-#EXTINF:-1 tvg-id="beIN SPORTS 2 FR.qa" tvg-logo="" tvg-name="beIN SPORTS 2 FR" group-title="beIN SPORTS FRENCH",beIN SPORTS FR 2
+#EXTINF:-1 tvg-id="beIN SPORTS 2 FR.qa" tvg-logo="https://i.imgur.com/dLz4uc9.png" tvg-name="beIN SPORTS 2 FR" group-title="beIN SPORTS FRENCH",beIN SPORTS FR 2
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4296
-#EXTINF:-1 tvg-id="beIN SPORTS 3 FR.qa" tvg-logo="" tvg-name="beIN SPORTS 3 FR" group-title="beIN SPORTS FRENCH",beIN SPORTS FR 3
+#EXTINF:-1 tvg-id="beIN SPORTS 3 FR.qa" tvg-logo="https://i.imgur.com/HH7jaY1.png" tvg-name="beIN SPORTS 3 FR" group-title="beIN SPORTS FRENCH",beIN SPORTS FR 3
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4297
-
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://i.imgur.com/6iyOubH.png" group-title="beIN SPORTS FRENCH",BEIN SPORTS 1 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1077
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://i.imgur.com/dLz4uc9.png" group-title="beIN SPORTS FRENCH",BEIN SPORTS 2 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1078
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://i.imgur.com/HH7jaY1.png" group-title="beIN SPORTS FRENCH",BEIN SPORTS 3 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1079
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 4 HD" tvg-logo="https://i.imgur.com/Q5nEGKi.png" group-title="beIN SPORTS FRENCH",BEIN MAX 4 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1080
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 5 HD" tvg-logo="https://i.imgur.com/Wi49qJL.png" group-title="beIN SPORTS FRENCH",BEIN MAX 5 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1081
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 6 HD" tvg-logo="https://i.imgur.com/vRSkwQj.png" group-title="beIN SPORTS FRENCH",BEIN MAX 6 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1082
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 7 HD" tvg-logo="" group-title="beIN SPORTS FRENCH",BEIN MAX 7 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1083
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 8 HD" tvg-logo="" group-title="beIN SPORTS FRENCH",BEIN MAX 8 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1084
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 9 HD" tvg-logo="" group-title="beIN SPORTS FRENCH",BEIN MAX 9 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1085
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 10 HD" tvg-logo="" group-title="beIN SPORTS FRENCH",BEIN MAX 10 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1086
 
 #EXTINF:-1 tvg-id="beIN Movies 1 HD.qa" tvg-logo="https://i.imgur.com/OPbIjAP.png" tvg-name="beIN Movies 1 HD" group-title="beIN Entertainment",beIN Movies 1 HD
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/24
@@ -134,6 +161,12 @@ http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/19
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/20
 #EXTINF:-1 tvg-id="beIN Series 2 HD.qa" tvg-logo="https://i.imgur.com/xjKmNsp.png" tvg-name="beIN Series 2 HD" group-title="beIN Entertainment",beIN Series 2 HD
 http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/21
+#EXTINF:-1 tvg-id="beIN BOXOFFICE HD1.qa" tvg-name="beIN BOXOFFICE HD1" tvg-logo="https://i.imgur.com/j6Lfjrs.png" group-title="beIN Entertainment",beIN BOXOFFICE HD1
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3276
+#EXTINF:-1 tvg-id="beIN BOXOFFICE HD2.qa" tvg-name="beIN BOXOFFICE HD2" tvg-logo="https://i.imgur.com/Fh00ssL.png" group-title="beIN Entertainment",beIN BOXOFFICE HD2
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4363
+#EXTINF:-1 tvg-id="beIN BOXOFFICE HD3.qa" tvg-name="beIN BOXOFFICE HD3" tvg-logo="https://i.imgur.com/Fh00ssL.png" group-title="beIN Entertainment",beIN BOXOFFICE HD3
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4364
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://3.77.248.55:80/images/sscnews.jpg" tvg-name="SSC-NEWS" group-title="SSC",SSC-NEWS
@@ -155,3 +188,155 @@ http://3.77.248.55:80/iptv/iptv/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://3.77.248.55:80/images/extra3.png" tvg-name="SSC-EXTRA 3 1080" group-title="SSC",SSC-EXTRA 3
 http://3.77.248.55:80/iptv/iptv/4.m3u8
 
+
+#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="beIN SPORTS NBA " tvg-logo="https://i.imgur.com/rkG4f3c.png" group-title="beIN SPORTS [HD]",beIN SPORTS NBA 
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3973
+#EXTINF:-1 tvg-id="beIN SPORTS AFC.qa" tvg-name="beIN SPORTS AFC " tvg-logo="" group-title="Bein AFC",beIN SPORTS AFC 
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4300
+#EXTINF:-1 tvg-id="beIN SPORTS AFC 1.qa" tvg-name="beIN SPORTS AFC 1" tvg-logo="" group-title="Bein AFC",beIN SPORTS AFC 1
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4301
+#EXTINF:-1 tvg-id="beIN SPORTS AFC 2.qa" tvg-name="beIN SPORTS AFC 2" tvg-logo="" group-title="Bein AFC",beIN SPORTS AFC 2
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4302
+#EXTINF:-1 tvg-id="beIN SPORTS AFC 3.qa" tvg-name="beIN SPORTS AFC 3  " tvg-logo="" group-title="Bein AFC",beIN SPORTS AFC 3  
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4303
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 1 (1080p)" tvg-logo="" group-title="SSC Sports",SSC SPORT 1 (1080p)
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4119
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 2 (1080p)" tvg-logo="" group-title="SSC Sports",SSC SPORT 2 (1080p)
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4120
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sport 3 (1080p)" tvg-logo="" group-title="SSC Sports",SSC Sport 3 (1080p)
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4239
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 4 (1080p)" tvg-logo="" group-title="SSC Sports",SSC SPORT 4 (1080p)
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4124
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 5 (1080p)" tvg-logo="" group-title="SSC Sports",SSC SPORT 5 (1080p)
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4126
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 1 (1080p)" tvg-logo="" group-title="SSC Sports",SSC Extra 1 (1080p)
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4128
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 2 (1080p)" tvg-logo="" group-title="SSC Sports",SSC Extra 2 (1080p)
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4130
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 3 (1080p)" tvg-logo="" group-title="SSC Sports",SSC Extra 3 (1080p)
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4234
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 1 HD" tvg-logo="" group-title="AD Sports,AD Sport Premium 1 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4040
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 2 HD " tvg-logo="" group-title="AD Sports,AD Sport Premium 2 HD 
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4041
+#EXTINF:-1 tvg-id="" tvg-name="AD ASIA 1" tvg-logo="" group-title="SSC Sports",AD ASIA 1
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4360
+#EXTINF:-1 tvg-id="" tvg-name="AD ASIA 2" tvg-logo="" group-title="SSC Sports",AD ASIA 2
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4361
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1" tvg-logo="" group-title="World Sports",Arena Sport 1
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1465
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2" tvg-logo="" group-title="World Sports",Arena Sport 2
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1466
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3" tvg-logo="" group-title="World Sports",Arena Sport 3
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1467
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4" tvg-logo="" group-title="World Sports",Arena Sport 4
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1468
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5" tvg-logo="" group-title="World Sports",Arena Sport 5
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1469
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1" tvg-logo="" group-title="World Sports",ARENA SPORT 1
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4331
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2" tvg-logo="" group-title="World Sports",ARENA SPORT 2
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4332
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3" tvg-logo="" group-title="World Sports",ARENA SPORT 3
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4333
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 " tvg-logo="" group-title="World Sports",ARENA SPORT 4 
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4334
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 5" tvg-logo="" group-title="World Sports",ARENA SPORT 5
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4335
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV " tvg-logo="" group-title="World Sports",Sport TV 
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/2165
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 HD " tvg-logo="" group-title="World Sports",Sport TV 1 HD 
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/2166
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 HD " tvg-logo="" group-title="World Sports",Sport TV 2 HD 
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/2167
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3 HD " tvg-logo="" group-title="World Sports",Sport TV 3 HD 
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/2168
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4 HD " tvg-logo="" group-title="World Sports",Sport TV 4 HD 
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/2169
+#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 5 HD " tvg-logo="" group-title="World Sports", Sport TV 5 HD 
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/2170
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORT 1 HD" tvg-logo="" group-title="World Sports",BT SPORT 1 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/2840
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Action HD" tvg-logo="" group-title="World Sports",SuperSport Action HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3060
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport variety 3" tvg-logo="" group-title="World Sports",SuperSport variety 3
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3061
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Football HD" tvg-logo="http://logo.streamstv.me/picon/AFSuperSport3.png" group-title="World Sports",SuperSport Football HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3062
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport LaLiga" tvg-logo="" group-title="World Sports",SuperSport LaLiga
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3064
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Grandstand FHD" tvg-logo="" group-title="World Sports",SuperSport Grandstand FHD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3065
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport wwe" tvg-logo="" group-title="World Sports",SuperSport wwe
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3067
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport football" tvg-logo="" group-title="World Sports",SuperSport football
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3069
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 4HD" tvg-logo="" group-title="World Sports",SuperSport Variety 4HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3070
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="" group-title="World Sports",ELEVEN SPORTS 1 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3279
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="" group-title="World Sports",ELEVEN SPORTS 2 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3280
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="" group-title="World Sports",ELEVEN SPORTS 3 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3281
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="" group-title="World Sports",ELEVEN SPORTS 4 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3282
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1 HD" tvg-logo="" group-title="France",RMC SPORT 1 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1073
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 2 HD" tvg-logo="" group-title="France",RMC SPORT 2 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1074
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3 HD" tvg-logo="" group-title="France",RMC SPORT 3 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1075
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 4 HD" tvg-logo="" group-title="France",RMC SPORT 4 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1076
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="" group-title="France",CANAL+ SPORT 1 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4355
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2 HD" tvg-logo="" group-title="France",CANAL+ SPORT 2 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4356
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 3 HD" tvg-logo="" group-title="France",CANAL+ SPORT 3 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4357
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4 HD" tvg-logo="" group-title="France",CANAL+ SPORT 4 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4358
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 5 HD" tvg-logo="" group-title="France",CANAL+ SPORT 5 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/4359
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="" group-title="Spain",DAZN 1
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3470
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="" group-title="Spain",DAZN 2
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3471
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="" group-title="Spain",DAZN 3 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3816
+#EXTINF:-1 tvg-id="" tvg-name="ES DAZN 4 HD" tvg-logo="" group-title="Spain",ES DAZN 4 HD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/3817
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1  FHD" tvg-logo="" group-title="Germany ",DAZN 1  FHD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1242
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="" group-title="Germany ",DAZN 1 FHD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1243
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2  FHD" tvg-logo="" group-title="Germany ",DAZN 2  FHD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1244
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD" tvg-logo="" group-title="Germany ",DAZN 2 FHD
+http://ugeen.live:8080/Ugeen_VIPm8Fiud/7HP605/1245
