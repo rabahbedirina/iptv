@@ -8,7 +8,7 @@ http://3.77.248.55:80/iptv/iptv/26.m3u8
 http://3.77.248.55:80/iptv/iptv/27.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-logo="https://i.imgur.com/8Rz6uZP.png" tvg-name="beIN SPORTS 1" group-title=" beIN SPORTS HD ",beIN SPORTS 1
 http://3.77.248.55:80/iptv/iptv/28.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-logo="https://i.imgur.com/BKStyAH.png" tvg-name="beIN SPORTS 2" group-title=" beIN SPORTS HD ",beIN SPORTS 2
+#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-logo="https://i.imgur.com/8tdadUF.png" tvg-name="beIN SPORTS 2" group-title=" beIN SPORTS HD ",beIN SPORTS 2
 http://3.77.248.55:80/iptv/iptv/29.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-logo="https://i.imgur.com/d67jlhQ.png" tvg-name="beIN SPORTS 3" group-title=" beIN SPORTS HD ",beIN SPORTS 3
 http://3.77.248.55:80/iptv/iptv/32.m3u8
